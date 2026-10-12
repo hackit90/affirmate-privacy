@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <meta name="description" content="Privacy &amp; support: AffirMate, Swisswise GmbH.">
+  <title>Privacy policy (hu) | AffirMate</title>
+  <style>
+:root {
+  color-scheme: light;
+  --paper: #f6f4ed;
+  --panel: #fffef9;
+  --ink: #23352c;
+  --muted: #526052;
+  --green: #294f3b;
+  --line: #9ca792;
+  --wash: #e8eddf;
+  --focus: #804519;
+  font-family: "Avenir Next", "Trebuchet MS", sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+}
+* { box-sizing: border-box; }
+html { scroll-padding-block-start: 1rem; }
+body {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.75;
+  background: radial-gradient(ellipse at 100% 0, #e5ebdc, transparent 42rem), var(--paper);
+}
+a { color: var(--green); text-decoration-thickness: .09em; text-underline-offset: .22em; overflow-wrap: anywhere; }
+a:hover { text-decoration-thickness: .15em; }
+a:focus, [tabindex="-1"]:focus { outline: 3px solid var(--focus); outline-offset: 4px; }
+h1, h2, h3, p, li { overflow-wrap: anywhere; }
+h1, h2, h3 { font-family: Baskerville, "Palatino Linotype", "Book Antiqua", serif; font-weight: 500; line-height: 1.18; }
+h1 { font-size: clamp(2.35rem, 6vw, 4.4rem); letter-spacing: -.03em; margin-block: .5rem 1.25rem; max-width: 18ch; }
+html[lang|="de"] h1 { hyphens: auto; }
+h2 { font-size: 1.85rem; margin-block: 0 1rem; }
+h3 { font-size: 1.4rem; }
+p { margin-block: 0 1.1rem; }
+ul, ol { padding-inline-start: 1.4rem; }
+li + li { margin-block-start: .45rem; }
+address { font-style: normal; }
+time { white-space: nowrap; }
+.frame { width: min(100%, 76rem); margin-inline: auto; padding-inline: clamp(1rem, 4.5vw, 4rem); }
+.masthead { border-block-start: .35rem solid var(--green); border-block-end: 1px solid var(--line); }
+.masthead .frame { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .35rem 2rem; padding-block: 1rem; }
+.brand { font-family: Baskerville, "Palatino Linotype", serif; font-size: 1.8rem; text-decoration: none; display: inline-flex; flex-wrap: wrap; align-items: center; min-height: 44px; max-width: 100%; }
+.brand small { font-family: "Avenir Next", "Trebuchet MS", sans-serif; font-size: .7rem; letter-spacing: .06em; margin-inline-start: .9rem; }
+nav { display: flex; flex-wrap: wrap; gap: .25rem 1.25rem; }
+nav a, .button, .toc a, .footer-link { display: inline-flex; align-items: center; min-height: 44px; }
+nav a[aria-current] { text-decoration-thickness: .18em; font-weight: 700; }
+.hero { padding-block: clamp(2rem, 6vw, 5rem) 2.5rem; }
+.eyebrow { font-size: .78rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
+.lede { max-width: 57ch; font-size: 1.18rem; line-height: 1.7; }
+.meta { font-size: .9rem; color: var(--muted); }
+.notice { max-width: 66ch; border-inline-start: 3px solid var(--green); padding: .8rem 1rem; background: var(--wash); font-size: .93rem; }
+.layout { display: grid; grid-template-columns: minmax(0, 14rem) minmax(0, 1fr); gap: 3.5rem; padding-block-end: 4rem; }
+.toc { border-block-start: 1px solid var(--line); padding-block-start: 1rem; align-self: start; }
+.toc h2 { font: 700 .78rem/1.6 "Avenir Next", "Trebuchet MS", sans-serif; letter-spacing: .08em; text-transform: uppercase; }
+.toc ol { list-style: none; margin: 0; padding: 0; counter-reset: contents; }
+.toc li { counter-increment: contents; margin: 0; }
+.toc a { display: flex; gap: .8rem; text-decoration: none; padding-block: .25rem; line-height: 1.5; }
+.toc a::before { content: counter(contents, decimal-leading-zero); font-size: .73rem; color: var(--muted); flex-shrink: 0; }
+.toc a:hover { text-decoration: underline; }
+article { min-width: 0; max-width: 66ch; }
+.policy-section, .support-section { border-block-start: 1px solid var(--line); padding-block: 2rem .8rem; }
+.policy-body { white-space: pre-line; }
+.note-block { padding: 1.35rem; border: 1px solid var(--line); background: var(--panel); margin-block: 1rem 2rem; }
+.note-block h2 { font-size: 1.5rem; }
+.note-block p:last-child { margin-block-end: 0; }
+.actions { display: flex; flex-wrap: wrap; gap: .65rem; margin-block: 1.75rem; }
+.button { padding: .65rem 1.25rem; border: 1px solid var(--green); background: var(--green); color: var(--panel); border-radius: .15rem; text-decoration: none; font-weight: 600; }
+.button.secondary { background: transparent; color: var(--green); }
+.overview { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.5rem; margin-block: 2rem 3rem; }
+.overview section { border-block-start: 2px solid var(--green); padding-block-start: 1.4rem; }
+.overview h2 { font-size: 1.65rem; }
+.landing { padding-block-end: 3rem; }
+.languages { display: flex; flex-wrap: wrap; gap: .25rem 1.2rem; margin-block: 1rem; }
+.languages a { display: inline-flex; align-items: center; min-height: 44px; }
+footer { border-block-start: 1px solid var(--line); padding-block: 2rem; font-size: .9rem; color: var(--muted); }
+footer p { margin-block-end: .4rem; }
+.skip { position: absolute; inset-block-start: .75rem; inset-inline-start: .75rem; padding: .7rem 1rem; background: var(--panel); z-index: 10; transform: translateY(-200%); }
+.skip:focus { transform: none; }
+@media (max-width: 55rem) {
+  .layout { grid-template-columns: minmax(0, 1fr); gap: 1.75rem; }
+  .toc ol { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .25rem 1rem; }
+  .overview { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 30rem) {
+  .toc ol { grid-template-columns: minmax(0, 1fr); }
+  .brand small { display: block; }
+  .actions { flex-direction: column; align-items: start; }
+  h2 { font-size: 1.65rem; }
+}
+@media (prefers-contrast: more) { :root { --muted: #23352c; --line: #526052; } }
+@media (forced-colors: active) { .button, .note-block, .notice { border: 1px solid CanvasText; } }
+@media print {
+  :root { background: #fff; color: #000; }
+  body { background: #fff; }
+  .frame { width: 100%; padding: 0; }
+  nav, .skip, .toc, .actions { display: none; }
+  .layout { display: block; }
+  .hero { padding-block: 1rem; }
+  article { max-width: none; }
+  .policy-section, .support-section { break-inside: avoid; }
+  a { color: #000; }
+}
+
+  </style>
+</head>
+<body>
+  <a class="skip" href="#main" lang="en">Skip to main content</a>
+  <header class="masthead" lang="en">
+    <div class="frame">
+      <a class="brand" href="index.html">AffirMate <small>SWISSWISE GMBH</small></a>
+      <nav aria-label="Main navigation"><a href="privacy-policy-hu.html" aria-current="page">Privacy policy</a><a href="support-en.html">Support</a></nav>
+    </div>
+  </header>
+  <main id="main" class="frame" tabindex="-1">
+    <header class="hero" lang="en">
+      <p class="eyebrow">AffirMate / Swisswise GmbH</p>
+      <h1>Privacy policy (hu)</h1>
+      <p class="meta" lang="en">Policy text: hu. Navigation and support: English.</p>
+      <p class="notice" lang="en">Machine-translated policy. Automated checks only; native-speaker, human and legal review have not been performed.</p>
+      <p class="lede">Your words are personal. Here is how AffirMate handles them, what stays on your device, and what changes when you choose to share.</p>
+      <p class="meta">Policy effective date: <time datetime="2026-10-11">2026-10-11</time></p>
+      <nav class="languages" aria-label="Policy languages"><a href="privacy-policy-en.html" lang="en" hreflang="en">English</a>
+<a href="privacy-policy-de.html" lang="de" hreflang="de">Deutsch</a>
+<a href="privacy-policy-ar-SA.html" lang="ar-SA" hreflang="ar-SA">ar-SA</a>
+<a href="privacy-policy-bn-BD.html" lang="bn-BD" hreflang="bn-BD">bn-BD</a>
+<a href="privacy-policy-ca.html" lang="ca" hreflang="ca">ca</a>
+<a href="privacy-policy-zh-Hans.html" lang="zh-Hans" hreflang="zh-Hans">zh-Hans</a>
+<a href="privacy-policy-zh-Hant.html" lang="zh-Hant" hreflang="zh-Hant">zh-Hant</a>
+<a href="privacy-policy-hr.html" lang="hr" hreflang="hr">hr</a>
+<a href="privacy-policy-cs.html" lang="cs" hreflang="cs">cs</a>
+<a href="privacy-policy-da.html" lang="da" hreflang="da">da</a>
+<a href="privacy-policy-nl-NL.html" lang="nl-NL" hreflang="nl-NL">nl-NL</a>
+<a href="privacy-policy-en-AU.html" lang="en-AU" hreflang="en-AU">en-AU</a>
+<a href="privacy-policy-en-CA.html" lang="en-CA" hreflang="en-CA">en-CA</a>
+<a href="privacy-policy-en-GB.html" lang="en-GB" hreflang="en-GB">en-GB</a>
+<a href="privacy-policy-en-US.html" lang="en-US" hreflang="en-US">en-US</a>
+<a href="privacy-policy-fi.html" lang="fi" hreflang="fi">fi</a>
+<a href="privacy-policy-fr-FR.html" lang="fr-FR" hreflang="fr-FR">fr-FR</a>
+<a href="privacy-policy-fr-CA.html" lang="fr-CA" hreflang="fr-CA">fr-CA</a>
+<a href="privacy-policy-de-DE.html" lang="de-DE" hreflang="de-DE">de-DE</a>
+<a href="privacy-policy-el.html" lang="el" hreflang="el">el</a>
+<a href="privacy-policy-gu-IN.html" lang="gu-IN" hreflang="gu-IN">gu-IN</a>
+<a href="privacy-policy-he.html" lang="he" hreflang="he">he</a>
+<a href="privacy-policy-hi.html" lang="hi" hreflang="hi">hi</a>
+<a href="privacy-policy-hu.html" lang="hu" hreflang="hu">hu</a>
+<a href="privacy-policy-id.html" lang="id" hreflang="id">id</a>
+<a href="privacy-policy-it.html" lang="it" hreflang="it">it</a>
+<a href="privacy-policy-ja.html" lang="ja" hreflang="ja">ja</a>
+<a href="privacy-policy-kn-IN.html" lang="kn-IN" hreflang="kn-IN">kn-IN</a>
+<a href="privacy-policy-ko.html" lang="ko" hreflang="ko">ko</a>
+<a href="privacy-policy-ms.html" lang="ms" hreflang="ms">ms</a>
+<a href="privacy-policy-ml-IN.html" lang="ml-IN" hreflang="ml-IN">ml-IN</a>
+<a href="privacy-policy-mr-IN.html" lang="mr-IN" hreflang="mr-IN">mr-IN</a>
+<a href="privacy-policy-no.html" lang="no" hreflang="no">no</a>
+<a href="privacy-policy-or-IN.html" lang="or-IN" hreflang="or-IN">or-IN</a>
+<a href="privacy-policy-pl.html" lang="pl" hreflang="pl">pl</a>
+<a href="privacy-policy-pt-BR.html" lang="pt-BR" hreflang="pt-BR">pt-BR</a>
+<a href="privacy-policy-pt-PT.html" lang="pt-PT" hreflang="pt-PT">pt-PT</a>
+<a href="privacy-policy-pa-IN.html" lang="pa-IN" hreflang="pa-IN">pa-IN</a>
+<a href="privacy-policy-ro.html" lang="ro" hreflang="ro">ro</a>
+<a href="privacy-policy-ru.html" lang="ru" hreflang="ru">ru</a>
+<a href="privacy-policy-sk.html" lang="sk" hreflang="sk">sk</a>
+<a href="privacy-policy-sl-SI.html" lang="sl-SI" hreflang="sl-SI">sl-SI</a>
+<a href="privacy-policy-es-MX.html" lang="es-MX" hreflang="es-MX">es-MX</a>
+<a href="privacy-policy-es-ES.html" lang="es-ES" hreflang="es-ES">es-ES</a>
+<a href="privacy-policy-sv.html" lang="sv" hreflang="sv">sv</a>
+<a href="privacy-policy-ta-IN.html" lang="ta-IN" hreflang="ta-IN">ta-IN</a>
+<a href="privacy-policy-te-IN.html" lang="te-IN" hreflang="te-IN">te-IN</a>
+<a href="privacy-policy-th.html" lang="th" hreflang="th">th</a>
+<a href="privacy-policy-tr.html" lang="tr" hreflang="tr">tr</a>
+<a href="privacy-policy-uk.html" lang="uk" hreflang="uk">uk</a>
+<a href="privacy-policy-ur-PK.html" lang="ur-PK" hreflang="ur-PK">ur-PK</a>
+<a href="privacy-policy-vi.html" lang="vi" hreflang="vi">vi</a></nav>
+    </header>
+<div class="layout"><nav class="toc" aria-label="On this page" lang="en"><div><h2>On this page</h2><ol><li><a href="#owner" lang="hu">Kiadó</a></li><li><a href="#local" lang="hu">Az adataid helyben maradnak</a></li><li><a href="#widgets" lang="hu">Widgetek és értesítések</a></li><li><a href="#photos" lang="hu">Fotók és megosztás</a></li><li><a href="#apple" lang="hu">Apple és vásárlások</a></li><li><a href="#delete" lang="hu">Megőrzés és törlés</a></li><li><a href="#wellbeing" lang="hu">A te gyakorlatod, a te választásod</a></li><li><a href="#contact" lang="hu">Kérdések és változások</a></li></ol></div></nav><article lang="hu"><section class="policy-section" aria-labelledby="owner"><h2 id="owner">Kiadó</h2><p class="policy-body">Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland
+<a href="mailto:support@swisswise.com">support@swisswise.com</a>
+CHE-157.478.799</p></section>
+<section class="policy-section" aria-labelledby="local"><h2 id="local">Az adataid helyben maradnak</h2><p class="policy-body">Az AffirMate-ben nincs fiók, az alkalmazás által működtetett szerver, reklám vagy követés. Az alkalmazás a választható nevedet, beállításaidat, kedvenceidet, személyes megerősítéseidet, naplóbejegyzéseidet, piszkozataidat, hangulatbejegyzéseidet és kiválasztott képeidet helyben, az iPhone-odon tárolja. Ezt a tartalmat nem kapjuk meg. Az alkalmazás nem tölt fel írásokat vagy képeket MI-szolgáltatásba. A megerősítések, illusztrációk és hangszeres zenék az alkalmazás részei.</p></section>
+<section class="policy-section" aria-labelledby="widgets"><h2 id="widgets">Widgetek és értesítések</h2><p class="policy-body">Az alkalmazás és a widget egy védett, helyi alkalmazáscsoport-tárolót használ közösen. A widgetek alapértelmezés szerint a mellékelt napi gondolatokat mutatják. Ha kedvenceket vagy személyes szavakat választasz forrásként, ez a szöveg látható lehet a főképernyődön vagy a zárolási képernyődön. Napló- és hangulatbejegyzések soha nem jelennek meg widgetben. A helyi emlékeztetők nem tartalmaznak magánírásokat. Az értesítések választhatók, és az alkalmazásban vagy az iOS Beállításokban kikapcsolhatók.</p></section>
+<section class="policy-section" aria-labelledby="photos"><h2 id="photos">Fotók és megosztás</h2><p class="policy-body">Az egyéni hátterek az iOS fotóválasztóját használják. Az alkalmazás csak a kiválasztott képet importálja, és csökkentett felbontású helyi másolatot készít az eredeti fotó metaadatai nélkül. Az alkotás mentése fotók hozzáadására kér engedélyt, nem általános könyvtárhozzáférésre. Az importált háttér eltávolítása nem módosítja az eredetit a Fotókban. Megosztás és fájlexportálás csak a kérésedre történik; utána a választott szolgáltatás vagy célhely kezeli a megosztott másolatot.</p></section>
+<section class="policy-section" aria-labelledby="apple"><h2 id="apple">Apple és vásárlások</h2><p class="policy-body">Ha elérhetők az alkalmazáson belüli vásárlások, az Apple dolgozza fel a fizetést, és ellenőrizhető tranzakciót biztosít az alkalmazásnak. Az AffirMate nem kezel bankkártya- vagy banki adatokat. A próbahozzáférést és a feloldásokat az eszköz ellenőrzi az Apple-tranzakciók alapján. Az ingyenes próba elindítása nem indít későbbi vásárlást. Az Apple az App Store-hoz, a diagnosztikához és az eszközhöz kapcsolódó adatokat saját beállításai és adatvédelmi szabályai szerint kezelheti. Az iOS- vagy iCloud-biztonsági mentés tartalmazhat helyi alkalmazásadatokat; az AffirMate nem biztosít saját felhőszinkronizálást.</p></section>
+<section class="policy-section" aria-labelledby="delete"><h2 id="delete">Megőrzés és törlés</h2><p class="policy-body">A helyi tartalom addig marad meg, amíg nem törlöd. A naplóbejegyzések és a személyes megerősítések egyenként eltávolíthatók. A Profilban exportálhatod az írásaidat, vagy visszaállíthatod az összes személyes alkalmazásadatot. A visszaállítás a hangulatelőzményeket, az emlékeztetőket és a testreszabást is eltávolítja, de az Apple-fiókod vásárlásait, valamint a már exportált vagy megosztott másolatokat nem. Szükség esetén ezeket és a régebbi eszközmentéseket külön töröld. Nem láthatjuk és nem törölhetjük helyetted a helyi tartalmadat.</p></section>
+<section class="policy-section" aria-labelledby="wellbeing"><h2 id="wellbeing">A te gyakorlatod, a te választásod</h2><p class="policy-body">A megerősítések, hangulatbejegyzések és a zene a személyes önreflexiót támogatják. Nem diagnosztizálnak vagy kezelnek betegséget, és nem helyettesítik az orvosi vagy pszichológiai ellátást. Minden érzés egyformán helyet kap. Az olvasáshoz nem kell név, fotóengedély vagy értesítés.</p></section>
+<section class="policy-section" aria-labelledby="contact"><h2 id="contact">Kérdések és változások</h2><p class="policy-body">Adatvédelmi vagy akadálymentességi kérdések: <a href="mailto:support@swisswise.com">support@swisswise.com</a>. Ne küldj bizalmas naplótartalmat. Amikor kapcsolatba lépsz az ügyfélszolgálattal, megkapjuk az önként megadott információkat, és a kérésed megválaszolására használjuk őket. Ez a tájékoztató az AffirMate-re a Swisswise más termékeitől külön vonatkozik. A változásokat alkalmazásfrissítés és frissített dátum jelzi. Hatályos ettől: 2026-10-11.</p></section><div lang="en"><section class="note-block" aria-labelledby="apple-links"><h2 id="apple-links">Apple references (external)</h2><ul><li><a href="https://support.apple.com/en-us/108770">Apple: what iCloud backs up</a></li><li><a href="https://support.apple.com/en-us/118212">Apple: purchase history</a></li><li><a href="https://support.apple.com/en-us/118223">Apple: request a refund</a></li><li><a href="https://www.apple.com/legal/privacy/en-ww/">Apple: privacy policy</a></li></ul></section><section class="note-block" aria-labelledby="website"><h2 id="website">About this website</h2><p>These static pages contain no scripts, analytics, forms, remote fonts or third-party assets, and do not set cookies themselves. Website hosting is separate from the app: when these pages are hosted on GitHub Pages, GitHub receives technical web requests and logs visitor IP addresses for security purposes. Its privacy statement explains its processing, retention and international transfers. This does not send your local AffirMate journal, moods or pictures to GitHub. Opening a link to Apple or Swisswise takes you to a different website with its own data handling.</p><p><a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" lang="en">GitHub privacy statement (external, English)</a></p><p>Email is optional and separate from the app. Your email provider and the publisher&#x27;s email service process the correspondence; email is not a private in-app channel. For requests about personal information in correspondence, including access, correction, deletion or how long it is retained, contact support@swisswise.com. We cannot access or delete content held only on your device. No AffirMate account needs to be deleted.</p></section></div></article></div>
+  </main>
+  <footer lang="en">
+    <div class="frame">
+      <p>Built by Swisswise GmbH in Bern, Switzerland. No account. No app-operated backend. No tracking in this static package.</p>
+      <address>Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland<br>CHE-157.478.799<br><a class="footer-link" href="mailto:support@swisswise.com">support@swisswise.com</a></address>
+      <a class="footer-link" href="https://swisswise.com/en/contact">Publisher contact page (external)</a>
+    </div>
+  </footer>
+</body>
+</html>

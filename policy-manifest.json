@@ -2,7 +2,57 @@
   "effectiveDate": "2026-10-11",
   "policyLocales": [
     "en",
-    "de"
+    "de",
+    "ar-SA",
+    "bn-BD",
+    "ca",
+    "zh-Hans",
+    "zh-Hant",
+    "hr",
+    "cs",
+    "da",
+    "nl-NL",
+    "en-AU",
+    "en-CA",
+    "en-GB",
+    "en-US",
+    "fi",
+    "fr-FR",
+    "fr-CA",
+    "de-DE",
+    "el",
+    "gu-IN",
+    "he",
+    "hi",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "kn-IN",
+    "ko",
+    "ms",
+    "ml-IN",
+    "mr-IN",
+    "no",
+    "or-IN",
+    "pl",
+    "pt-BR",
+    "pt-PT",
+    "pa-IN",
+    "ro",
+    "ru",
+    "sk",
+    "sl-SI",
+    "es-MX",
+    "es-ES",
+    "sv",
+    "ta-IN",
+    "te-IN",
+    "th",
+    "tr",
+    "uk",
+    "ur-PK",
+    "vi"
   ],
   "supportLocales": [
     "en",
@@ -92,6 +142,2210 @@
         "title": "Fragen und Änderungen",
         "body": "Bei Fragen zu Datenschutz oder Barrierefreiheit: support@swisswise.com. Sende uns keine vertraulichen Tagebuchinhalte. Wenn du den Support kontaktierst, erhalten wir die Angaben, die du freiwillig mitsendest, und verwenden sie zur Bearbeitung deiner Anfrage. Diese Erklärung gilt für AffirMate und ist von den Regeln anderer Swisswise-Produkte getrennt. Änderungen werden mit dem App-Update und einem neuen Datum kenntlich gemacht. Stand: 2026-10-11."
       }
+    ],
+    "ar-SA": [
+      {
+        "id": "owner",
+        "title": "الناشر",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "بياناتك تبقى محلية",
+        "body": "لا يتضمن AffirMate حسابًا ولا خادمًا يديره التطبيق ولا إعلانات ولا تتبعًا. يخزّن التطبيق اسمك الاختياري وإعداداتك ومفضلاتك وتأكيداتك الشخصية ومدخلات يومياتك ومسوداتك ومدخلات المزاج والصور التي تختارها محليًا على جهاز iPhone. نحن لا نتلقى هذا المحتوى. لا يرفع التطبيق الكتابات أو الصور إلى أي خدمة ذكاء اصطناعي. التأكيدات والرسوم التوضيحية والموسيقى الآلية مضمّنة مع التطبيق."
+      },
+      {
+        "id": "widgets",
+        "title": "الأدوات والإشعارات",
+        "body": "يتشارك التطبيق والأداة حاوية App Group محلية محمية. تعرض الأدوات أفكارًا يومية مضمّنة افتراضيًا. إذا اخترت المفضلة أو كلماتك الشخصية مصدرًا لها، فقد يكون ذلك النص مرئيًا على الشاشة الرئيسية أو شاشة القفل. لا تظهر مدخلات اليوميات والمزاج في أي أداة أبدًا. لا تحتوي التذكيرات المحلية على أي كتابات خاصة. الإشعارات اختيارية ويمكن إيقافها من التطبيق أو من إعدادات iOS."
+      },
+      {
+        "id": "photos",
+        "title": "الصور والمشاركة",
+        "body": "تستخدم الخلفيات المخصصة أداة اختيار الصور في iOS. يستورد التطبيق الصورة التي تختارها فقط وينشئ نسخة محلية مخفضة الدقة دون بيانات التعريف الأصلية للصورة. يطلب حفظ الأعمال الفنية إذنًا لإضافة الصور، وليس وصولًا عامًا إلى مكتبتك. إزالة خلفية مستوردة لا تمس الصورة الأصلية في تطبيق الصور. تتم المشاركة وتصدير الملفات فقط عندما تطلبها؛ وبعدها تتحكم الخدمة أو الوجهة التي اخترتها في النسخة المشاركة."
+      },
+      {
+        "id": "apple",
+        "title": "Apple والمشتريات",
+        "body": "عند توفر المشتريات داخل التطبيق، تتولى Apple معالجة الدفع وتزوّد التطبيق بمعاملة يمكن التحقق منها. لا يعالج AffirMate بيانات بطاقات الائتمان أو الحسابات المصرفية. يتم التحقق من الوصول التجريبي وعمليات الفتح على الجهاز مقابل معاملات Apple. بدء التجربة المجانية لا يؤدي إلى عملية شراء لاحقة. قد تعالج Apple بيانات App Store والتشخيص والجهاز وفق إعداداتها وقواعد الخصوصية الخاصة بها. قد تتضمن النسخة الاحتياطية لجهازك على iOS أو iCloud بيانات التطبيق المحلية؛ ولا يوفر AffirMate مزامنة سحابية خاصة به."
+      },
+      {
+        "id": "delete",
+        "title": "الاحتفاظ والحذف",
+        "body": "يبقى المحتوى المحلي إلى أن تحذفه. يمكن إزالة مدخلات اليوميات والتأكيدات الشخصية كل على حدة. يتيح لك الملف الشخصي تصدير كتاباتك أو إعادة تعيين جميع بيانات التطبيق الشخصية. تؤدي إعادة التعيين أيضًا إلى إزالة سجل المزاج والتذكيرات والتخصيص، ولكنها لا تزيل المشتريات في حساب Apple الخاص بك ولا النسخ التي سبق تصديرها أو مشاركتها. أزل تلك النسخ والنسخ الاحتياطية الأقدم للجهاز بشكل منفصل إذا لزم الأمر. لا يمكننا عرض محتواك المحلي أو حذفه نيابةً عنك."
+      },
+      {
+        "id": "wellbeing",
+        "title": "ممارستك، واختيارك",
+        "body": "تدعم التأكيدات ومدخلات المزاج والموسيقى التأمل الشخصي. وهي لا تشخّص أي حالة ولا تعالجها ولا تحل محل الرعاية الطبية أو النفسية. جميع المشاعر مرحَّب بها على حد سواء. لا تتطلب القراءة اسمًا أو إذن الصور أو الإشعارات."
+      },
+      {
+        "id": "contact",
+        "title": "الأسئلة والتغييرات",
+        "body": "للاستفسارات المتعلقة بالخصوصية أو إمكانية الوصول: support@swisswise.com. يُرجى عدم إرسال محتوى اليوميات السري. عند التواصل مع الدعم، نتلقى المعلومات التي تضمّنها طوعًا ونستخدمها للرد على طلبك. تنطبق هذه السياسة على AffirMate بشكل منفصل عن منتجات Swisswise الأخرى. تُضمَّن التغييرات مع تحديث للتطبيق وتاريخ محدَّث. تاريخ السريان: 2026-10-11."
+      }
+    ],
+    "bn-BD": [
+      {
+        "id": "owner",
+        "title": "প্রকাশক",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "তথ্য ডিভাইসেই থাকে",
+        "body": "AffirMate-এ অ্যাকাউন্ট, অ্যাপ-পরিচালিত সার্ভার, বিজ্ঞাপন বা ট্র্যাকিং নেই। আপনার ঐচ্ছিক নাম, সেটিংস, পছন্দের, ব্যক্তিগত ইতিবাচক বাক্য, ডায়েরির লেখা, খসড়া, মনের অবস্থার নথি ও বাছা ছবি iPhone-এ স্থানীয়ভাবে রাখা হয়। এই বিষয়বস্তু আমরা পাই না। অ্যাপ লেখা বা ছবি কোনো AI সেবায় আপলোড করে না। ইতিবাচক বাক্য, আঁকা ছবি ও বাদ্যযন্ত্রের সংগীত অ্যাপেই অন্তর্ভুক্ত।"
+      },
+      {
+        "id": "widgets",
+        "title": "উইজেট ও বিজ্ঞপ্তি",
+        "body": "অ্যাপ ও উইজেট সুরক্ষিত স্থানীয় App Group কন্টেইনার ভাগ করে। উইজেট সাধারণভাবে অ্যাপের অন্তর্ভুক্ত দিনের ভাবনা দেখায়। উৎস হিসেবে পছন্দের বা ব্যক্তিগত কথা বাছলে সেই লেখা হোম বা লক স্ক্রিনে দেখা যেতে পারে। ডায়েরি ও মনের অবস্থার নথি কখনো উইজেটে দেখা যায় না। স্থানীয় মনে করানোর বার্তায় ব্যক্তিগত লেখা থাকে না। বিজ্ঞপ্তি ঐচ্ছিক; অ্যাপ বা iOS সেটিংসে বন্ধ করা যায়।"
+      },
+      {
+        "id": "photos",
+        "title": "ছবি ও শেয়ার করা",
+        "body": "নিজস্ব পটভূমিতে iOS-এর ছবি বাছাই ব্যবস্থা ব্যবহৃত হয়। অ্যাপ শুধু আপনার বাছা ছবি আনে এবং মূল ছবির মেটাডেটা ছাড়া কম রেজল্যুশনের স্থানীয় কপি তৈরি করে। চিত্র সংরক্ষণে শুধু ছবি যোগের অনুমতি চাওয়া হয়, পুরো লাইব্রেরিতে সাধারণ প্রবেশাধিকার নয়। আনা পটভূমি সরালে Photos-এর মূল ছবি বদলায় না। আপনি চাইলে তবেই শেয়ার ও ফাইল রপ্তানি হয়; এরপর বাছা সেবা বা গন্তব্য শেয়ার করা কপির নিয়ন্ত্রণ পায়।"
+      },
+      {
+        "id": "apple",
+        "title": "Apple ও কেনাকাটা",
+        "body": "অ্যাপের ভেতরে কেনাকাটা উপলব্ধ হলে Apple অর্থপ্রদান প্রক্রিয়া করে এবং অ্যাপকে যাচাইযোগ্য লেনদেন দেয়। AffirMate ক্রেডিট কার্ড বা ব্যাংকের তথ্য প্রক্রিয়া করে না। পরীক্ষামূলক ব্যবহার ও আনলক ডিভাইসেই Apple-এর লেনদেনের সঙ্গে যাচাই করা হয়। বিনামূল্যের পরীক্ষা শুরু করলে পরে স্বয়ংক্রিয় কেনাকাটা হয় না। Apple নিজস্ব সেটিংস ও গোপনীয়তার নিয়মে App Store, ডায়াগনস্টিক ও ডিভাইসের তথ্য প্রক্রিয়া করতে পারে। আপনার iOS বা iCloud ডিভাইস ব্যাকআপে স্থানীয় অ্যাপের তথ্য থাকতে পারে; AffirMate নিজস্ব ক্লাউড সিঙ্ক দেয় না।"
+      },
+      {
+        "id": "delete",
+        "title": "সংরক্ষণের মেয়াদ ও মোছা",
+        "body": "আপনি মোছা পর্যন্ত স্থানীয় বিষয়বস্তু থাকে। ডায়েরির লেখা ও ব্যক্তিগত ইতিবাচক বাক্য আলাদাভাবে মোছা যায়। প্রোফাইল থেকে লেখা রপ্তানি বা অ্যাপের সব ব্যক্তিগত তথ্য রিসেট করতে পারেন। রিসেটে মনের অবস্থার ইতিহাস, মনে করানোর বার্তা ও কাস্টমাইজেশনও মুছে যায়, কিন্তু Apple অ্যাকাউন্টের কেনাকাটা বা আগে রপ্তানি ও শেয়ার করা কপি মুছে যায় না। দরকার হলে সেসব কপি ও পুরোনো ডিভাইস ব্যাকআপ আলাদাভাবে মুছুন। আমরা আপনার স্থানীয় বিষয়বস্তু দেখতে বা আপনার হয়ে মুছতে পারি না।"
+      },
+      {
+        "id": "wellbeing",
+        "title": "আপনার চর্চা, আপনার পছন্দ",
+        "body": "ইতিবাচক বাক্য, মনের অবস্থার নথি ও সংগীত ব্যক্তিগত ভাবনায় সহায়তা করে। এগুলো কোনো রোগ নির্ণয় বা চিকিৎসা করে না এবং চিকিৎসা বা মনস্তাত্ত্বিক যত্নের বিকল্প নয়। সব অনুভূতিই সমানভাবে স্বাগত। পড়তে নাম, ছবির অনুমতি বা বিজ্ঞপ্তি লাগে না।"
+      },
+      {
+        "id": "contact",
+        "title": "প্রশ্ন ও পরিবর্তন",
+        "body": "গোপনীয়তা বা অ্যাক্সেসিবিলিটি নিয়ে প্রশ্নে: support@swisswise.com। ডায়েরির গোপন বিষয় পাঠাবেন না। সহায়তার জন্য যোগাযোগ করলে স্বেচ্ছায় দেওয়া তথ্য আমরা পাই এবং অনুরোধের উত্তর দিতে ব্যবহার করি। এই নীতি অন্যান্য Swisswise পণ্য থেকে পৃথকভাবে AffirMate-এর জন্য প্রযোজ্য। পরিবর্তন অ্যাপের আপডেট ও সংশোধিত তারিখসহ দেওয়া হয়। কার্যকর: 2026-10-11।"
+      }
+    ],
+    "ca": [
+      {
+        "id": "owner",
+        "title": "Editor",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Les teves dades es queden al dispositiu",
+        "body": "AffirMate no té compte, servidor operat per l'app, publicitat ni seguiment. L'app desa localment al teu iPhone el teu nom opcional, els ajustos, els preferits, les afirmacions personals, les entrades del diari, els esborranys, els estats d'ànim i les imatges seleccionades. Nosaltres no rebem aquest contingut. L'app no envia textos ni imatges a cap servei d'IA. Les afirmacions, les il·lustracions i la música instrumental van incloses a l'app."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgets i notificacions",
+        "body": "L'app i el widget comparteixen un contenidor local protegit d'App Group. Per defecte, els widgets mostren pensaments diaris inclosos a l'app. Si tries els preferits o les teves paraules com a font, aquest text pot ser visible a la pantalla d'inici o de bloqueig. Les entrades del diari i dels estats d'ànim no apareixen mai en un widget. Els recordatoris locals no contenen cap text privat. Les notificacions són opcionals i es poden desactivar a l'app o als Ajustos d'iOS."
+      },
+      {
+        "id": "photos",
+        "title": "Fotos i compartició",
+        "body": "Els fons personalitzats utilitzen el selector de fotos d'iOS. L'app només importa la imatge que selecciones i en crea una còpia local de resolució reduïda, sense les metadades de la foto original. Per desar il·lustracions es demana permís per afegir fotos, no accés general a la teva fototeca. Eliminar un fons importat no afecta l'original de Fotos. Compartir i exportar fitxers només passa quan ho demanes; després, el servei o la destinació que triïs controla la còpia compartida."
+      },
+      {
+        "id": "apple",
+        "title": "Apple i les compres",
+        "body": "Quan hi hagi compres a l'app disponibles, Apple processa el pagament i proporciona a l'app una transacció verificable. AffirMate no processa dades de targetes de crèdit ni bancàries. L'accés de prova i els desbloquejos es comproven al dispositiu amb les transaccions d'Apple. Iniciar la prova gratuïta no comporta una compra posterior. Apple pot tractar dades de l'App Store, de diagnòstic i del dispositiu segons els seus propis ajustos i normes de privacitat. La còpia de seguretat del dispositiu a iOS o iCloud pot incloure dades locals de l'app; AffirMate no ofereix cap sincronització pròpia al núvol."
+      },
+      {
+        "id": "delete",
+        "title": "Conservació i eliminació",
+        "body": "El contingut local es conserva fins que l'eliminis. Les entrades del diari i les afirmacions personals es poden eliminar una per una. Al perfil pots exportar els teus textos o restablir totes les dades personals de l'app. El restabliment també elimina l'historial d'estats d'ànim, els recordatoris i la personalització, però no les compres del teu compte d'Apple ni les còpies ja exportades o compartides. Si cal, elimina aquestes còpies i les còpies de seguretat antigues del dispositiu per separat. No podem veure ni eliminar el teu contingut local per tu."
+      },
+      {
+        "id": "wellbeing",
+        "title": "La teva pràctica, la teva elecció",
+        "body": "Les afirmacions, els estats d'ànim i la música acompanyen la reflexió personal. No diagnostiquen ni tracten cap afecció i no substitueixen l'atenció mèdica ni psicològica. Totes les emocions són igualment benvingudes. Per llegir no cal nom, permís de fotos ni notificacions."
+      },
+      {
+        "id": "contact",
+        "title": "Preguntes i canvis",
+        "body": "Per a preguntes sobre privacitat o accessibilitat: support@swisswise.com. No enviïs contingut confidencial del diari. Quan contactes amb el suport, rebem la informació que hi incloguis voluntàriament i l'utilitzem per respondre a la teva sol·licitud. Aquesta política s'aplica a AffirMate separadament d'altres productes de Swisswise. Els canvis s'inclouen amb una actualització de l'app i una data actualitzada. En vigor des de: 2026-10-11."
+      }
+    ],
+    "zh-Hans": [
+      {
+        "id": "owner",
+        "title": "发行方",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "数据保留在本地",
+        "body": "AffirMate 无账户、App 运营服务器、广告或跟踪。你可选填的姓名、设置、收藏、个人肯定语、日记、草稿、心情记录及所选图片，均保存在你的 iPhone 本地。我们不会收到这些内容。App 不会将文字或图片上传到 AI 服务。肯定语、插画和器乐音乐均随 App 内置提供。"
+      },
+      {
+        "id": "widgets",
+        "title": "小组件与通知",
+        "body": "App 与小组件共用受保护的本地 App Group 容器。小组件默认显示内置每日寄语。若选择收藏或个人话语为来源，这些文字可能出现在主屏幕或锁定屏幕。日记和心情记录绝不会显示在小组件中。本地提醒不包含私人文字。通知可选，可在 App 或 iOS“设置”中关闭。"
+      },
+      {
+        "id": "photos",
+        "title": "照片与分享",
+        "body": "自定义背景使用 iOS 照片选择器。App 仅导入你选中的图片，并生成不含原始照片元数据的降采样本地副本。保存作品时请求的是添加照片权限，而非访问整个图库。移除已导入的背景，不会影响“照片”中的原图。分享和文件导出仅在你主动请求时进行；随后，共享副本由你选择的服务或目标位置管理。"
+      },
+      {
+        "id": "apple",
+        "title": "Apple 与购买",
+        "body": "提供 App 内购买时，Apple 负责处理付款，并向 App 提供可验证的交易。AffirMate 不处理信用卡或银行信息。试用权限和解锁状态在设备上依据 Apple 交易核验。开始免费试用不会触发后续购买。Apple 可能根据其自身设置和隐私规则处理 App Store、诊断及设备数据。iOS 或 iCloud 设备备份可能包含本地 App 数据；AffirMate 不提供自有云同步。"
+      },
+      {
+        "id": "delete",
+        "title": "保留与删除",
+        "body": "本地内容会保留，直到你将其删除。日记条目和个人肯定语可逐项删除。在“个人资料”中，你可以导出文字，或重置全部个人 App 数据。重置还会移除心情历史、提醒和个性化设置，但不会删除 Apple 账户中的购买记录，也不会删除已导出或分享的副本。如有需要，请另行删除这些副本和旧设备备份。我们无法查看或代你删除本地内容。"
+      },
+      {
+        "id": "wellbeing",
+        "title": "你的练习，你的选择",
+        "body": "肯定语、心情记录与音乐用于支持个人反思，不诊断或治疗任何状况，也不能替代医疗或心理照护。每一种感受都同样受到欢迎。阅读不需要填写姓名、照片权限或通知。"
+      },
+      {
+        "id": "contact",
+        "title": "疑问与变更",
+        "body": "隐私或无障碍问题请联系：support@swisswise.com。请勿发送日记中的保密内容。联系支持时，我们会收到你自愿提供的信息，并用于回复请求。本政策单独适用于 AffirMate，与其他 Swisswise 产品区分。政策变更将随 App 更新提供，并更新日期。生效日期：2026-10-11。"
+      }
+    ],
+    "zh-Hant": [
+      {
+        "id": "owner",
+        "title": "發行者",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "資料留在本機",
+        "body": "AffirMate 沒有帳號、自行營運的伺服器、廣告或追蹤。App 將你選填的名字、設定、喜好項目、個人肯定語、日記、草稿、心情紀錄與所選圖片儲存在 iPhone 本機。我們不會收到這些內容。App 不會將文字或圖片上傳至 AI 服務。肯定語、插圖與器樂皆已內建於 App。"
+      },
+      {
+        "id": "widgets",
+        "title": "小工具與通知",
+        "body": "App 與小工具共用受保護的本機 App Group 容器。小工具預設顯示內建的每日思語。若選擇喜好項目或個人文字作為來源，該文字可能出現在主畫面或鎖定畫面。日記與心情紀錄絕不會出現在小工具中。本機提醒不含私密文字。通知為選用功能，可在 App 或 iOS「設定」關閉。"
+      },
+      {
+        "id": "photos",
+        "title": "照片與分享",
+        "body": "自訂背景使用 iOS 照片選擇器。App 只匯入你選擇的圖片，建立不含原始照片中繼資料的縮小本機副本。儲存作品只會要求新增照片的權限，不會要求存取整個圖庫。移除匯入的背景不會更動「照片」中的原圖。只有在你提出要求時才會分享或匯出檔案；之後由你選擇的服務或目的地管理該副本。"
+      },
+      {
+        "id": "apple",
+        "title": "Apple 與購買項目",
+        "body": "提供 App 內購買時，由 Apple 處理付款並向 App 提供可驗證的交易。AffirMate 不處理信用卡或銀行資料。試用與解鎖權限會在裝置上依 Apple 交易核對。開始免費試用不會觸發日後購買。Apple 可能依其設定與隱私規則處理 App Store、診斷與裝置資料。iOS 或 iCloud 裝置備份可能含有本機 App 資料；AffirMate 不提供自己的雲端同步服務。"
+      },
+      {
+        "id": "delete",
+        "title": "保留與刪除",
+        "body": "本機內容會保留到你刪除為止。日記與個人肯定語可個別移除。在「個人檔案」可匯出文字或重置所有個人 App 資料。重置也會移除心情紀錄、提醒與個人化設定，但不會刪除 Apple 帳號中的購買項目或已匯出、分享的副本。如有需要，請另外移除這些副本及舊裝置備份。我們無法代你查看或刪除本機內容。"
+      },
+      {
+        "id": "wellbeing",
+        "title": "你的練習，由你選擇",
+        "body": "肯定語、心情紀錄與音樂用於支持個人省思，不診斷或治療任何病症，也不能取代醫療或心理照護。所有感受都同樣被接納。閱讀不需要名字、照片權限或通知。"
+      },
+      {
+        "id": "contact",
+        "title": "問題與變更",
+        "body": "如有隱私或輔助使用問題，請聯絡：support@swisswise.com。請勿傳送私密日記內容。聯絡支援時，我們會收到你自願提供的資訊，並用於回覆請求。本政策獨立適用於 AffirMate，不涵蓋其他 Swisswise 產品。變更會隨 App 更新提供，並更新日期。生效日期：2026-10-11。"
+      }
+    ],
+    "hr": [
+      {
+        "id": "owner",
+        "title": "Izdavač",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Tvoji podaci ostaju lokalni",
+        "body": "AffirMate nema račun, poslužitelj kojim upravlja aplikacija, oglase ni praćenje. Aplikacija pohranjuje neobavezno ime, postavke, favorite, osobne afirmacije, dnevničke zapise, skice, zapise raspoloženja i odabrane slike lokalno na iPhoneu. Ne primamo taj sadržaj. Aplikacija ne šalje tekst ni slike usluzi umjetne inteligencije. Afirmacije, ilustracije i instrumentalna glazba uključene su u aplikaciju."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgeti i obavijesti",
+        "body": "Aplikacija i widget dijele zaštićeni lokalni spremnik App Group. Widgeti zadano prikazuju uključene misli dana. Ako kao izvor odabereš favorite ili vlastite riječi, tekst može biti vidljiv na početnom ili zaključanom zaslonu. Zapisi dnevnika i raspoloženja nikad se ne prikazuju u widgetu. Lokalni podsjetnici ne sadrže privatne tekstove. Obavijesti su neobavezne i mogu se isključiti u aplikaciji ili Postavkama iOS-a."
+      },
+      {
+        "id": "photos",
+        "title": "Fotografije i dijeljenje",
+        "body": "Prilagođene pozadine koriste iOS-ov odabir fotografija. Aplikacija uvozi samo odabranu sliku i stvara lokalnu kopiju smanjene razlučivosti bez izvornih metapodataka. Spremanje grafike traži dopuštenje za dodavanje fotografija, ne opći pristup fototeci. Uklanjanje uvezene pozadine ne dira izvornik u Fotografijama. Dijeljenje i izvoz datoteka odvijaju se samo na tvoj zahtjev; odabrana usluga ili odredište tada upravlja podijeljenom kopijom."
+      },
+      {
+        "id": "apple",
+        "title": "Apple i kupnje",
+        "body": "Kad su kupnje unutar aplikacije dostupne, Apple obrađuje plaćanje i aplikaciji dostavlja provjerljivu transakciju. AffirMate ne obrađuje podatke kreditnih kartica ni bankovne podatke. Probni pristup i otključavanja provjeravaju se na uređaju prema Appleovim transakcijama. Pokretanje besplatnog probnog razdoblja ne pokreće kasniju kupnju. Apple može obrađivati podatke App Storea, dijagnostike i uređaja prema vlastitim postavkama i pravilima privatnosti. Sigurnosna kopija uređaja u iOS-u ili iCloudu može sadržavati lokalne podatke aplikacije; AffirMate nema vlastitu sinkronizaciju u oblaku."
+      },
+      {
+        "id": "delete",
+        "title": "Čuvanje i brisanje",
+        "body": "Lokalni sadržaj ostaje dok ga ne izbrišeš. Zapise dnevnika i osobne afirmacije možeš pojedinačno uklanjati. Profil omogućuje izvoz teksta ili brisanje svih osobnih podataka aplikacije. Brisanjem se uklanjaju i povijest raspoloženja, podsjetnici i prilagodbe, ali ne kupnje na Apple računu ni već izvezene ili podijeljene kopije. Te kopije i starije sigurnosne kopije uređaja po potrebi ukloni zasebno. Ne možemo pregledavati ni brisati tvoj lokalni sadržaj umjesto tebe."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Tvoja praksa, tvoj izbor",
+        "body": "Afirmacije, zapisi raspoloženja i glazba podržavaju osobno promišljanje. Ne dijagnosticiraju niti liječe stanja i ne zamjenjuju medicinsku ni psihološku skrb. Svi su osjećaji jednako dobrodošli. Čitanje ne zahtijeva ime, dopuštenje za fotografije ni obavijesti."
+      },
+      {
+        "id": "contact",
+        "title": "Pitanja i promjene",
+        "body": "Za pitanja o privatnosti ili pristupačnosti: support@swisswise.com. Ne šalji povjerljive sadržaje dnevnika. Kad se obratiš podršci, primamo podatke koje dobrovoljno uključiš i koristimo ih za odgovor na zahtjev. Ova pravila vrijede za AffirMate odvojeno od drugih proizvoda Swisswisea. Promjene dolaze s ažuriranjem aplikacije i novim datumom. Na snazi od: 2026-10-11."
+      }
+    ],
+    "cs": [
+      {
+        "id": "owner",
+        "title": "Vydavatel",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Vaše data zůstávají v zařízení",
+        "body": "AffirMate nemá účet, server provozovaný aplikací, reklamy ani sledování. Aplikace ukládá vaše volitelné jméno, nastavení, oblíbené položky, osobní afirmace, záznamy v deníku, koncepty, záznamy nálad a vybrané obrázky lokálně ve vašem iPhonu. Tento obsah neobdržíme. Aplikace nenahrává texty ani obrázky do žádné služby umělé inteligence. Afirmace, ilustrace a instrumentální hudba jsou součástí aplikace."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgety a oznámení",
+        "body": "Aplikace a widget sdílejí chráněný místní kontejner App Group. Widgety ve výchozím nastavení zobrazují myšlenky dne, které jsou součástí aplikace. Pokud jako zdroj zvolíte oblíbené položky nebo vlastní slova, může být tento text vidět na Domovské obrazovce nebo na zamčené obrazovce. Záznamy deníku a nálad se ve widgetu nikdy nezobrazují. Místní připomenutí neobsahují žádné soukromé texty. Oznámení jsou volitelná a lze je vypnout v aplikaci nebo v Nastavení iOS."
+      },
+      {
+        "id": "photos",
+        "title": "Fotky a sdílení",
+        "body": "Vlastní pozadí používají výběr fotek v iOS. Aplikace importuje pouze obrázek, který vyberete, a vytvoří zmenšenou místní kopii bez metadat původní fotky. Ukládání obrázků žádá o oprávnění přidávat fotky, nikoli o obecný přístup ke knihovně. Odstranění importovaného pozadí nechá originál ve Fotkách nedotčený. Sdílení a export souborů probíhají jen na vaši žádost; sdílenou kopii pak spravuje vámi zvolená služba nebo cíl."
+      },
+      {
+        "id": "apple",
+        "title": "Apple a nákupy",
+        "body": "Když jsou k dispozici nákupy v aplikaci, platbu zpracovává Apple a aplikaci poskytuje ověřitelnou transakci. AffirMate nezpracovává údaje o platebních kartách ani bankovní údaje. Zkušební přístup a odemčení se kontrolují na zařízení podle transakcí Apple. Zahájení bezplatné zkušební verze nespouští pozdější nákup. Apple může zpracovávat data z App Store, diagnostická data a data zařízení podle vlastního nastavení a pravidel ochrany soukromí. Záloha zařízení v iOS nebo iCloudu může obsahovat místní data aplikace; AffirMate nenabízí vlastní synchronizaci v cloudu."
+      },
+      {
+        "id": "delete",
+        "title": "Uchovávání a mazání",
+        "body": "Místní obsah zůstává, dokud jej nesmažete. Záznamy v deníku a osobní afirmace lze odstranit jednotlivě. V Profilu můžete exportovat své texty nebo obnovit všechna osobní data aplikace. Obnovení odstraní také historii nálad, připomenutí a přizpůsobení, ne však nákupy ve vašem účtu Apple ani kopie, které již byly exportovány nebo sdíleny. Tyto kopie a starší zálohy zařízení odstraňte v případě potřeby zvlášť. Nemůžeme zobrazit ani smazat váš místní obsah za vás."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Vaše praxe, vaše volba",
+        "body": "Afirmace, záznamy nálad a hudba podporují osobní reflexi. Nediagnostikují ani neléčí žádný stav a nenahrazují lékařskou ani psychologickou péči. Všechny pocity jsou stejně vítané. Čtení nevyžaduje jméno, oprávnění k fotkám ani oznámení."
+      },
+      {
+        "id": "contact",
+        "title": "Dotazy a změny",
+        "body": "Dotazy k soukromí nebo přístupnosti: support@swisswise.com. Neposílejte důvěrný obsah deníku. Když kontaktujete podporu, obdržíme informace, které dobrovolně uvedete, a použijeme je k vyřízení vašeho požadavku. Tyto zásady platí pro AffirMate odděleně od ostatních produktů Swisswise. Změny jsou součástí aktualizace aplikace a aktualizovaného data. Platné od: 2026-10-11."
+      }
+    ],
+    "da": [
+      {
+        "id": "owner",
+        "title": "Udgiver",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Dine data forbliver lokale",
+        "body": "AffirMate har ingen konto, ingen server drevet af appen, ingen reklamer og ingen sporing. Appen gemmer dit valgfrie navn, indstillinger, favoritter, personlige affirmationer, dagbogsnotater, kladder, humørregistreringer og valgte billeder lokalt på din iPhone. Vi modtager ikke dette indhold. Appen uploader ikke tekster eller billeder til en AI-tjeneste. Affirmationer, illustrationer og instrumental musik følger med appen."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgets og notifikationer",
+        "body": "Appen og widgetten deler en beskyttet lokal App Group-container. Widgets viser som standard medfølgende daglige tanker. Hvis du vælger favoritter eller personlige ord som kilde, kan den tekst være synlig på din hjemmeskærm eller låseskærm. Dagbogs- og humørnotater vises aldrig i en widget. Lokale påmindelser indeholder ingen private tekster. Notifikationer er valgfrie og kan slås fra i appen eller i iOS-indstillinger."
+      },
+      {
+        "id": "photos",
+        "title": "Fotos og deling",
+        "body": "Brugerdefinerede baggrunde bruger iOS' fotovælger. Appen importerer kun det billede, du vælger, og opretter en nedskaleret lokal kopi uden det oprindelige fotos metadata. Når du gemmer kunstværker, bliver du bedt om tilladelse til at tilføje fotos, ikke om generel adgang til dit bibliotek. Hvis du fjerner en importeret baggrund, forbliver originalen i Fotos urørt. Deling og fileksport sker kun, når du beder om det; den valgte tjeneste eller destination styrer derefter den delte kopi."
+      },
+      {
+        "id": "apple",
+        "title": "Apple og køb",
+        "body": "Når køb i appen er tilgængelige, behandler Apple betalingen og leverer en verificerbar transaktion til appen. AffirMate behandler ikke kreditkort- eller bankoplysninger. Prøveadgang og oplåsninger kontrolleres på enheden op mod Apple-transaktioner. Start af den gratis prøveperiode udløser ikke et senere køb. Apple kan behandle App Store-, diagnose- og enhedsdata i henhold til egne indstillinger og privatlivsregler. Din iOS- eller iCloud-sikkerhedskopi af enheden kan indeholde lokale appdata; AffirMate tilbyder ikke sin egen cloud-synkronisering."
+      },
+      {
+        "id": "delete",
+        "title": "Opbevaring og sletning",
+        "body": "Lokalt indhold bliver, indtil du sletter det. Dagbogsnotater og personlige affirmationer kan fjernes enkeltvis. I Profil kan du eksportere dine tekster eller nulstille alle personlige appdata. Nulstilling fjerner også humørhistorik, påmindelser og tilpasning, men ikke køb på din Apple-konto eller kopier, der allerede er eksporteret eller delt. Fjern disse kopier og ældre sikkerhedskopier af enheden separat, hvis det er nødvendigt. Vi kan ikke se eller slette dit lokale indhold for dig."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Din praksis, dit valg",
+        "body": "Affirmationer, humørregistreringer og musik understøtter personlig refleksion. De stiller ikke diagnoser, behandler ikke nogen tilstand og erstatter ikke lægelig eller psykologisk behandling. Alle følelser er lige velkomne. Du behøver hverken navn, fototilladelse eller notifikationer for at læse."
+      },
+      {
+        "id": "contact",
+        "title": "Spørgsmål og ændringer",
+        "body": "Ved spørgsmål om privatliv eller tilgængelighed: support@swisswise.com. Send ikke fortroligt dagbogsindhold. Når du kontakter support, modtager vi de oplysninger, du frivilligt oplyser, og bruger dem til at besvare din henvendelse. Denne politik gælder for AffirMate særskilt fra andre Swisswise-produkter. Ændringer følger med en appopdatering og en opdateret dato. Gældende fra: 2026-10-11."
+      }
+    ],
+    "nl-NL": [
+      {
+        "id": "owner",
+        "title": "Uitgever",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Je gegevens blijven lokaal",
+        "body": "AffirMate heeft geen account, eigen appserver, advertenties of tracking. De app bewaart je optionele naam, instellingen, favorieten, persoonlijke affirmaties, dagboeknotities, concepten, stemmingen en gekozen afbeeldingen lokaal op je iPhone. Wij ontvangen deze inhoud niet. De app uploadt geen teksten of afbeeldingen naar een AI-dienst. Affirmaties, illustraties en instrumentale muziek zijn in de app opgenomen."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgets en meldingen",
+        "body": "De app en widget delen een beveiligde lokale App Group-container. Widgets tonen standaard de meegeleverde dagelijkse gedachten. Als je favorieten of eigen woorden kiest, kan die tekst zichtbaar zijn op je begin- of toegangsscherm. Dagboek- en stemmingsnotities verschijnen nooit in widgets. Lokale herinneringen bevatten geen privéteksten. Meldingen zijn optioneel en kunnen in de app of iOS-instellingen worden uitgezet."
+      },
+      {
+        "id": "photos",
+        "title": "Foto's en delen",
+        "body": "Eigen achtergronden gebruiken de iOS-fotokiezer. De app importeert alleen de gekozen afbeelding en maakt een lokale kopie met lagere resolutie zonder de oorspronkelijke fotometagegevens. Bij het bewaren van een ontwerp wordt toestemming gevraagd om foto's toe te voegen, niet voor algemene toegang tot je bibliotheek. Een geïmporteerde achtergrond verwijderen laat het origineel in Foto's ongemoeid. Delen en bestandsexport gebeuren alleen op jouw verzoek. De gekozen dienst of bestemming beheert daarna de gedeelde kopie."
+      },
+      {
+        "id": "apple",
+        "title": "Apple en aankopen",
+        "body": "Wanneer in-appaankopen beschikbaar zijn, verwerkt Apple de betaling en verstrekt de app een verifieerbare transactie. AffirMate verwerkt geen creditcard- of bankgegevens. Proeftoegang en ontgrendelingen worden op het apparaat gecontroleerd aan de hand van Apple-transacties. De gratis proefperiode starten leidt niet tot een latere aankoop. Apple kan App Store-, diagnose- en apparaatgegevens verwerken volgens eigen instellingen en privacyregels. Een iOS- of iCloud-reservekopie van je apparaat kan lokale appgegevens bevatten. AffirMate biedt geen eigen cloudsynchronisatie."
+      },
+      {
+        "id": "delete",
+        "title": "Bewaren en verwijderen",
+        "body": "Lokale inhoud blijft bewaard totdat je die verwijdert. Dagboeknotities en persoonlijke affirmaties kun je afzonderlijk verwijderen. Via Profiel kun je je teksten exporteren of alle persoonlijke appgegevens wissen. Dit wist ook stemmingsgeschiedenis, herinneringen en aanpassingen, maar niet aankopen op je Apple-account of eerder geëxporteerde of gedeelde kopieën. Verwijder die kopieën en oudere apparaatreservekopieën zo nodig apart. Wij kunnen je lokale inhoud niet bekijken of voor je verwijderen."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Jouw oefening, jouw keuze",
+        "body": "Affirmaties, stemmingsnotities en muziek ondersteunen persoonlijke reflectie. Ze stellen geen diagnoses, behandelen geen aandoeningen en vervangen geen medische of psychologische zorg. Alle gevoelens zijn even welkom. Lezen vereist geen naam, fototoestemming of meldingen."
+      },
+      {
+        "id": "contact",
+        "title": "Vragen en wijzigingen",
+        "body": "Voor vragen over privacy of toegankelijkheid: support@swisswise.com. Stuur geen vertrouwelijke dagboekinhoud. Bij contact met ondersteuning ontvangen we de informatie die je vrijwillig meestuurt en gebruiken die om je vraag te beantwoorden. Dit beleid geldt voor AffirMate, los van andere Swisswise-producten. Wijzigingen komen met een appupdate en een aangepaste datum. Van kracht sinds: 2026-10-11."
+      }
+    ],
+    "en-AU": [
+      {
+        "id": "owner",
+        "title": "Publisher",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Your data stays local",
+        "body": "AffirMate has no account, app-operated server, advertising or tracking. The app stores your optional name, settings, favorites, personal affirmations, journal entries, drafts, mood entries and selected pictures locally on your iPhone. We do not receive this content. The app does not upload writing or pictures to an AI service. Affirmations, illustrations and instrumental music are bundled with the app."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgets and notifications",
+        "body": "The app and widget share a protected local App Group container. Widgets show bundled daily thoughts by default. If you choose favorites or personal words as their source, that text may be visible on your Home or Lock Screen. Journal and mood entries never appear in a widget. Local reminders contain no private writing. Notifications are optional and can be turned off in the app or iOS Settings."
+      },
+      {
+        "id": "photos",
+        "title": "Photos and sharing",
+        "body": "Custom backgrounds use the iOS photo picker. The app imports only the image you select and creates a downsampled local copy without the original photo metadata. Saving artwork asks for permission to add photos, not general access to your library. Removing an imported background leaves the original in Photos untouched. Sharing and file export happen only when you request them; your chosen service or destination then controls the shared copy."
+      },
+      {
+        "id": "apple",
+        "title": "Apple and purchases",
+        "body": "When in-app purchases are available, Apple processes payment and supplies a verifiable transaction to the app. AffirMate does not process credit card or bank details. Trial access and unlocks are checked on-device against Apple transactions. Starting the free trial does not trigger a later purchase. Apple may process App Store, diagnostic and device data under its own settings and privacy rules. Your iOS or iCloud device backup may contain local app data; AffirMate does not provide its own cloud synchronization."
+      },
+      {
+        "id": "delete",
+        "title": "Retention and deletion",
+        "body": "Local content remains until you delete it. Journal entries and personal affirmations can be removed individually. Profile lets you export your writing or reset all personal app data. Reset also removes mood history, reminders and customization, but not purchases in your Apple account or copies already exported or shared. Remove those copies and older device backups separately if needed. We cannot view or delete your local content for you."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Your practice, your choice",
+        "body": "Affirmations, mood entries and music support personal reflection. They do not diagnose or treat any condition or replace medical or psychological care. All feelings are equally welcome. Reading does not require a name, photo permission or notifications."
+      },
+      {
+        "id": "contact",
+        "title": "Questions and changes",
+        "body": "For privacy or accessibility questions: support@swisswise.com. Do not send confidential journal content. When you contact support, we receive the information you voluntarily include and use it to answer your request. This policy applies to AffirMate separately from other Swisswise products. Changes are included with an app update and an updated date. Effective: 2026-10-11."
+      }
+    ],
+    "en-CA": [
+      {
+        "id": "owner",
+        "title": "Publisher",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Your data stays local",
+        "body": "AffirMate has no account, app-operated server, advertising or tracking. The app stores your optional name, settings, favorites, personal affirmations, journal entries, drafts, mood entries and selected pictures locally on your iPhone. We do not receive this content. The app does not upload writing or pictures to an AI service. Affirmations, illustrations and instrumental music are bundled with the app."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgets and notifications",
+        "body": "The app and widget share a protected local App Group container. Widgets show bundled daily thoughts by default. If you choose favorites or personal words as their source, that text may be visible on your Home or Lock Screen. Journal and mood entries never appear in a widget. Local reminders contain no private writing. Notifications are optional and can be turned off in the app or iOS Settings."
+      },
+      {
+        "id": "photos",
+        "title": "Photos and sharing",
+        "body": "Custom backgrounds use the iOS photo picker. The app imports only the image you select and creates a downsampled local copy without the original photo metadata. Saving artwork asks for permission to add photos, not general access to your library. Removing an imported background leaves the original in Photos untouched. Sharing and file export happen only when you request them; your chosen service or destination then controls the shared copy."
+      },
+      {
+        "id": "apple",
+        "title": "Apple and purchases",
+        "body": "When in-app purchases are available, Apple processes payment and supplies a verifiable transaction to the app. AffirMate does not process credit card or bank details. Trial access and unlocks are checked on-device against Apple transactions. Starting the free trial does not trigger a later purchase. Apple may process App Store, diagnostic and device data under its own settings and privacy rules. Your iOS or iCloud device backup may contain local app data; AffirMate does not provide its own cloud synchronization."
+      },
+      {
+        "id": "delete",
+        "title": "Retention and deletion",
+        "body": "Local content remains until you delete it. Journal entries and personal affirmations can be removed individually. Profile lets you export your writing or reset all personal app data. Reset also removes mood history, reminders and customization, but not purchases in your Apple account or copies already exported or shared. Remove those copies and older device backups separately if needed. We cannot view or delete your local content for you."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Your practice, your choice",
+        "body": "Affirmations, mood entries and music support personal reflection. They do not diagnose or treat any condition or replace medical or psychological care. All feelings are equally welcome. Reading does not require a name, photo permission or notifications."
+      },
+      {
+        "id": "contact",
+        "title": "Questions and changes",
+        "body": "For privacy or accessibility questions: support@swisswise.com. Do not send confidential journal content. When you contact support, we receive the information you voluntarily include and use it to answer your request. This policy applies to AffirMate separately from other Swisswise products. Changes are included with an app update and an updated date. Effective: 2026-10-11."
+      }
+    ],
+    "en-GB": [
+      {
+        "id": "owner",
+        "title": "Publisher",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Your data stays local",
+        "body": "AffirMate has no account, app-operated server, advertising or tracking. The app stores your optional name, settings, favorites, personal affirmations, journal entries, drafts, mood entries and selected pictures locally on your iPhone. We do not receive this content. The app does not upload writing or pictures to an AI service. Affirmations, illustrations and instrumental music are bundled with the app."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgets and notifications",
+        "body": "The app and widget share a protected local App Group container. Widgets show bundled daily thoughts by default. If you choose favorites or personal words as their source, that text may be visible on your Home or Lock Screen. Journal and mood entries never appear in a widget. Local reminders contain no private writing. Notifications are optional and can be turned off in the app or iOS Settings."
+      },
+      {
+        "id": "photos",
+        "title": "Photos and sharing",
+        "body": "Custom backgrounds use the iOS photo picker. The app imports only the image you select and creates a downsampled local copy without the original photo metadata. Saving artwork asks for permission to add photos, not general access to your library. Removing an imported background leaves the original in Photos untouched. Sharing and file export happen only when you request them; your chosen service or destination then controls the shared copy."
+      },
+      {
+        "id": "apple",
+        "title": "Apple and purchases",
+        "body": "When in-app purchases are available, Apple processes payment and supplies a verifiable transaction to the app. AffirMate does not process credit card or bank details. Trial access and unlocks are checked on-device against Apple transactions. Starting the free trial does not trigger a later purchase. Apple may process App Store, diagnostic and device data under its own settings and privacy rules. Your iOS or iCloud device backup may contain local app data; AffirMate does not provide its own cloud synchronization."
+      },
+      {
+        "id": "delete",
+        "title": "Retention and deletion",
+        "body": "Local content remains until you delete it. Journal entries and personal affirmations can be removed individually. Profile lets you export your writing or reset all personal app data. Reset also removes mood history, reminders and customization, but not purchases in your Apple account or copies already exported or shared. Remove those copies and older device backups separately if needed. We cannot view or delete your local content for you."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Your practice, your choice",
+        "body": "Affirmations, mood entries and music support personal reflection. They do not diagnose or treat any condition or replace medical or psychological care. All feelings are equally welcome. Reading does not require a name, photo permission or notifications."
+      },
+      {
+        "id": "contact",
+        "title": "Questions and changes",
+        "body": "For privacy or accessibility questions: support@swisswise.com. Do not send confidential journal content. When you contact support, we receive the information you voluntarily include and use it to answer your request. This policy applies to AffirMate separately from other Swisswise products. Changes are included with an app update and an updated date. Effective: 2026-10-11."
+      }
+    ],
+    "en-US": [
+      {
+        "id": "owner",
+        "title": "Publisher",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Your data stays local",
+        "body": "AffirMate has no account, app-operated server, advertising or tracking. The app stores your optional name, settings, favorites, personal affirmations, journal entries, drafts, mood entries and selected pictures locally on your iPhone. We do not receive this content. The app does not upload writing or pictures to an AI service. Affirmations, illustrations and instrumental music are bundled with the app."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgets and notifications",
+        "body": "The app and widget share a protected local App Group container. Widgets show bundled daily thoughts by default. If you choose favorites or personal words as their source, that text may be visible on your Home or Lock Screen. Journal and mood entries never appear in a widget. Local reminders contain no private writing. Notifications are optional and can be turned off in the app or iOS Settings."
+      },
+      {
+        "id": "photos",
+        "title": "Photos and sharing",
+        "body": "Custom backgrounds use the iOS photo picker. The app imports only the image you select and creates a downsampled local copy without the original photo metadata. Saving artwork asks for permission to add photos, not general access to your library. Removing an imported background leaves the original in Photos untouched. Sharing and file export happen only when you request them; your chosen service or destination then controls the shared copy."
+      },
+      {
+        "id": "apple",
+        "title": "Apple and purchases",
+        "body": "When in-app purchases are available, Apple processes payment and supplies a verifiable transaction to the app. AffirMate does not process credit card or bank details. Trial access and unlocks are checked on-device against Apple transactions. Starting the free trial does not trigger a later purchase. Apple may process App Store, diagnostic and device data under its own settings and privacy rules. Your iOS or iCloud device backup may contain local app data; AffirMate does not provide its own cloud synchronization."
+      },
+      {
+        "id": "delete",
+        "title": "Retention and deletion",
+        "body": "Local content remains until you delete it. Journal entries and personal affirmations can be removed individually. Profile lets you export your writing or reset all personal app data. Reset also removes mood history, reminders and customization, but not purchases in your Apple account or copies already exported or shared. Remove those copies and older device backups separately if needed. We cannot view or delete your local content for you."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Your practice, your choice",
+        "body": "Affirmations, mood entries and music support personal reflection. They do not diagnose or treat any condition or replace medical or psychological care. All feelings are equally welcome. Reading does not require a name, photo permission or notifications."
+      },
+      {
+        "id": "contact",
+        "title": "Questions and changes",
+        "body": "For privacy or accessibility questions: support@swisswise.com. Do not send confidential journal content. When you contact support, we receive the information you voluntarily include and use it to answer your request. This policy applies to AffirMate separately from other Swisswise products. Changes are included with an app update and an updated date. Effective: 2026-10-11."
+      }
+    ],
+    "fi": [
+      {
+        "id": "owner",
+        "title": "Julkaisija",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Tietosi pysyvät paikallisina",
+        "body": "AffirMatessa ei ole tiliä, sovelluksen ylläpitämää palvelinta, mainontaa eikä seurantaa. Sovellus tallentaa valinnaisen nimesi, asetuksesi, suosikit, omat affirmaatiot, päiväkirjamerkinnät, luonnokset, mielialamerkinnät ja valitut kuvat paikallisesti iPhoneesi. Emme vastaanota tätä sisältöä. Sovellus ei lähetä kirjoituksia tai kuvia tekoälypalveluun. Affirmaatiot, kuvitukset ja instrumentaalimusiikki toimitetaan sovelluksen mukana."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgetit ja ilmoitukset",
+        "body": "Sovellus ja widget jakavat suojatun paikallisen App Group -säilön. Widgetit näyttävät oletuksena sovelluksen mukana tulevia päivän ajatuksia. Jos valitset lähteeksi suosikit tai omat sanasi, teksti voi näkyä Koti- tai lukitusnäytölläsi. Päiväkirja- ja mielialamerkinnät eivät koskaan näy widgetissä. Paikalliset muistutukset eivät sisällä yksityisiä kirjoituksia. Ilmoitukset ovat valinnaisia, ja ne voi poistaa käytöstä sovelluksessa tai iOS:n asetuksissa."
+      },
+      {
+        "id": "photos",
+        "title": "Kuvat ja jakaminen",
+        "body": "Mukautetut taustat käyttävät iOS:n kuvanvalitsinta. Sovellus tuo vain valitsemasi kuvan ja luo siitä pienennetyn paikallisen kopion ilman alkuperäisen kuvan metatietoja. Taideteoksen tallentaminen pyytää lupaa kuvien lisäämiseen, ei yleistä pääsyä kirjastoosi. Tuodun taustan poistaminen ei vaikuta alkuperäiseen kuvaan Kuvat-sovelluksessa. Jakaminen ja tiedostoon vienti tapahtuvat vain pyynnöstäsi; valitsemasi palvelu tai kohde hallitsee sen jälkeen jaettua kopiota."
+      },
+      {
+        "id": "apple",
+        "title": "Apple ja ostokset",
+        "body": "Kun sovelluksensisäiset ostot ovat saatavilla, Apple käsittelee maksun ja toimittaa sovellukselle todennettavan tapahtuman. AffirMate ei käsittele luottokortti- tai pankkitietoja. Kokeilujakso ja avaukset tarkistetaan laitteella Applen tapahtumia vastaan. Ilmaisen kokeilun aloittaminen ei käynnistä myöhempää ostoa. Apple voi käsitellä App Storen, diagnostiikan ja laitteen tietoja omien asetustensa ja tietosuojasääntöjensä mukaisesti. iOS- tai iCloud-laitevarmuuskopio voi sisältää sovelluksen paikallisia tietoja; AffirMate ei tarjoa omaa pilvisynkronointia."
+      },
+      {
+        "id": "delete",
+        "title": "Säilytys ja poistaminen",
+        "body": "Paikallinen sisältö säilyy, kunnes poistat sen. Päiväkirjamerkinnät ja omat affirmaatiot voi poistaa yksitellen. Profiilista voit viedä kirjoituksesi tai nollata kaikki henkilökohtaiset sovellustiedot. Nollaus poistaa myös mielialahistorian, muistutukset ja mukautukset, mutta ei Apple-tilisi ostoksia eikä jo vietyjä tai jaettuja kopioita. Poista tarvittaessa nämä kopiot ja vanhemmat laitevarmuuskopiot erikseen. Emme voi nähdä tai poistaa paikallista sisältöäsi puolestasi."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Sinun harjoituksesi, sinun valintasi",
+        "body": "Affirmaatiot, mielialamerkinnät ja musiikki tukevat henkilökohtaista pohdintaa. Ne eivät diagnosoi tai hoida mitään tilaa eivätkä korvaa lääketieteellistä tai psykologista hoitoa. Kaikki tunteet ovat yhtä tervetulleita. Lukeminen ei vaadi nimeä, kuvalupaa tai ilmoituksia."
+      },
+      {
+        "id": "contact",
+        "title": "Kysymykset ja muutokset",
+        "body": "Tietosuoja- tai saavutettavuuskysymykset: support@swisswise.com. Älä lähetä luottamuksellista päiväkirjasisältöä. Kun otat yhteyttä tukeen, saamme vapaaehtoisesti antamasi tiedot ja käytämme niitä pyyntöösi vastaamiseen. Tämä käytäntö koskee AffirMatea erillään muista Swisswise-tuotteista. Muutokset julkaistaan sovelluspäivityksen ja päivitetyn päivämäärän mukana. Voimassa: 2026-10-11."
+      }
+    ],
+    "fr-FR": [
+      {
+        "id": "owner",
+        "title": "Éditeur",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Vos données restent locales",
+        "body": "AffirMate ne comporte ni compte, ni serveur exploité par l'app, ni publicité, ni suivi. L'app conserve localement sur votre iPhone votre nom facultatif, vos réglages, favoris, affirmations personnelles, entrées de journal, brouillons, humeurs et images sélectionnées. Nous ne recevons pas ce contenu. L'app n'envoie ni vos écrits ni vos images à un service d'IA. Les affirmations, illustrations et musiques instrumentales sont intégrées à l'app."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgets et notifications",
+        "body": "L'app et le widget partagent un conteneur App Group local protégé. Par défaut, les widgets affichent les pensées du jour intégrées à l'app. Si vous choisissez vos favoris ou vos mots personnels comme source, ce texte peut être visible sur votre écran d'accueil ou verrouillé. Les entrées du journal et les humeurs n'apparaissent jamais dans un widget. Les rappels locaux ne contiennent aucun écrit privé. Les notifications sont facultatives et peuvent être désactivées dans l'app ou les Réglages d'iOS."
+      },
+      {
+        "id": "photos",
+        "title": "Photos et partage",
+        "body": "Les arrière-plans personnalisés utilisent le sélecteur de photos d'iOS. L'app importe uniquement l'image choisie et crée une copie locale de résolution réduite, sans les métadonnées de la photo originale. L'enregistrement d'une création demande l'autorisation d'ajouter des photos, pas un accès général à votre photothèque. Supprimer un arrière-plan importé ne modifie pas l'original dans Photos. Le partage et l'export de fichiers ont lieu uniquement à votre demande ; le service ou la destination que vous choisissez contrôle ensuite la copie partagée."
+      },
+      {
+        "id": "apple",
+        "title": "Apple et les achats",
+        "body": "Lorsque les achats intégrés sont disponibles, Apple traite le paiement et fournit à l'app une transaction vérifiable. AffirMate ne traite aucune donnée de carte bancaire ni de compte bancaire. L'accès à l'essai et les déblocages sont vérifiés sur l'appareil à partir des transactions Apple. Le lancement de l'essai gratuit ne déclenche aucun achat ultérieur. Apple peut traiter des données de l'App Store, de diagnostic et de l'appareil selon ses propres réglages et règles de confidentialité. Vos sauvegardes d'appareil iOS ou iCloud peuvent contenir les données locales de l'app ; AffirMate ne propose pas sa propre synchronisation dans le cloud."
+      },
+      {
+        "id": "delete",
+        "title": "Conservation et suppression",
+        "body": "Le contenu local est conservé jusqu'à sa suppression par vos soins. Les entrées du journal et les affirmations personnelles peuvent être supprimées individuellement. Le profil permet d'exporter vos écrits ou de réinitialiser toutes les données personnelles de l'app. La réinitialisation supprime aussi l'historique des humeurs, les rappels et la personnalisation, mais pas les achats de votre compte Apple ni les copies déjà exportées ou partagées. Supprimez ces copies et les anciennes sauvegardes de l'appareil séparément si nécessaire. Nous ne pouvons ni consulter ni supprimer votre contenu local à votre place."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Votre pratique, votre choix",
+        "body": "Les affirmations, les notes d'humeur et la musique accompagnent la réflexion personnelle. Elles ne permettent ni de diagnostiquer ni de traiter un trouble et ne remplacent pas des soins médicaux ou psychologiques. Tous les ressentis sont les bienvenus. La lecture ne nécessite ni nom, ni autorisation d'accès aux photos, ni notifications."
+      },
+      {
+        "id": "contact",
+        "title": "Questions et modifications",
+        "body": "Pour toute question de confidentialité ou d'accessibilité : support@swisswise.com. N'envoyez pas de contenu confidentiel de votre journal. Lorsque vous contactez l'assistance, nous recevons les informations que vous fournissez volontairement et les utilisons pour répondre à votre demande. Cette politique s'applique à AffirMate indépendamment des autres produits Swisswise. Les modifications sont incluses dans une mise à jour de l'app, avec une date actualisée. Date d'entrée en vigueur : 2026-10-11."
+      }
+    ],
+    "fr-CA": [
+      {
+        "id": "owner",
+        "title": "Éditeur",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Vos données restent locales",
+        "body": "AffirMate n'a ni compte, ni serveur exploité par l'app, ni publicité, ni suivi. L'app stocke localement sur votre iPhone votre nom (facultatif), vos réglages, vos favoris, vos affirmations personnelles, vos entrées de journal, vos brouillons, vos entrées d'humeur et les images sélectionnées. Nous ne recevons pas ce contenu. L'app n'envoie ni textes ni images à un service d'IA. Les affirmations, les illustrations et la musique instrumentale sont intégrées à l'app."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgets et notifications",
+        "body": "L'app et le widget partagent un conteneur local protégé de groupe d'apps. Par défaut, les widgets affichent les pensées du jour intégrées. Si vous choisissez vos favoris ou vos mots personnels comme source, ce texte peut être visible sur votre écran d'accueil ou votre écran verrouillé. Les entrées du journal et d'humeur n'apparaissent jamais dans un widget. Les rappels locaux ne contiennent aucun texte privé. Les notifications sont facultatives et peuvent être désactivées dans l'app ou dans les Réglages d'iOS."
+      },
+      {
+        "id": "photos",
+        "title": "Photos et partage",
+        "body": "Les arrière-plans personnalisés utilisent le sélecteur de photos d'iOS. L'app importe uniquement l'image que vous sélectionnez et en crée une copie locale réduite, sans les métadonnées de la photo originale. L'enregistrement d'une création demande l'autorisation d'ajouter des photos, et non un accès général à votre photothèque. La suppression d'un arrière-plan importé ne touche pas à l'original dans Photos. Le partage et l'exportation de fichiers n'ont lieu que sur votre demande; le service ou la destination que vous choisissez contrôle ensuite la copie partagée."
+      },
+      {
+        "id": "apple",
+        "title": "Apple et achats",
+        "body": "Lorsque les achats intégrés sont disponibles, Apple traite le paiement et transmet à l'app une transaction vérifiable. AffirMate ne traite aucune donnée de carte de crédit ni de compte bancaire. L'accès à l'essai et les déverrouillages sont vérifiés sur l'appareil à partir des transactions Apple. Le fait de commencer l'essai gratuit ne déclenche aucun achat ultérieur. Apple peut traiter des données liées à l'App Store, des données de diagnostic et des données d'appareil selon ses propres réglages et règles de confidentialité. La sauvegarde de votre appareil sur iOS ou iCloud peut contenir des données locales de l'app; AffirMate n'offre pas sa propre synchronisation infonuagique."
+      },
+      {
+        "id": "delete",
+        "title": "Conservation et suppression",
+        "body": "Le contenu local reste en place jusqu'à ce que vous le supprimiez. Les entrées du journal et les affirmations personnelles peuvent être supprimées une à une. Dans Profil, vous pouvez exporter vos écrits ou réinitialiser toutes les données personnelles de l'app. La réinitialisation efface aussi l'historique des humeurs, les rappels et la personnalisation, mais pas les achats associés à votre compte Apple ni les copies déjà exportées ou partagées. Supprimez ces copies et les anciennes sauvegardes d'appareil séparément au besoin. Nous ne pouvons ni consulter ni supprimer votre contenu local à votre place."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Votre pratique, votre choix",
+        "body": "Les affirmations, les entrées d'humeur et la musique soutiennent la réflexion personnelle. Elles ne servent pas à diagnostiquer ni à traiter une condition, et elles ne remplacent pas les soins médicaux ou psychologiques. Toutes les émotions sont les bienvenues. La lecture n'exige ni nom, ni autorisation d'accès aux photos, ni notifications."
+      },
+      {
+        "id": "contact",
+        "title": "Questions et modifications",
+        "body": "Pour toute question sur la confidentialité ou l'accessibilité : support@swisswise.com. N'envoyez pas de contenu confidentiel de votre journal. Lorsque vous communiquez avec le soutien, nous recevons les renseignements que vous choisissez d'inclure et nous les utilisons pour répondre à votre demande. Cette politique s'applique à AffirMate séparément des autres produits de Swisswise. Les modifications sont publiées avec une mise à jour de l'app et une date mise à jour. En vigueur : 2026-10-11."
+      }
+    ],
+    "de-DE": [
+      {
+        "id": "owner",
+        "title": "Verantwortlich",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Deine Daten bleiben lokal",
+        "body": "AffirMate verwendet kein Benutzerkonto, keinen eigenen Server, keine Werbung und kein Tracking. Die App speichert deinen optionalen Namen, Einstellungen, Favoriten, eigene Affirmationen, Tagebucheinträge, Entwürfe, Stimmungseinträge und ausgewählte Bilder lokal auf deinem iPhone. Wir erhalten diese Inhalte nicht. Die App lädt keine Texte oder Bilder zu einem KI-Dienst hoch. Affirmationen, Illustrationen und instrumentale Musik sind in der App enthalten."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgets und Mitteilungen",
+        "body": "App und Widget teilen einen lokalen, geschützten App-Gruppen-Container. Standardmässig zeigen Widgets nur enthaltene Tagesgedanken. Wenn du Favoriten oder eigene Worte als Quelle auswählst, können diese auf deinem Home- oder Sperrbildschirm sichtbar sein. Deine Tagebuch- und Stimmungseinträge erscheinen nie im Widget. Lokale Erinnerungen enthalten keine privaten Texte. Mitteilungen sind optional und lassen sich in der App oder in den iOS-Einstellungen ausschalten."
+      },
+      {
+        "id": "photos",
+        "title": "Fotos und Teilen",
+        "body": "Für eigene Hintergründe verwendest du den iOS-Fotowähler. Die App übernimmt nur das von dir ausgewählte Bild und erstellt eine verkleinerte lokale Kopie ohne die ursprünglichen Fotometadaten. Zum Speichern eines gestalteten Bildes fragt die App nach der Berechtigung, Fotos hinzuzufügen; sie benötigt keinen allgemeinen Zugriff auf deine Fotomediathek. Beim Entfernen eines Hintergrunds bleibt das Original in Fotos erhalten. Teilen und Dateiexport geschehen nur nach deiner Aktion; der von dir ausgewählte Dienst oder Speicherort ist dann für die geteilte Kopie verantwortlich."
+      },
+      {
+        "id": "apple",
+        "title": "Apple und Käufe",
+        "body": "Falls In-App-Käufe verfügbar sind, verarbeitet Apple die Zahlung und stellt der App einen überprüfbaren Kaufbeleg bereit. AffirMate verarbeitet keine Kreditkarten- oder Bankdaten. Testzugang und Freischaltung werden anhand von Apples Transaktionen auf dem Gerät geprüft. Das Starten des kostenlosen Tests löst keinen späteren Kauf aus. Apple kann App-Store-, Diagnose- und Gerätedaten nach seinen eigenen Einstellungen und Datenschutzregeln verarbeiten. Deine iOS- oder iCloud-Gerätesicherung kann lokale App-Daten enthalten; AffirMate bietet keine eigene Cloud-Synchronisation."
+      },
+      {
+        "id": "delete",
+        "title": "Aufbewahrung und Löschen",
+        "body": "Lokale Inhalte bleiben bis zu deiner Löschung erhalten. Tagebucheinträge und eigene Affirmationen kannst du einzeln entfernen. Unter Profil kannst du deine Texte exportieren oder alle persönlichen App-Daten zurücksetzen. Der Reset entfernt auch Stimmungseinträge, Erinnerungen und Anpassungen, jedoch keine Käufe im Apple-Konto und keine bereits exportierten oder geteilten Kopien. Entferne solche Kopien und ältere Gerätesicherungen bei Bedarf selbst. Wir können lokale Inhalte weder einsehen noch für dich löschen."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Deine Praxis, deine Entscheidung",
+        "body": "Affirmationen, Stimmungseinträge und Musik dienen der persönlichen Reflexion. Sie diagnostizieren oder behandeln keine Erkrankung und ersetzen keine medizinische oder psychologische Begleitung. Jeder Gefühlseintrag ist gleich willkommen. Du brauchst keinen Namen, keine Fotoberechtigung und keine Mitteilungen, um zu lesen."
+      },
+      {
+        "id": "contact",
+        "title": "Fragen und Änderungen",
+        "body": "Bei Fragen zu Datenschutz oder Barrierefreiheit: support@swisswise.com. Sende uns keine vertraulichen Tagebuchinhalte. Wenn du den Support kontaktierst, erhalten wir die Angaben, die du freiwillig mitsendest, und verwenden sie zur Bearbeitung deiner Anfrage. Diese Erklärung gilt für AffirMate und ist von den Regeln anderer Swisswise-Produkte getrennt. Änderungen werden mit dem App-Update und einem neuen Datum kenntlich gemacht. Stand: 2026-10-11."
+      }
+    ],
+    "el": [
+      {
+        "id": "owner",
+        "title": "Εκδότης",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Τα δεδομένα σου μένουν τοπικά",
+        "body": "Το AffirMate δεν έχει λογαριασμό, διακομιστή που λειτουργεί από την εφαρμογή, διαφημίσεις ή παρακολούθηση. Η εφαρμογή αποθηκεύει τοπικά στο iPhone σου το προαιρετικό όνομά σου, τις ρυθμίσεις, τα αγαπημένα, τις προσωπικές επιβεβαιώσεις, τις καταχωρίσεις ημερολογίου, τα πρόχειρα, τις καταγραφές διάθεσης και τις εικόνες που επιλέγεις. Δεν λαμβάνουμε αυτό το περιεχόμενο. Η εφαρμογή δεν ανεβάζει κείμενα ή εικόνες σε υπηρεσία AI. Οι επιβεβαιώσεις, οι εικονογραφήσεις και η οργανική μουσική περιλαμβάνονται στην εφαρμογή."
+      },
+      {
+        "id": "widgets",
+        "title": "Widget και ειδοποιήσεις",
+        "body": "Η εφαρμογή και το widget μοιράζονται έναν προστατευμένο τοπικό χώρο App Group. Τα widget εμφανίζουν από προεπιλογή τις ενσωματωμένες καθημερινές σκέψεις. Αν επιλέξεις ως πηγή τα αγαπημένα ή τα προσωπικά σου λόγια, αυτό το κείμενο μπορεί να είναι ορατό στην Αρχική οθόνη ή στην Οθόνη κλειδώματος. Οι καταχωρίσεις ημερολογίου και διάθεσης δεν εμφανίζονται ποτέ σε widget. Οι τοπικές υπενθυμίσεις δεν περιέχουν ιδιωτικά κείμενα. Οι ειδοποιήσεις είναι προαιρετικές και μπορούν να απενεργοποιηθούν στην εφαρμογή ή στις Ρυθμίσεις του iOS."
+      },
+      {
+        "id": "photos",
+        "title": "Φωτογραφίες και κοινοποίηση",
+        "body": "Τα προσαρμοσμένα φόντα χρησιμοποιούν τον επιλογέα φωτογραφιών του iOS. Η εφαρμογή εισάγει μόνο την εικόνα που επιλέγεις και δημιουργεί τοπικό αντίγραφο μειωμένης ανάλυσης χωρίς τα μεταδεδομένα της αρχικής φωτογραφίας. Για την αποθήκευση έργων ζητείται άδεια προσθήκης φωτογραφιών, όχι γενική πρόσβαση στη βιβλιοθήκη σου. Η αφαίρεση ενός εισαγμένου φόντου δεν επηρεάζει το πρωτότυπο στις Φωτογραφίες. Η κοινοποίηση και η εξαγωγή αρχείων γίνονται μόνο όταν τις ζητήσεις· η υπηρεσία ή ο προορισμός που επιλέγεις ελέγχει στη συνέχεια το κοινοποιημένο αντίγραφο."
+      },
+      {
+        "id": "apple",
+        "title": "Apple και αγορές",
+        "body": "Όταν είναι διαθέσιμες αγορές εντός εφαρμογής, η Apple επεξεργάζεται την πληρωμή και παρέχει στην εφαρμογή μια επαληθεύσιμη συναλλαγή. Το AffirMate δεν επεξεργάζεται στοιχεία πιστωτικών καρτών ή τραπεζικών λογαριασμών. Η δοκιμαστική πρόσβαση και οι ξεκλειδώσεις ελέγχονται στη συσκευή με βάση τις συναλλαγές της Apple. Η έναρξη της δωρεάν δοκιμής δεν ενεργοποιεί μεταγενέστερη αγορά. Η Apple μπορεί να επεξεργάζεται δεδομένα του App Store, διαγνωστικά δεδομένα και δεδομένα συσκευής σύμφωνα με τις δικές της ρυθμίσεις και κανόνες απορρήτου. Το αντίγραφο ασφαλείας της συσκευής σου στο iOS ή το iCloud μπορεί να περιέχει τοπικά δεδομένα της εφαρμογής· το AffirMate δεν παρέχει δικό του συγχρονισμό στο cloud."
+      },
+      {
+        "id": "delete",
+        "title": "Διατήρηση και διαγραφή",
+        "body": "Το τοπικό περιεχόμενο παραμένει μέχρι να το διαγράψεις. Οι καταχωρίσεις ημερολογίου και οι προσωπικές επιβεβαιώσεις μπορούν να αφαιρεθούν μία προς μία. Στο Προφίλ μπορείς να εξαγάγεις τα κείμενά σου ή να επαναφέρεις όλα τα προσωπικά δεδομένα της εφαρμογής. Η επαναφορά αφαιρεί επίσης το ιστορικό διάθεσης, τις υπενθυμίσεις και την προσαρμογή, αλλά όχι τις αγορές στον λογαριασμό σου Apple ούτε αντίγραφα που έχουν ήδη εξαχθεί ή κοινοποιηθεί. Αν χρειάζεται, αφαίρεσε χωριστά αυτά τα αντίγραφα και παλαιότερα αντίγραφα ασφαλείας της συσκευής. Δεν μπορούμε να δούμε ή να διαγράψουμε το τοπικό σου περιεχόμενο για λογαριασμό σου."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Η πρακτική σου, η επιλογή σου",
+        "body": "Οι επιβεβαιώσεις, οι καταγραφές διάθεσης και η μουσική υποστηρίζουν την προσωπική περισυλλογή. Δεν διαγιγνώσκουν ούτε θεραπεύουν καμία πάθηση και δεν αντικαθιστούν την ιατρική ή ψυχολογική φροντίδα. Όλα τα συναισθήματα είναι εξίσου ευπρόσδεκτα. Η ανάγνωση δεν απαιτεί όνομα, άδεια για φωτογραφίες ή ειδοποιήσεις."
+      },
+      {
+        "id": "contact",
+        "title": "Ερωτήσεις και αλλαγές",
+        "body": "Για ερωτήσεις σχετικά με το απόρρητο ή την προσβασιμότητα: support@swisswise.com. Μην στέλνεις εμπιστευτικό περιεχόμενο ημερολογίου. Όταν επικοινωνείς με την υποστήριξη, λαμβάνουμε τις πληροφορίες που συμπεριλαμβάνεις οικειοθελώς και τις χρησιμοποιούμε για να απαντήσουμε στο αίτημά σου. Αυτή η πολιτική ισχύει για το AffirMate χωριστά από άλλα προϊόντα της Swisswise. Οι αλλαγές περιλαμβάνονται σε μια ενημέρωση της εφαρμογής και σε μια ενημερωμένη ημερομηνία. Σε ισχύ από: 2026-10-11."
+      }
+    ],
+    "gu-IN": [
+      {
+        "id": "owner",
+        "title": "પ્રકાશક",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "તમારો ડેટા સ્થાનિક રહે છે",
+        "body": "AffirMateમાં ખાતું, ઍપ દ્વારા સંચાલિત સર્વર, જાહેરાતો કે ટ્રૅકિંગ નથી. ઍપ તમારું વૈકલ્પિક નામ, સેટિંગ્સ, મનપસંદ, વ્યક્તિગત હકારાત્મક વાક્યો, ડાયરીની નોંધો, કાચાં લખાણ, મનોદશાની નોંધો અને પસંદ કરેલાં ચિત્રો તમારા iPhone પર સ્થાનિક રીતે સાચવે છે. આ સામગ્રી અમને મળતી નથી. ઍપ લખાણ કે ચિત્રો કોઈ AI સેવામાં અપલોડ કરતી નથી. હકારાત્મક વાક્યો, ચિત્રાંકનો અને વાદ્યસંગીત ઍપ સાથે સામેલ છે."
+      },
+      {
+        "id": "widgets",
+        "title": "વિજેટ અને સૂચનાઓ",
+        "body": "ઍપ અને વિજેટ સુરક્ષિત સ્થાનિક App Group કન્ટેનર વહેંચે છે. મૂળભૂત રીતે વિજેટમાં ઍપ સાથેની દૈનિક વિચારણાઓ દેખાય છે. જો સ્ત્રોત તરીકે મનપસંદ અથવા પોતાના શબ્દો પસંદ કરો, તો તે લખાણ હોમ અથવા લૉક સ્ક્રીન પર દેખાઈ શકે છે. ડાયરી અને મનોદશાની નોંધો ક્યારેય વિજેટમાં આવતી નથી. સ્થાનિક રિમાઇન્ડરમાં ખાનગી લખાણ હોતું નથી. સૂચનાઓ વૈકલ્પિક છે અને ઍપ અથવા iOS સેટિંગ્સમાં બંધ કરી શકાય છે."
+      },
+      {
+        "id": "photos",
+        "title": "ફોટા અને વહેંચવું",
+        "body": "પોતાની પૃષ્ઠભૂમિ માટે iOSનું ફોટો પસંદગી સાધન વપરાય છે. ઍપ ફક્ત પસંદ કરેલું ચિત્ર આયાત કરે છે અને મૂળ ફોટાના મેટાડેટા વિના ઓછી રિઝોલ્યુશનની સ્થાનિક નકલ બનાવે છે. ચિત્ર સાચવવા ફોટા ઉમેરવાની પરવાનગી માંગે છે, આખી લાઇબ્રેરીનો સામાન્ય પ્રવેશ નહીં. આયાત કરેલી પૃષ્ઠભૂમિ દૂર કરવાથી Photosમાં મૂળ ફોટો બદલાતો નથી. વહેંચવું અને ફાઇલ નિકાસ ફક્ત તમારી વિનંતીથી થાય છે; પછી પસંદ કરેલી સેવા અથવા ગંતવ્ય વહેંચેલી નકલ નિયંત્રિત કરે છે."
+      },
+      {
+        "id": "apple",
+        "title": "Apple અને ખરીદીઓ",
+        "body": "ઍપની અંદર ખરીદી ઉપલબ્ધ હોય ત્યારે Apple ચુકવણી સંભાળે છે અને ઍપને ચકાસી શકાય એવો વ્યવહાર આપે છે. AffirMate ક્રેડિટ કાર્ડ કે બેંકની વિગતો સંભાળતું નથી. અજમાયશી પ્રવેશ અને અનલૉક Appleના વ્યવહારો સામે ઉપકરણ પર ચકાસાય છે. મફત અજમાયશ શરૂ કરવાથી પછી ખરીદી થતી નથી. Apple પોતાની સેટિંગ્સ અને ગોપનીયતાના નિયમો હેઠળ App Store, નિદાન અને ઉપકરણના ડેટા પર પ્રક્રિયા કરી શકે છે. તમારા iOS અથવા iCloud ઉપકરણ બૅકઅપમાં ઍપનો સ્થાનિક ડેટા હોઈ શકે છે; AffirMate પોતાની ક્લાઉડ સમન્વય સેવા આપતું નથી."
+      },
+      {
+        "id": "delete",
+        "title": "સંગ્રહ અને દૂર કરવું",
+        "body": "સ્થાનિક સામગ્રી તમે કાઢી નાખો ત્યાં સુધી રહે છે. ડાયરીની નોંધો અને વ્યક્તિગત હકારાત્મક વાક્યો એક-એક કરીને દૂર કરી શકાય છે. પ્રોફાઇલમાંથી તમે લખાણ નિકાસ કરી શકો છો અથવા ઍપનો બધો વ્યક્તિગત ડેટા રીસેટ કરી શકો છો. રીસેટથી મનોદશાનો ઇતિહાસ, રિમાઇન્ડર અને વ્યક્તિગત ગોઠવણ પણ દૂર થાય છે, પરંતુ Apple ખાતાની ખરીદીઓ કે અગાઉ નિકાસ કરેલી અથવા વહેંચેલી નકલો દૂર થતી નથી. જરૂર હોય તો તે નકલો અને જૂના ઉપકરણ બૅકઅપ અલગથી દૂર કરો. અમે તમારી સ્થાનિક સામગ્રી તમારા વતી જોઈ કે કાઢી શકતા નથી."
+      },
+      {
+        "id": "wellbeing",
+        "title": "તમારી સાધના, તમારી પસંદગી",
+        "body": "હકારાત્મક વાક્યો, મનોદશાની નોંધો અને સંગીત વ્યક્તિગત ચિંતનને ટેકો આપે છે. તે કોઈ સ્થિતિનું નિદાન કે સારવાર કરતાં નથી અને તબીબી અથવા મનોવૈજ્ઞાનિક સંભાળનું સ્થાન લેતાં નથી. બધી લાગણીઓ સમાન રીતે આવકાર્ય છે. વાંચવા માટે નામ, ફોટાની પરવાનગી કે સૂચનાઓ જરૂરી નથી."
+      },
+      {
+        "id": "contact",
+        "title": "પ્રશ્નો અને ફેરફારો",
+        "body": "ગોપનીયતા અથવા સુલભતા અંગે પ્રશ્નો માટે: support@swisswise.com. ડાયરીની ગોપનીય સામગ્રી મોકલશો નહીં. તમે સહાય માટે સંપર્ક કરો ત્યારે સ્વેચ્છાએ આપેલી માહિતી અમને મળે છે અને તમારી વિનંતીનો જવાબ આપવા વપરાય છે. આ નીતિ અન્ય Swisswise ઉત્પાદનોની નીતિથી અલગ રીતે AffirMateને લાગુ પડે છે. ફેરફારો ઍપના અપડેટ અને નવી તારીખ સાથે સામેલ થાય છે. અમલની તારીખ: 2026-10-11."
+      }
+    ],
+    "he": [
+      {
+        "id": "owner",
+        "title": "הגורם המפרסם",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "הנתונים שלך נשארים מקומיים",
+        "body": "ב־AffirMate אין חשבון, שרת שמופעל מטעם היישום, פרסום או מעקב. היישום שומר מקומית ב־iPhone שלך שם אופציונלי, הגדרות, מועדפים, אמירות אישיות, רשומות יומן, טיוטות, תיעוד מצב רוח ותמונות שנבחרו. איננו מקבלים תוכן זה. היישום אינו מעלה כתיבה או תמונות לשירות בינה מלאכותית. האמירות, האיורים והמוזיקה הכלית כלולים ביישום."
+      },
+      {
+        "id": "widgets",
+        "title": "ווידג׳טים והתראות",
+        "body": "היישום והווידג׳ט חולקים מכל App Group מקומי מוגן. כברירת מחדל, הווידג׳טים מציגים מחשבות יומיות שכלולות ביישום. אם נבחרים מועדפים או מילים אישיות כמקור, הטקסט עשוי להיות גלוי במסך הבית או הנעילה. רשומות יומן ותיעוד מצב רוח לעולם אינם מופיעים בווידג׳ט. תזכורות מקומיות אינן כוללות כתיבה פרטית. התראות הן אופציונליות וניתן לכבותן ביישום או בהגדרות iOS."
+      },
+      {
+        "id": "photos",
+        "title": "תמונות ושיתוף",
+        "body": "רקעים אישיים משתמשים בבורר התמונות של iOS. היישום מייבא רק את התמונה שנבחרה ויוצר עותק מקומי ברזולוציה מופחתת ללא המטא־נתונים של התמונה המקורית. שמירת יצירה מבקשת הרשאה להוסיף תמונות, לא גישה כללית לספרייה. הסרת רקע שיובא אינה משנה את המקור ביישום תמונות. שיתוף וייצוא קבצים מתבצעים רק לפי בקשתך; לאחר מכן השירות או היעד שנבחרו שולטים בעותק ששותף."
+      },
+      {
+        "id": "apple",
+        "title": "Apple ורכישות",
+        "body": "כאשר רכישות בתוך היישום זמינות, Apple מעבדת את התשלום ומספקת ליישום עסקה שניתן לאמת. AffirMate אינו מעבד פרטי כרטיס אשראי או בנק. הגישה לתקופת הניסיון ופתיחת התכונות נבדקות במכשיר מול עסקאות Apple. התחלת תקופת הניסיון החינמית אינה מפעילה רכישה מאוחרת יותר. Apple עשויה לעבד נתוני App Store, אבחון ומכשיר לפי ההגדרות וכללי הפרטיות שלה. גיבוי המכשיר ב־iOS או ב־iCloud עשוי להכיל נתונים מקומיים של היישום; AffirMate אינו מספק סנכרון ענן משלו."
+      },
+      {
+        "id": "delete",
+        "title": "שמירה ומחיקה",
+        "body": "תוכן מקומי נשאר עד למחיקתו על ידך. אפשר להסיר רשומות יומן ואמירות אישיות בנפרד. בפרופיל אפשר לייצא את הכתיבה או לאפס את כל נתוני היישום האישיים. האיפוס מסיר גם היסטוריית מצב רוח, תזכורות והתאמות אישיות, אך לא רכישות בחשבון Apple או עותקים שכבר יוצאו או שותפו. לפי הצורך, יש להסיר עותקים אלה וגיבויי מכשיר ישנים בנפרד. אין לנו אפשרות לצפות בתוכן המקומי שלך או למחוק אותו עבורך."
+      },
+      {
+        "id": "wellbeing",
+        "title": "התרגול שלך, הבחירה שלך",
+        "body": "אמירות מחזקות, תיעוד מצב רוח ומוזיקה תומכים בהתבוננות אישית. הם אינם מאבחנים או מטפלים במצב כלשהו ואינם תחליף לטיפול רפואי או פסיכולוגי. כל הרגשות מתקבלים באותה מידה. הקריאה אינה דורשת שם, הרשאת תמונות או התראות."
+      },
+      {
+        "id": "contact",
+        "title": "שאלות ושינויים",
+        "body": "לשאלות על פרטיות או נגישות: support@swisswise.com. אין לשלוח תוכן יומן חסוי. בפנייה לתמיכה אנו מקבלים את המידע שנמסר מרצונך ומשתמשים בו למענה לפנייה. מדיניות זו חלה על AffirMate בנפרד ממוצרי Swisswise אחרים. שינויים נכללים בעדכון היישום בצירוף תאריך מעודכן. בתוקף מיום: 2026-10-11."
+      }
+    ],
+    "hi": [
+      {
+        "id": "owner",
+        "title": "प्रकाशक",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "आपका डेटा स्थानीय रहता है",
+        "body": "AffirMate में खाता, ऐप द्वारा संचालित सर्वर, विज्ञापन या ट्रैकिंग नहीं है। ऐप आपका वैकल्पिक नाम, सेटिंग, पसंदीदा, निजी कथन, डायरी प्रविष्टियाँ, ड्राफ़्ट, मनोदशा प्रविष्टियाँ और चुनी तस्वीरें आपके iPhone पर स्थानीय रूप से रखता है। हमें यह सामग्री नहीं मिलती। ऐप लेखन या तस्वीरें किसी AI सेवा पर अपलोड नहीं करता। कथन, चित्र और वाद्य संगीत ऐप में शामिल हैं।"
+      },
+      {
+        "id": "widgets",
+        "title": "विजेट और सूचनाएँ",
+        "body": "ऐप और विजेट सुरक्षित स्थानीय App Group कंटेनर साझा करते हैं। विजेट सामान्यतः ऐप में शामिल दैनिक विचार दिखाते हैं। स्रोत में पसंदीदा या निजी शब्द चुनने पर वह पाठ होम या लॉक स्क्रीन पर दिख सकता है। डायरी और मनोदशा प्रविष्टियाँ कभी विजेट में नहीं आतीं। स्थानीय रिमाइंडर में निजी लेखन नहीं होता। सूचनाएँ वैकल्पिक हैं और ऐप या iOS सेटिंग में बंद हो सकती हैं।"
+      },
+      {
+        "id": "photos",
+        "title": "तस्वीरें और साझा करना",
+        "body": "निजी पृष्ठभूमि के लिए iOS फ़ोटो चयनकर्ता इस्तेमाल होता है। ऐप सिर्फ़ चुनी तस्वीर आयात करता है और मूल फ़ोटो मेटाडेटा के बिना कम रेज़ोल्यूशन की स्थानीय प्रति बनाता है। कलाकृति सहेजते समय फ़ोटो जोड़ने की अनुमति माँगी जाती है, पूरी लाइब्रेरी की सामान्य पहुँच नहीं। आयातित पृष्ठभूमि हटाने से Photos में मूल तस्वीर नहीं बदलती। साझा करना और फ़ाइल निर्यात केवल आपके अनुरोध पर होता है; उसके बाद चुनी सेवा या स्थान साझा प्रति नियंत्रित करता है।"
+      },
+      {
+        "id": "apple",
+        "title": "Apple और खरीदारी",
+        "body": "ऐप में खरीद उपलब्ध होने पर Apple भुगतान संसाधित करता है और ऐप को सत्यापन योग्य लेनदेन देता है। AffirMate क्रेडिट कार्ड या बैंक विवरण संसाधित नहीं करता। ट्रायल और अनलॉक की पहुँच डिवाइस पर Apple लेनदेनों से जाँची जाती है। मुफ़्त ट्रायल शुरू करने से बाद में खरीद नहीं होती। Apple अपनी सेटिंग और गोपनीयता नियमों के अनुसार App Store, निदान और डिवाइस डेटा संसाधित कर सकता है। आपके iOS या iCloud डिवाइस बैकअप में स्थानीय ऐप डेटा हो सकता है; AffirMate अपनी क्लाउड सिंक सेवा नहीं देता।"
+      },
+      {
+        "id": "delete",
+        "title": "संग्रह और मिटाना",
+        "body": "स्थानीय सामग्री आपके मिटाने तक रहती है। डायरी प्रविष्टियाँ और निजी कथन अलग-अलग हटाए जा सकते हैं। प्रोफ़ाइल में लेखन निर्यात या सभी निजी ऐप डेटा रीसेट कर सकते हैं। रीसेट से मनोदशा इतिहास, रिमाइंडर और निजी सेटिंग भी मिटती हैं, पर Apple खाते की खरीद और पहले निर्यात या साझा प्रतियाँ नहीं। ज़रूरत हो तो वे प्रतियाँ और पुराने डिवाइस बैकअप अलग हटाएँ। हम आपकी स्थानीय सामग्री देख या आपके लिए मिटा नहीं सकते।"
+      },
+      {
+        "id": "wellbeing",
+        "title": "आपका अभ्यास, आपकी पसंद",
+        "body": "कथन, मनोदशा प्रविष्टियाँ और संगीत निजी चिंतन में मदद करते हैं। ये किसी स्थिति का निदान या इलाज नहीं करते और चिकित्सा या मनोवैज्ञानिक देखभाल का विकल्प नहीं हैं। हर भावना समान रूप से स्वीकार्य है। पढ़ने के लिए नाम, फ़ोटो अनुमति या सूचनाएँ ज़रूरी नहीं।"
+      },
+      {
+        "id": "contact",
+        "title": "सवाल और बदलाव",
+        "body": "गोपनीयता या सुलभता के सवालों के लिए: support@swisswise.com। गोपनीय डायरी सामग्री न भेजें। सहायता से संपर्क करने पर हमें आपके स्वेच्छा से दिए विवरण मिलते हैं और हम उनका उपयोग जवाब देने के लिए करते हैं। यह नीति अन्य Swisswise उत्पादों से अलग AffirMate पर लागू है। बदलाव ऐप अपडेट और संशोधित तारीख के साथ आते हैं। प्रभावी तारीख: 2026-10-11।"
+      }
+    ],
+    "hu": [
+      {
+        "id": "owner",
+        "title": "Kiadó",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Az adataid helyben maradnak",
+        "body": "Az AffirMate-ben nincs fiók, az alkalmazás által működtetett szerver, reklám vagy követés. Az alkalmazás a választható nevedet, beállításaidat, kedvenceidet, személyes megerősítéseidet, naplóbejegyzéseidet, piszkozataidat, hangulatbejegyzéseidet és kiválasztott képeidet helyben, az iPhone-odon tárolja. Ezt a tartalmat nem kapjuk meg. Az alkalmazás nem tölt fel írásokat vagy képeket MI-szolgáltatásba. A megerősítések, illusztrációk és hangszeres zenék az alkalmazás részei."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgetek és értesítések",
+        "body": "Az alkalmazás és a widget egy védett, helyi alkalmazáscsoport-tárolót használ közösen. A widgetek alapértelmezés szerint a mellékelt napi gondolatokat mutatják. Ha kedvenceket vagy személyes szavakat választasz forrásként, ez a szöveg látható lehet a főképernyődön vagy a zárolási képernyődön. Napló- és hangulatbejegyzések soha nem jelennek meg widgetben. A helyi emlékeztetők nem tartalmaznak magánírásokat. Az értesítések választhatók, és az alkalmazásban vagy az iOS Beállításokban kikapcsolhatók."
+      },
+      {
+        "id": "photos",
+        "title": "Fotók és megosztás",
+        "body": "Az egyéni hátterek az iOS fotóválasztóját használják. Az alkalmazás csak a kiválasztott képet importálja, és csökkentett felbontású helyi másolatot készít az eredeti fotó metaadatai nélkül. Az alkotás mentése fotók hozzáadására kér engedélyt, nem általános könyvtárhozzáférésre. Az importált háttér eltávolítása nem módosítja az eredetit a Fotókban. Megosztás és fájlexportálás csak a kérésedre történik; utána a választott szolgáltatás vagy célhely kezeli a megosztott másolatot."
+      },
+      {
+        "id": "apple",
+        "title": "Apple és vásárlások",
+        "body": "Ha elérhetők az alkalmazáson belüli vásárlások, az Apple dolgozza fel a fizetést, és ellenőrizhető tranzakciót biztosít az alkalmazásnak. Az AffirMate nem kezel bankkártya- vagy banki adatokat. A próbahozzáférést és a feloldásokat az eszköz ellenőrzi az Apple-tranzakciók alapján. Az ingyenes próba elindítása nem indít későbbi vásárlást. Az Apple az App Store-hoz, a diagnosztikához és az eszközhöz kapcsolódó adatokat saját beállításai és adatvédelmi szabályai szerint kezelheti. Az iOS- vagy iCloud-biztonsági mentés tartalmazhat helyi alkalmazásadatokat; az AffirMate nem biztosít saját felhőszinkronizálást."
+      },
+      {
+        "id": "delete",
+        "title": "Megőrzés és törlés",
+        "body": "A helyi tartalom addig marad meg, amíg nem törlöd. A naplóbejegyzések és a személyes megerősítések egyenként eltávolíthatók. A Profilban exportálhatod az írásaidat, vagy visszaállíthatod az összes személyes alkalmazásadatot. A visszaállítás a hangulatelőzményeket, az emlékeztetőket és a testreszabást is eltávolítja, de az Apple-fiókod vásárlásait, valamint a már exportált vagy megosztott másolatokat nem. Szükség esetén ezeket és a régebbi eszközmentéseket külön töröld. Nem láthatjuk és nem törölhetjük helyetted a helyi tartalmadat."
+      },
+      {
+        "id": "wellbeing",
+        "title": "A te gyakorlatod, a te választásod",
+        "body": "A megerősítések, hangulatbejegyzések és a zene a személyes önreflexiót támogatják. Nem diagnosztizálnak vagy kezelnek betegséget, és nem helyettesítik az orvosi vagy pszichológiai ellátást. Minden érzés egyformán helyet kap. Az olvasáshoz nem kell név, fotóengedély vagy értesítés."
+      },
+      {
+        "id": "contact",
+        "title": "Kérdések és változások",
+        "body": "Adatvédelmi vagy akadálymentességi kérdések: support@swisswise.com. Ne küldj bizalmas naplótartalmat. Amikor kapcsolatba lépsz az ügyfélszolgálattal, megkapjuk az önként megadott információkat, és a kérésed megválaszolására használjuk őket. Ez a tájékoztató az AffirMate-re a Swisswise más termékeitől külön vonatkozik. A változásokat alkalmazásfrissítés és frissített dátum jelzi. Hatályos ettől: 2026-10-11."
+      }
+    ],
+    "id": [
+      {
+        "id": "owner",
+        "title": "Penerbit",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Datamu tetap lokal",
+        "body": "AffirMate tidak memakai akun, server yang dioperasikan aplikasi, iklan, atau pelacakan. Aplikasi menyimpan nama opsional, pengaturan, favorit, afirmasi pribadi, catatan jurnal, draf, catatan suasana hati, dan gambar pilihanmu secara lokal di iPhone. Kami tidak menerima konten ini. Aplikasi tidak mengunggah tulisan atau gambar ke layanan AI. Afirmasi, ilustrasi, dan musik instrumental disertakan dalam aplikasi."
+      },
+      {
+        "id": "widgets",
+        "title": "Widget dan notifikasi",
+        "body": "Aplikasi dan widget berbagi wadah App Group lokal yang dilindungi. Secara bawaan, widget menampilkan renungan harian yang disertakan. Jika kamu memilih favorit atau kata-kata pribadi sebagai sumber, teks tersebut dapat terlihat di Layar Utama atau Layar Kunci. Catatan jurnal dan suasana hati tidak pernah muncul di widget. Pengingat lokal tidak memuat tulisan pribadi. Notifikasi bersifat opsional dan dapat dimatikan dalam aplikasi atau Pengaturan iOS."
+      },
+      {
+        "id": "photos",
+        "title": "Foto dan berbagi",
+        "body": "Latar khusus menggunakan pemilih foto iOS. Aplikasi hanya mengimpor gambar yang kamu pilih dan membuat salinan lokal beresolusi lebih rendah tanpa metadata foto asli. Menyimpan karya meminta izin menambahkan foto, bukan akses umum ke perpustakaan. Menghapus latar yang diimpor tidak mengubah foto asli di Foto. Berbagi dan ekspor file hanya dilakukan atas permintaanmu; setelah itu, layanan atau tujuan pilihanmu mengendalikan salinan yang dibagikan."
+      },
+      {
+        "id": "apple",
+        "title": "Apple dan pembelian",
+        "body": "Jika pembelian dalam aplikasi tersedia, Apple memproses pembayaran dan memberikan transaksi yang dapat diverifikasi ke aplikasi. AffirMate tidak memproses rincian kartu kredit atau bank. Akses uji coba dan pembukaan fitur diperiksa di perangkat berdasarkan transaksi Apple. Memulai uji coba gratis tidak memicu pembelian di kemudian hari. Apple dapat memproses data App Store, diagnostik, dan perangkat sesuai pengaturan dan aturan privasinya sendiri. Cadangan perangkat iOS atau iCloud dapat memuat data aplikasi lokal; AffirMate tidak menyediakan sinkronisasi cloud sendiri."
+      },
+      {
+        "id": "delete",
+        "title": "Penyimpanan dan penghapusan",
+        "body": "Konten lokal tetap tersimpan sampai kamu menghapusnya. Catatan jurnal dan afirmasi pribadi dapat dihapus satu per satu. Di Profil, kamu bisa mengekspor tulisan atau mereset semua data pribadi aplikasi. Reset juga menghapus riwayat suasana hati, pengingat, dan penyesuaian, tetapi bukan pembelian di akun Apple atau salinan yang telah diekspor atau dibagikan. Hapus salinan tersebut dan cadangan perangkat lama secara terpisah bila perlu. Kami tidak dapat melihat atau menghapus konten lokalmu untukmu."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Latihanmu, pilihanmu",
+        "body": "Afirmasi, catatan suasana hati, dan musik mendukung refleksi pribadi. Semuanya tidak mendiagnosis atau mengobati kondisi apa pun, serta tidak menggantikan perawatan medis atau psikologis. Semua perasaan diterima setara. Membaca tidak memerlukan nama, izin foto, atau notifikasi."
+      },
+      {
+        "id": "contact",
+        "title": "Pertanyaan dan perubahan",
+        "body": "Pertanyaan privasi atau aksesibilitas: support@swisswise.com. Jangan kirim isi jurnal yang rahasia. Saat kamu menghubungi dukungan, kami menerima informasi yang kamu sertakan secara sukarela dan menggunakannya untuk menjawab permintaanmu. Kebijakan ini berlaku khusus untuk AffirMate, terpisah dari produk Swisswise lainnya. Perubahan disertakan dalam pembaruan aplikasi dengan tanggal yang diperbarui. Berlaku sejak: 2026-10-11."
+      }
+    ],
+    "it": [
+      {
+        "id": "owner",
+        "title": "Editore",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "I tuoi dati restano locali",
+        "body": "AffirMate non ha account, server gestiti dall'app, pubblicità o tracciamento. L'app conserva localmente sull'iPhone il nome facoltativo, le impostazioni, i preferiti, le affermazioni personali, le voci del diario, le bozze, le registrazioni dell'umore e le immagini selezionate. Non riceviamo questi contenuti. L'app non carica scritti o immagini su un servizio di IA. Affermazioni, illustrazioni e musica strumentale sono incluse nell'app."
+      },
+      {
+        "id": "widgets",
+        "title": "Widget e notifiche",
+        "body": "L'app e il widget condividono un contenitore locale protetto App Group. Per impostazione predefinita, i widget mostrano pensieri quotidiani inclusi nell'app. Se scegli preferiti o parole personali come fonte, quel testo può essere visibile sulla schermata Home o di blocco. Le voci del diario e dell'umore non appaiono mai in un widget. I promemoria locali non contengono scritti privati. Le notifiche sono facoltative e possono essere disattivate nell'app o nelle Impostazioni di iOS."
+      },
+      {
+        "id": "photos",
+        "title": "Foto e condivisione",
+        "body": "Gli sfondi personalizzati usano il selettore foto di iOS. L'app importa soltanto l'immagine scelta e crea una copia locale a risoluzione ridotta senza i metadati della foto originale. Per salvare un'immagine viene chiesto il permesso di aggiungere foto, non l'accesso generale alla libreria. Rimuovere uno sfondo importato lascia intatto l'originale in Foto. Condivisione ed esportazione di file avvengono soltanto su tua richiesta; il servizio o la destinazione scelta controllano poi la copia condivisa."
+      },
+      {
+        "id": "apple",
+        "title": "Apple e acquisti",
+        "body": "Quando sono disponibili acquisti in-app, Apple elabora il pagamento e fornisce all'app una transazione verificabile. AffirMate non tratta dati di carte di credito o bancari. L'accesso di prova e gli sblocchi vengono verificati sul dispositivo mediante le transazioni Apple. Avviare la prova gratuita non comporta un acquisto successivo. Apple può trattare dati dell'App Store, diagnostici e del dispositivo secondo le proprie impostazioni e regole sulla privacy. Il backup del dispositivo iOS o su iCloud può contenere dati locali dell'app; AffirMate non offre una propria sincronizzazione cloud."
+      },
+      {
+        "id": "delete",
+        "title": "Conservazione ed eliminazione",
+        "body": "I contenuti locali restano finché non li elimini. Le voci del diario e le affermazioni personali possono essere rimosse singolarmente. Il Profilo permette di esportare i tuoi scritti o reimpostare tutti i dati personali dell'app. La reimpostazione rimuove anche cronologia dell'umore, promemoria e personalizzazioni, ma non gli acquisti nell'account Apple o le copie già esportate o condivise. Se necessario, rimuovi separatamente quelle copie e i backup precedenti del dispositivo. Non possiamo vedere o eliminare i tuoi contenuti locali per te."
+      },
+      {
+        "id": "wellbeing",
+        "title": "La tua pratica, la tua scelta",
+        "body": "Affermazioni, registrazioni dell'umore e musica sostengono la riflessione personale. Non diagnosticano né trattano alcuna condizione e non sostituiscono cure mediche o psicologiche. Tutti i sentimenti sono ugualmente benvenuti. La lettura non richiede un nome, il permesso per le foto o notifiche."
+      },
+      {
+        "id": "contact",
+        "title": "Domande e modifiche",
+        "body": "Per domande sulla privacy o sull'accessibilità: support@swisswise.com. Non inviare contenuti riservati del diario. Quando contatti l'assistenza, riceviamo le informazioni che includi volontariamente e le usiamo per rispondere alla richiesta. Questa informativa si applica ad AffirMate separatamente dagli altri prodotti Swisswise. Le modifiche vengono incluse in un aggiornamento dell'app con una data aggiornata. In vigore dal: 2026-10-11."
+      }
+    ],
+    "ja": [
+      {
+        "id": "owner",
+        "title": "提供元",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "データは端末内に",
+        "body": "AffirMateにはアカウント、アプリ運営のサーバー、広告、トラッキングはありません。任意の名前、設定、お気に入り、自作アファメーション、日記、下書き、気分の記録、選んだ画像は、iPhone内に保存されます。私たちがこれらの内容を受け取ることはありません。文章や画像をAIサービスへアップロードすることもありません。アファメーション、イラスト、インストゥルメンタル音楽はアプリに同梱されています。"
+      },
+      {
+        "id": "widgets",
+        "title": "ウィジェットと通知",
+        "body": "アプリとウィジェットは、保護されたローカルのApp Groupコンテナを共有します。ウィジェットには、初期設定で同梱の「今日の言葉」が表示されます。お気に入りや自分の言葉を選択元にすると、その文章がホーム画面やロック画面に表示される場合があります。日記や気分の記録がウィジェットに表示されることはありません。ローカルのリマインダーには、個人的な文章は含まれません。通知は任意で、アプリやiOSの「設定」からオフにできます。"
+      },
+      {
+        "id": "photos",
+        "title": "写真と共有",
+        "body": "カスタム背景にはiOSの写真ピッカーを使います。アプリは選択した画像だけを読み込み、元の写真のメタデータを含まない、解像度を下げたローカルコピーを作成します。作品を保存するときに求めるのは写真の追加許可で、ライブラリ全体へのアクセスではありません。読み込んだ背景を削除しても、「写真」の元の画像は変わりません。共有やファイルの書き出しは、ご自身が操作した場合にのみ行われます。その後、共有されたコピーは選んだサービスや保存先の管理下になります。"
+      },
+      {
+        "id": "apple",
+        "title": "Appleと購入",
+        "body": "アプリ内購入が利用できる場合、Appleが決済を処理し、検証可能な取引情報をアプリに提供します。AffirMateがクレジットカードや銀行の情報を処理することはありません。試用の利用資格や機能の解除は、Appleの取引情報に基づき端末内で確認されます。無料試用を開始しても、その後の購入が自動的に行われることはありません。Appleは独自の設定やプライバシールールに従い、App Store、診断、端末のデータを処理する場合があります。iOSやiCloudの端末バックアップに、アプリのローカルデータが含まれる場合があります。AffirMate独自のクラウド同期機能はありません。"
+      },
+      {
+        "id": "delete",
+        "title": "保存と削除",
+        "body": "ローカルの内容は、削除するまで残ります。日記の記録や自作アファメーションは個別に削除できます。「プロフィール」から文章を書き出したり、個人のアプリデータをすべてリセットしたりできます。リセットすると気分の履歴、リマインダー、カスタマイズも削除されますが、Appleアカウントの購入情報や、すでに書き出し・共有したコピーは削除されません。必要に応じて、それらのコピーや古い端末バックアップを別途削除してください。私たちがお客様のローカルの内容を閲覧したり、代わりに削除したりすることはできません。"
+      },
+      {
+        "id": "wellbeing",
+        "title": "自分のために、自分で選ぶ",
+        "body": "アファメーション、気分の記録、音楽は、自分を振り返るためのものです。病気や症状を診断・治療するものではなく、医療や心理的ケアの代わりにはなりません。どの気持ちも同じように大切です。読むために、名前、写真へのアクセス許可、通知は必要ありません。"
+      },
+      {
+        "id": "contact",
+        "title": "お問い合わせと変更",
+        "body": "プライバシーやアクセシビリティに関するお問い合わせ：support@swisswise.com。日記の機密内容は送らないでください。サポートにご連絡いただくと、ご自身で含めた情報を受け取り、お問い合わせへの回答に使用します。このポリシーは、ほかのSwisswise製品とは別にAffirMateに適用されます。変更はアプリの更新と改定日の更新によりお知らせします。適用開始日：2026-10-11。"
+      }
+    ],
+    "kn-IN": [
+      {
+        "id": "owner",
+        "title": "ಪ್ರಕಾಶಕರು",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "ನಿಮ್ಮ ಡೇಟಾ ಸಾಧನದಲ್ಲೇ ಉಳಿಯುತ್ತದೆ",
+        "body": "AffirMate‌ನಲ್ಲಿ ಖಾತೆ, ಆ್ಯಪ್ ನಡೆಸುವ ಸರ್ವರ್, ಜಾಹೀರಾತು ಅಥವಾ ಟ್ರ್ಯಾಕಿಂಗ್ ಇಲ್ಲ. ಐಚ್ಛಿಕ ಹೆಸರು, ಸೆಟ್ಟಿಂಗ್‌ಗಳು, ಮೆಚ್ಚಿನವು, ವೈಯಕ್ತಿಕ ಸಕಾರಾತ್ಮಕ ನುಡಿಗಳು, ದಿನಚರಿ ಬರಹಗಳು, ಕರಡುಗಳು, ಮನಸ್ಥಿತಿಯ ದಾಖಲೆಗಳು ಮತ್ತು ಆಯ್ದ ಚಿತ್ರಗಳು ನಿಮ್ಮ iPhone‌ನಲ್ಲೇ ಉಳಿಯುತ್ತವೆ. ಈ ವಿಷಯ ನಮಗೆ ಬರುವುದಿಲ್ಲ. ಬರಹ ಅಥವಾ ಚಿತ್ರಗಳನ್ನು ಆ್ಯಪ್ AI ಸೇವೆಗೆ ಅಪ್‌ಲೋಡ್ ಮಾಡುವುದಿಲ್ಲ. ಸಕಾರಾತ್ಮಕ ನುಡಿಗಳು, ಚಿತ್ರಣಗಳು ಮತ್ತು ವಾದ್ಯಸಂಗೀತ ಆ್ಯಪ್‌ನಲ್ಲೇ ಸೇರಿವೆ."
+      },
+      {
+        "id": "widgets",
+        "title": "ವಿಜೆಟ್‌ಗಳು ಮತ್ತು ಸೂಚನೆಗಳು",
+        "body": "ಆ್ಯಪ್ ಮತ್ತು ವಿಜೆಟ್ ಸಂರಕ್ಷಿತ ಸ್ಥಳೀಯ App Group ಕಂಟೇನರ್ ಹಂಚಿಕೊಳ್ಳುತ್ತವೆ. ವಿಜೆಟ್‌ಗಳು ಪೂರ್ವನಿಯೋಜಿತವಾಗಿ ಆ್ಯಪ್‌ನಲ್ಲಿರುವ ದಿನದ ಚಿಂತನೆಗಳನ್ನು ತೋರಿಸುತ್ತವೆ. ಮೂಲವಾಗಿ ಮೆಚ್ಚಿನವು ಅಥವಾ ವೈಯಕ್ತಿಕ ನುಡಿಗಳನ್ನು ಆರಿಸಿದರೆ ಆ ಬರಹ ಹೋಮ್ ಅಥವಾ ಲಾಕ್ ಸ್ಕ್ರೀನ್‌ನಲ್ಲಿ ಕಾಣಬಹುದು. ದಿನಚರಿ ಮತ್ತು ಮನಸ್ಥಿತಿಯ ದಾಖಲೆಗಳು ವಿಜೆಟ್‌ನಲ್ಲಿ ಎಂದಿಗೂ ಕಾಣುವುದಿಲ್ಲ. ಸ್ಥಳೀಯ ನೆನಪಿಸುವಿಕೆಗಳಲ್ಲಿ ಖಾಸಗಿ ಬರಹ ಇರುವುದಿಲ್ಲ. ಸೂಚನೆಗಳು ಐಚ್ಛಿಕ; ಆ್ಯಪ್ ಅಥವಾ iOS ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ನಿಲ್ಲಿಸಬಹುದು."
+      },
+      {
+        "id": "photos",
+        "title": "ಫೋಟೋಗಳು ಮತ್ತು ಹಂಚಿಕೆ",
+        "body": "ಸ್ವಂತ ಹಿನ್ನೆಲೆಗಳಿಗೆ iOS ಫೋಟೋ ಆಯ್ಕೆ ವ್ಯವಸ್ಥೆ ಬಳಸಲಾಗುತ್ತದೆ. ನೀವು ಆರಿಸಿದ ಚಿತ್ರವನ್ನು ಮಾತ್ರ ಆ್ಯಪ್ ಆಮದು ಮಾಡಿ, ಮೂಲ ಫೋಟೋದ ಮೆಟಾಡೇಟಾ ಇಲ್ಲದ ಕಡಿಮೆ ರೆಸಲ್ಯೂಶನ್‌ನ ಸ್ಥಳೀಯ ಪ್ರತಿಯನ್ನು ರಚಿಸುತ್ತದೆ. ಕಲಾಕೃತಿ ಉಳಿಸಲು ಫೋಟೋ ಸೇರಿಸುವ ಅನುಮತಿ ಕೇಳುತ್ತದೆ, ಇಡೀ ಲೈಬ್ರರಿಗೆ ಸಾಮಾನ್ಯ ಪ್ರವೇಶವಲ್ಲ. ಆಮದು ಮಾಡಿದ ಹಿನ್ನೆಲೆ ತೆಗೆದರೂ Photos‌ನ ಮೂಲ ಚಿತ್ರ ಬದಲಾಗುವುದಿಲ್ಲ. ನೀವು ಕೇಳಿದಾಗ ಮಾತ್ರ ಹಂಚಿಕೆ ಮತ್ತು ಫೈಲ್ ರಫ್ತು ನಡೆಯುತ್ತದೆ; ನಂತರ ಆಯ್ದ ಸೇವೆ ಅಥವಾ ಗಮ್ಯಸ್ಥಾನ ಹಂಚಿದ ಪ್ರತಿಯನ್ನು ನಿಯಂತ್ರಿಸುತ್ತದೆ."
+      },
+      {
+        "id": "apple",
+        "title": "Apple ಮತ್ತು ಖರೀದಿಗಳು",
+        "body": "ಆ್ಯಪ್‌ನೊಳಗಿನ ಖರೀದಿಗಳು ಲಭ್ಯವಿದ್ದಾಗ Apple ಪಾವತಿಯನ್ನು ನಿರ್ವಹಿಸಿ ಪರಿಶೀಲಿಸಬಹುದಾದ ವಹಿವಾಟನ್ನು ಆ್ಯಪ್‌ಗೆ ನೀಡುತ್ತದೆ. AffirMate ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಅಥವಾ ಬ್ಯಾಂಕ್ ವಿವರಗಳನ್ನು ನಿರ್ವಹಿಸುವುದಿಲ್ಲ. ಪ್ರಾಯೋಗಿಕ ಪ್ರವೇಶ ಮತ್ತು ಅನ್‌ಲಾಕ್‌ಗಳನ್ನು ಸಾಧನದಲ್ಲೇ Apple ವಹಿವಾಟುಗಳೊಂದಿಗೆ ಪರಿಶೀಲಿಸಲಾಗುತ್ತದೆ. ಉಚಿತ ಪ್ರಯೋಗ ಆರಂಭಿಸುವುದು ನಂತರದ ಖರೀದಿಯನ್ನು ಪ್ರಚೋದಿಸುವುದಿಲ್ಲ. Apple ತನ್ನ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಮತ್ತು ಗೌಪ್ಯತಾ ನಿಯಮಗಳಂತೆ App Store, ದೋಷನಿರ್ಣಯ ಹಾಗೂ ಸಾಧನದ ಡೇಟಾವನ್ನು ನಿರ್ವಹಿಸಬಹುದು. ನಿಮ್ಮ iOS ಅಥವಾ iCloud ಸಾಧನದ ಬ್ಯಾಕಪ್‌ನಲ್ಲಿ ಸ್ಥಳೀಯ ಆ್ಯಪ್ ಡೇಟಾ ಇರಬಹುದು; AffirMate ತನ್ನದೇ ಕ್ಲೌಡ್ ಸಿಂಕ್ ಒದಗಿಸುವುದಿಲ್ಲ."
+      },
+      {
+        "id": "delete",
+        "title": "ಉಳಿಸುವ ಅವಧಿ ಮತ್ತು ಅಳಿಸುವಿಕೆ",
+        "body": "ನೀವು ಅಳಿಸುವವರೆಗೆ ಸ್ಥಳೀಯ ವಿಷಯ ಉಳಿಯುತ್ತದೆ. ದಿನಚರಿ ಬರಹ ಮತ್ತು ವೈಯಕ್ತಿಕ ಸಕಾರಾತ್ಮಕ ನುಡಿಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಅಳಿಸಬಹುದು. ಪ್ರೊಫೈಲ್‌ನಲ್ಲಿ ಬರಹ ರಫ್ತು ಮಾಡಬಹುದು ಅಥವಾ ಆ್ಯಪ್‌ನ ಎಲ್ಲಾ ವೈಯಕ್ತಿಕ ಡೇಟಾವನ್ನು ಮರುಹೊಂದಿಸಬಹುದು. ಮರುಹೊಂದಿಸುವುದು ಮನಸ್ಥಿತಿಯ ಇತಿಹಾಸ, ನೆನಪಿಸುವಿಕೆಗಳು ಮತ್ತು ವೈಯಕ್ತೀಕರಣವನ್ನೂ ಅಳಿಸುತ್ತದೆ; ಆದರೆ Apple ಖಾತೆಯ ಖರೀದಿಗಳು ಅಥವಾ ಈಗಾಗಲೇ ರಫ್ತು ಮಾಡಿದ ಅಥವಾ ಹಂಚಿದ ಪ್ರತಿಗಳನ್ನು ಅಳಿಸುವುದಿಲ್ಲ. ಅಗತ್ಯವಿದ್ದರೆ ಆ ಪ್ರತಿಗಳು ಮತ್ತು ಹಳೆಯ ಸಾಧನದ ಬ್ಯಾಕಪ್‌ಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಅಳಿಸಿ. ನಿಮ್ಮ ಸ್ಥಳೀಯ ವಿಷಯವನ್ನು ನಾವು ನೋಡಲು ಅಥವಾ ನಿಮ್ಮ ಪರವಾಗಿ ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."
+      },
+      {
+        "id": "wellbeing",
+        "title": "ನಿಮ್ಮ ಅಭ್ಯಾಸ, ನಿಮ್ಮ ಆಯ್ಕೆ",
+        "body": "ಸಕಾರಾತ್ಮಕ ನುಡಿಗಳು, ಮನಸ್ಥಿತಿಯ ದಾಖಲೆಗಳು ಮತ್ತು ಸಂಗೀತ ವೈಯಕ್ತಿಕ ಚಿಂತನೆಗೆ ನೆರವಾಗುತ್ತವೆ. ಅವು ಯಾವುದೇ ಸ್ಥಿತಿಯನ್ನು ಪತ್ತೆಹಚ್ಚುವುದಿಲ್ಲ, ಚಿಕಿತ್ಸೆ ನೀಡುವುದಿಲ್ಲ ಅಥವಾ ವೈದ್ಯಕೀಯ ಹಾಗೂ ಮಾನಸಿಕ ಆರೈಕೆಗೆ ಬದಲಿಯಾಗುವುದಿಲ್ಲ. ಎಲ್ಲ ಭಾವನೆಗಳಿಗೂ ಸಮಾನ ಸ್ವಾಗತವಿದೆ. ಓದಲು ಹೆಸರು, ಫೋಟೋ ಅನುಮತಿ ಅಥವಾ ಸೂಚನೆಗಳು ಅಗತ್ಯವಿಲ್ಲ."
+      },
+      {
+        "id": "contact",
+        "title": "ಪ್ರಶ್ನೆಗಳು ಮತ್ತು ಬದಲಾವಣೆಗಳು",
+        "body": "ಗೌಪ್ಯತೆ ಅಥವಾ ಪ್ರವೇಶಸೌಲಭ್ಯದ ಪ್ರಶ್ನೆಗಳಿಗೆ: support@swisswise.com. ಗೌಪ್ಯ ದಿನಚರಿ ವಿಷಯ ಕಳುಹಿಸಬೇಡಿ. ನೆರವಿಗಾಗಿ ಸಂಪರ್ಕಿಸಿದಾಗ ನೀವು ಸ್ವಯಂ ನೀಡುವ ಮಾಹಿತಿಯನ್ನು ನಾವು ಪಡೆದು ನಿಮ್ಮ ವಿನಂತಿಗೆ ಉತ್ತರಿಸಲು ಬಳಸುತ್ತೇವೆ. ಈ ನೀತಿ ಇತರ Swisswise ಉತ್ಪನ್ನಗಳಿಂದ ಪ್ರತ್ಯೇಕವಾಗಿ AffirMate‌ಗೆ ಅನ್ವಯಿಸುತ್ತದೆ. ಬದಲಾವಣೆಗಳನ್ನು ಆ್ಯಪ್ ನವೀಕರಣ ಮತ್ತು ಬದಲಾದ ದಿನಾಂಕದೊಂದಿಗೆ ನೀಡಲಾಗುತ್ತದೆ. ಜಾರಿಯಾದ ದಿನ: 2026-10-11."
+      }
+    ],
+    "ko": [
+      {
+        "id": "owner",
+        "title": "발행자",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "데이터는 기기에만 저장돼요",
+        "body": "AffirMate에는 계정, 앱 자체 서버, 광고, 추적이 없어요. 선택적으로 입력한 이름, 설정, 즐겨찾기, 나만의 확언, 일기, 초안, 기분 기록, 선택한 사진을 iPhone에 로컬로 저장해요. 저희는 이 콘텐츠를 받지 않아요. 앱은 글이나 사진을 AI 서비스에 업로드하지 않아요. 확언, 그림, 연주 음악은 앱에 포함되어 있어요."
+      },
+      {
+        "id": "widgets",
+        "title": "위젯 및 알림",
+        "body": "앱과 위젯은 보호된 로컬 App Group 컨테이너를 공유해요. 위젯은 기본적으로 앱에 포함된 오늘의 생각을 보여 줘요. 즐겨찾기나 나의 글을 출처로 선택하면 해당 글이 홈 화면이나 잠금 화면에 표시될 수 있어요. 일기와 기분 기록은 위젯에 절대 나타나지 않아요. 로컬 알림에는 개인적인 글이 들어가지 않아요. 알림은 선택 사항이며 앱이나 iOS 설정에서 끌 수 있어요."
+      },
+      {
+        "id": "photos",
+        "title": "사진 및 공유",
+        "body": "맞춤 배경에는 iOS 사진 선택기를 사용해요. 선택한 이미지만 가져와 원본 사진의 메타데이터 없이 크기를 줄인 로컬 사본을 만들어요. 작품 저장 시에는 사진 추가 권한만 요청하며 보관함 전체 접근 권한은 요청하지 않아요. 가져온 배경을 제거해도 사진 앱의 원본은 그대로 남아요. 공유와 파일 내보내기는 요청할 때만 실행되며, 이후 공유된 사본은 선택한 서비스나 저장 위치에서 관리해요."
+      },
+      {
+        "id": "apple",
+        "title": "Apple 및 구입",
+        "body": "앱 내 구입을 사용할 수 있을 때 Apple이 결제를 처리하고 앱에 검증 가능한 거래 정보를 제공해요. AffirMate는 신용카드나 은행 정보를 처리하지 않아요. 체험 및 잠금 해제 권한은 기기에서 Apple 거래와 대조해 확인해요. 무료 체험을 시작해도 나중에 자동으로 구매되지 않아요. Apple은 자체 설정과 개인정보 규정에 따라 App Store, 진단 및 기기 데이터를 처리할 수 있어요. iOS 또는 iCloud 기기 백업에 로컬 앱 데이터가 포함될 수 있으며, AffirMate는 자체 클라우드 동기화를 제공하지 않아요."
+      },
+      {
+        "id": "delete",
+        "title": "보관 및 삭제",
+        "body": "로컬 콘텐츠는 직접 삭제할 때까지 남아요. 일기와 나만의 확언은 개별적으로 삭제할 수 있어요. 프로필에서 글을 내보내거나 앱의 모든 개인 데이터를 초기화할 수 있어요. 초기화하면 기분 기록, 알림, 맞춤 설정도 삭제되지만 Apple 계정의 구입 항목이나 이미 내보내거나 공유한 사본은 삭제되지 않아요. 필요하면 해당 사본과 오래된 기기 백업을 별도로 삭제하세요. 저희는 사용자의 로컬 콘텐츠를 대신 보거나 삭제할 수 없어요."
+      },
+      {
+        "id": "wellbeing",
+        "title": "나의 연습, 나의 선택",
+        "body": "확언, 기분 기록, 음악은 스스로 돌아보는 시간을 도와요. 어떤 질환도 진단하거나 치료하지 않으며 의료 또는 심리 치료를 대신하지 않아요. 모든 감정은 똑같이 환영받아요. 읽기에는 이름, 사진 권한, 알림이 필요하지 않아요."
+      },
+      {
+        "id": "contact",
+        "title": "문의 및 변경 사항",
+        "body": "개인정보 보호 또는 접근성 문의: support@swisswise.com. 비밀로 유지할 일기 내용은 보내지 마세요. 지원팀에 문의하면 자발적으로 보내신 정보를 받아 요청에 답변하는 데 사용해요. 이 방침은 다른 Swisswise 제품과 별도로 AffirMate에 적용돼요. 변경 사항은 앱 업데이트와 함께 제공되며 날짜도 갱신돼요. 시행일: 2026-10-11."
+      }
+    ],
+    "ms": [
+      {
+        "id": "owner",
+        "title": "Penerbit",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Data anda kekal setempat",
+        "body": "AffirMate tiada akaun, pelayan kendalian aplikasi, iklan atau penjejakan. Aplikasi menyimpan nama pilihan, tetapan, kegemaran, afirmasi peribadi, catatan jurnal, draf, catatan perasaan dan gambar pilihan anda secara setempat pada iPhone. Kami tidak menerima kandungan ini. Aplikasi tidak memuat naik tulisan atau gambar ke perkhidmatan AI. Afirmasi, ilustrasi dan muzik instrumental disertakan dalam aplikasi."
+      },
+      {
+        "id": "widgets",
+        "title": "Widget dan pemberitahuan",
+        "body": "Aplikasi dan widget berkongsi bekas App Group setempat yang dilindungi. Secara lalai, widget memaparkan renungan harian yang disertakan. Jika anda memilih kegemaran atau kata-kata peribadi sebagai sumber, teks itu mungkin kelihatan pada Skrin Utama atau Skrin Kunci. Catatan jurnal dan perasaan tidak pernah muncul dalam widget. Peringatan setempat tidak mengandungi tulisan peribadi. Pemberitahuan adalah pilihan dan boleh dimatikan dalam aplikasi atau Tetapan iOS."
+      },
+      {
+        "id": "photos",
+        "title": "Foto dan perkongsian",
+        "body": "Latar tersuai menggunakan pemilih foto iOS. Aplikasi hanya mengimport gambar yang anda pilih dan mencipta salinan setempat dengan resolusi dikurangkan tanpa metadata foto asal. Menyimpan karya meminta izin menambah foto, bukan akses umum kepada pustaka. Memadam latar yang diimport tidak mengubah foto asal dalam Foto. Perkongsian dan eksport fail hanya berlaku apabila anda memintanya; selepas itu, perkhidmatan atau destinasi pilihan anda mengawal salinan yang dikongsi."
+      },
+      {
+        "id": "apple",
+        "title": "Apple dan pembelian",
+        "body": "Apabila pembelian dalam aplikasi tersedia, Apple memproses bayaran dan memberikan transaksi yang boleh disahkan kepada aplikasi. AffirMate tidak memproses butiran kad kredit atau bank. Akses percubaan dan pembukaan ciri disemak pada peranti berdasarkan transaksi Apple. Memulakan percubaan percuma tidak mencetuskan pembelian kemudian. Apple mungkin memproses data App Store, diagnostik dan peranti mengikut tetapan serta peraturan privasinya sendiri. Sandaran peranti iOS atau iCloud mungkin mengandungi data aplikasi setempat; AffirMate tidak menyediakan penyegerakan awannya sendiri."
+      },
+      {
+        "id": "delete",
+        "title": "Penyimpanan dan pemadaman",
+        "body": "Kandungan setempat kekal sehingga anda memadamkannya. Catatan jurnal dan afirmasi peribadi boleh dipadam satu demi satu. Profil membolehkan anda mengeksport tulisan atau menetapkan semula semua data peribadi aplikasi. Penetapan semula turut memadam sejarah perasaan, peringatan dan penyesuaian, tetapi bukan pembelian dalam akaun Apple atau salinan yang telah dieksport atau dikongsi. Padam salinan tersebut serta sandaran peranti lama secara berasingan jika perlu. Kami tidak boleh melihat atau memadam kandungan setempat bagi pihak anda."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Amalan anda, pilihan anda",
+        "body": "Afirmasi, catatan perasaan dan muzik menyokong renungan peribadi. Semuanya tidak mendiagnosis atau merawat sebarang keadaan, atau menggantikan penjagaan perubatan atau psikologi. Semua perasaan diterima sama rata. Membaca tidak memerlukan nama, izin foto atau pemberitahuan."
+      },
+      {
+        "id": "contact",
+        "title": "Soalan dan perubahan",
+        "body": "Untuk soalan privasi atau kebolehcapaian: support@swisswise.com. Jangan hantar kandungan jurnal sulit. Apabila anda menghubungi sokongan, kami menerima maklumat yang anda sertakan secara sukarela dan menggunakannya untuk menjawab permintaan anda. Dasar ini terpakai kepada AffirMate secara berasingan daripada produk Swisswise lain. Perubahan disertakan bersama kemas kini aplikasi dan tarikh baharu. Berkuat kuasa: 2026-10-11."
+      }
+    ],
+    "ml-IN": [
+      {
+        "id": "owner",
+        "title": "പ്രസാധകൻ",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "വിവരങ്ങൾ ഉപകരണത്തിൽതന്നെ",
+        "body": "AffirMate-ൽ അക്കൗണ്ടോ ആപ്പ് നടത്തുന്ന സെർവറോ പരസ്യമോ ട്രാക്കിങ്ങോ ഇല്ല. വേണമെങ്കിൽ നൽകുന്ന പേര്, ക്രമീകരണങ്ങൾ, പ്രിയപ്പെട്ടവ, സ്വന്തം ആത്മസ്ഥിരീകരണങ്ങൾ, ഡയറി കുറിപ്പുകൾ, കരടുകൾ, മനോനില രേഖകൾ, തിരഞ്ഞെടുത്ത ചിത്രങ്ങൾ എന്നിവ iPhone-ൽ പ്രാദേശികമായി സൂക്ഷിക്കുന്നു. ഈ ഉള്ളടക്കം ഞങ്ങൾക്ക് ലഭിക്കുന്നില്ല. എഴുത്തോ ചിത്രങ്ങളോ AI സേവനത്തിലേക്ക് അപ്‌ലോഡ് ചെയ്യുന്നില്ല. ആത്മസ്ഥിരീകരണങ്ങൾ, ചിത്രീകരണങ്ങൾ, വാദ്യസംഗീതം എന്നിവ ആപ്പിൽ ഉൾപ്പെടുത്തിയിരിക്കുന്നു."
+      },
+      {
+        "id": "widgets",
+        "title": "വിജറ്റുകളും അറിയിപ്പുകളും",
+        "body": "ആപ്പും വിജറ്റും സംരക്ഷിത പ്രാദേശിക App Group സംഭരണസ്ഥലം പങ്കിടുന്നു. സാധാരണയായി വിജറ്റുകൾ ആപ്പിലുള്ള ദിനചിന്തകൾ കാണിക്കും. പ്രിയപ്പെട്ടവയോ സ്വന്തം വാക്കുകളോ ഉറവിടമാക്കിയാൽ ആ എഴുത്ത് ഹോം സ്ക്രീനിലോ ലോക്ക് സ്ക്രീനിലോ കാണപ്പെട്ടേക്കാം. ഡയറി കുറിപ്പുകളും മനോനില രേഖകളും വിജറ്റിൽ ഒരിക്കലും കാണിക്കില്ല. പ്രാദേശിക ഓർമപ്പെടുത്തലുകളിൽ സ്വകാര്യ എഴുത്തില്ല. അറിയിപ്പുകൾ ഐച്ഛികമാണ്; ആപ്പിലോ iOS ക്രമീകരണങ്ങളിലോ ഓഫ് ചെയ്യാം."
+      },
+      {
+        "id": "photos",
+        "title": "ഫോട്ടോകളും പങ്കിടലും",
+        "body": "സ്വന്തം പശ്ചാത്തലങ്ങൾക്ക് iOS ഫോട്ടോ തിരഞ്ഞെടുപ്പാണ് ഉപയോഗിക്കുന്നത്. നിങ്ങൾ തിരഞ്ഞെടുത്ത ചിത്രം മാത്രം ഇറക്കുമതി ചെയ്ത് യഥാർത്ഥ ഫോട്ടോയുടെ മെറ്റാഡാറ്റ ഇല്ലാത്ത, കുറഞ്ഞ റെസല്യൂഷനുള്ള പ്രാദേശിക പകർപ്പ് സൃഷ്ടിക്കുന്നു. സൃഷ്ടി സൂക്ഷിക്കുമ്പോൾ ഫോട്ടോ ചേർക്കാനുള്ള അനുമതിയാണ് ചോദിക്കുന്നത്, ലൈബ്രറി മുഴുവൻ കാണാനുള്ളതല്ല. ഇറക്കുമതി ചെയ്ത പശ്ചാത്തലം നീക്കിയാലും Photos-ലെ യഥാർത്ഥ ചിത്രം മാറില്ല. നിങ്ങൾ ആവശ്യപ്പെടുമ്പോൾ മാത്രമേ പങ്കിടലും ഫയൽ കയറ്റുമതിയും നടക്കൂ; തുടർന്ന് തിരഞ്ഞെടുത്ത സേവനമോ ലക്ഷ്യസ്ഥാനമോ പങ്കിട്ട പകർപ്പ് നിയന്ത്രിക്കും."
+      },
+      {
+        "id": "apple",
+        "title": "Apple-ഉം വാങ്ങലുകളും",
+        "body": "ആപ്പിനുള്ളിലെ വാങ്ങലുകൾ ലഭ്യമാകുമ്പോൾ Apple പണമടയ്ക്കൽ കൈകാര്യം ചെയ്ത് പരിശോധിക്കാവുന്ന ഇടപാട് ആപ്പിന് നൽകുന്നു. ക്രെഡിറ്റ് കാർഡ് വിവരങ്ങളോ ബാങ്ക് വിവരങ്ങളോ AffirMate കൈകാര്യം ചെയ്യുന്നില്ല. പരീക്ഷണപ്രവേശനവും അൺലോക്കുകളും Apple ഇടപാടുകളുമായി താരതമ്യം ചെയ്ത് ഉപകരണത്തിൽ പരിശോധിക്കുന്നു. സൗജന്യ പരീക്ഷണം തുടങ്ങുന്നത് പിന്നീട് വാങ്ങലിന് കാരണമാകില്ല. സ്വന്തം ക്രമീകരണങ്ങളും സ്വകാര്യതാനിയമങ്ങളും അനുസരിച്ച് Apple, App Store വിവരങ്ങളും പരിശോധനാ വിവരങ്ങളും ഉപകരണവിവരങ്ങളും കൈകാര്യം ചെയ്തേക്കാം. iOS അല്ലെങ്കിൽ iCloud ഉപകരണ ബാക്കപ്പിൽ പ്രാദേശിക ആപ്പ് വിവരങ്ങൾ ഉണ്ടായേക്കാം; AffirMate സ്വന്തം ക്ലൗഡ് സമന്വയം നൽകുന്നില്ല."
+      },
+      {
+        "id": "delete",
+        "title": "സൂക്ഷിക്കലും നീക്കലും",
+        "body": "നിങ്ങൾ നീക്കുന്നതുവരെ പ്രാദേശിക ഉള്ളടക്കം നിലനിൽക്കും. ഡയറി കുറിപ്പുകളും സ്വന്തം ആത്മസ്ഥിരീകരണങ്ങളും ഓരോന്നായി നീക്കാം. പ്രൊഫൈലിൽനിന്ന് എഴുത്ത് കയറ്റുമതി ചെയ്യാനോ എല്ലാ വ്യക്തിഗത ആപ്പ് വിവരങ്ങളും പുനഃസജ്ജമാക്കാനോ കഴിയും. പുനഃസജ്ജമാക്കൽ മനോനില ചരിത്രം, ഓർമപ്പെടുത്തലുകൾ, വ്യക്തിഗത ക്രമീകരണങ്ങൾ എന്നിവയും നീക്കും; Apple അക്കൗണ്ടിലെ വാങ്ങലുകളോ മുമ്പ് കയറ്റുമതി ചെയ്തതോ പങ്കിട്ടതോ ആയ പകർപ്പുകളോ നീക്കില്ല. ആവശ്യമെങ്കിൽ ആ പകർപ്പുകളും പഴയ ഉപകരണ ബാക്കപ്പുകളും പ്രത്യേകം നീക്കുക. നിങ്ങളുടെ പ്രാദേശിക ഉള്ളടക്കം കാണാനോ നിങ്ങൾക്കായി നീക്കാനോ ഞങ്ങൾക്ക് കഴിയില്ല."
+      },
+      {
+        "id": "wellbeing",
+        "title": "നിങ്ങളുടെ പരിശീലനം, നിങ്ങളുടെ തിരഞ്ഞെടുപ്പ്",
+        "body": "ആത്മസ്ഥിരീകരണങ്ങൾ, മനോനില രേഖകൾ, സംഗീതം എന്നിവ വ്യക്തിഗത ആത്മപരിശോധനയെ സഹായിക്കുന്നു. അവ ഒരു അവസ്ഥയും രോഗനിർണയം ചെയ്യുകയോ ചികിത്സിക്കുകയോ വൈദ്യപരമോ മനഃശാസ്ത്രപരമോ ആയ പരിചരണത്തിന് പകരമാകുകയോ ചെയ്യുന്നില്ല. എല്ലാ വികാരങ്ങളും ഒരുപോലെ സ്വാഗതാർഹമാണ്. വായനയ്ക്ക് പേരോ ഫോട്ടോ അനുമതിയോ അറിയിപ്പുകളോ ആവശ്യമില്ല."
+      },
+      {
+        "id": "contact",
+        "title": "ചോദ്യങ്ങളും മാറ്റങ്ങളും",
+        "body": "സ്വകാര്യതയോ പ്രവേശനക്ഷമതയോ സംബന്ധിച്ച ചോദ്യങ്ങൾക്ക്: support@swisswise.com. രഹസ്യ ഡയറി ഉള്ളടക്കം അയയ്ക്കരുത്. സഹായത്തിനായി ബന്ധപ്പെടുമ്പോൾ സ്വമേധയാ ഉൾപ്പെടുത്തുന്ന വിവരങ്ങൾ ഞങ്ങൾക്ക് ലഭിക്കുകയും നിങ്ങളുടെ അഭ്യർത്ഥനയ്ക്ക് മറുപടി നൽകാൻ ഉപയോഗിക്കുകയും ചെയ്യും. മറ്റു Swisswise ഉൽപ്പന്നങ്ങളിൽനിന്ന് വേറിട്ടാണ് ഈ നയം AffirMate-ന് ബാധകമാകുന്നത്. മാറ്റങ്ങൾ ആപ്പ് പുതുക്കലിനൊപ്പം പുതുക്കിയ തീയതിയോടെ ഉൾപ്പെടുത്തും. പ്രാബല്യം: 2026-10-11."
+      }
+    ],
+    "mr-IN": [
+      {
+        "id": "owner",
+        "title": "प्रकाशक",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "तुमची माहिती डिव्हाइसवरच राहते",
+        "body": "AffirMate मध्ये खाते, ॲपद्वारे चालवला जाणारा सर्व्हर, जाहिराती किंवा ट्रॅकिंग नाही. ऐच्छिक नाव, सेटिंग्ज, आवडी, वैयक्तिक सकारात्मक वाक्ये, दैनंदिनीतील नोंदी, मसुदे, मनःस्थितीच्या नोंदी आणि निवडलेली चित्रे तुमच्या iPhone वरच जतन केली जातात. हा मजकूर आम्हाला मिळत नाही. ॲप लेखन किंवा चित्रे AI सेवेत अपलोड करत नाही. सकारात्मक वाक्ये, चित्रे आणि वाद्यसंगीत ॲपमध्येच समाविष्ट आहेत."
+      },
+      {
+        "id": "widgets",
+        "title": "विजेट आणि सूचना",
+        "body": "ॲप आणि विजेट संरक्षित स्थानिक App Group कंटेनर वापरतात. विजेट नेहमीच्या सेटिंगमध्ये ॲपमधील दिवसाचे विचार दाखवतात. स्रोत म्हणून आवडी किंवा वैयक्तिक शब्द निवडल्यास तो मजकूर होम किंवा लॉक स्क्रीनवर दिसू शकतो. दैनंदिनी आणि मनःस्थितीच्या नोंदी विजेटमध्ये कधीच दिसत नाहीत. स्थानिक आठवण सूचनांत खासगी लेखन नसते. सूचना ऐच्छिक आहेत आणि ॲप किंवा iOS सेटिंग्जमध्ये बंद करता येतात."
+      },
+      {
+        "id": "photos",
+        "title": "फोटो आणि सामायिक करणे",
+        "body": "स्वतःच्या पार्श्वभूमीसाठी iOS ची फोटो निवड व्यवस्था वापरली जाते. ॲप फक्त निवडलेले चित्र आयात करते आणि मूळ फोटोचा मेटाडेटा नसलेली कमी रिझोल्यूशनची स्थानिक प्रत तयार करते. कलाकृती जतन करताना फोटो जोडण्याची परवानगी मागितली जाते, संपूर्ण लायब्ररीचा सामान्य प्रवेश नाही. आयात केलेली पार्श्वभूमी काढल्यावर Photos मधील मूळ फोटो बदलत नाही. तुम्ही मागणी केल्यावरच सामायिक करणे आणि फाइल निर्यात होते; त्यानंतर निवडलेली सेवा किंवा गंतव्य सामायिक प्रत नियंत्रित करते."
+      },
+      {
+        "id": "apple",
+        "title": "Apple आणि खरेदी",
+        "body": "ॲपमधील खरेदी उपलब्ध असताना Apple देयक प्रक्रिया करते आणि ॲपला पडताळता येणारा व्यवहार पुरवते. AffirMate क्रेडिट कार्ड किंवा बँकेचे तपशील हाताळत नाही. चाचणी प्रवेश आणि अनलॉकची पडताळणी डिव्हाइसवरच Apple व्यवहारांशी केली जाते. मोफत चाचणी सुरू केल्याने नंतर आपोआप खरेदी होत नाही. Apple स्वतःच्या सेटिंग्ज आणि गोपनीयता नियमांनुसार App Store, निदान आणि डिव्हाइसची माहिती हाताळू शकते. तुमच्या iOS किंवा iCloud डिव्हाइस बॅकअपमध्ये स्थानिक ॲप माहिती असू शकते; AffirMate स्वतःचे क्लाउड समक्रमण पुरवत नाही."
+      },
+      {
+        "id": "delete",
+        "title": "जतन करण्याचा कालावधी आणि हटवणे",
+        "body": "तुम्ही हटवेपर्यंत स्थानिक मजकूर राहतो. दैनंदिनीतील नोंदी आणि वैयक्तिक सकारात्मक वाक्ये स्वतंत्रपणे हटवता येतात. प्रोफाइलमधून लेखन निर्यात करता येते किंवा ॲपमधील सर्व वैयक्तिक माहिती रीसेट करता येते. रीसेटमुळे मनःस्थितीचा इतिहास, आठवणी आणि वैयक्तिक सजावटही हटते; पण Apple खात्यातील खरेदी किंवा आधी निर्यात केलेल्या अथवा सामायिक केलेल्या प्रती हटत नाहीत. गरज असल्यास त्या प्रती आणि जुने डिव्हाइस बॅकअप स्वतंत्रपणे हटवा. तुमचा स्थानिक मजकूर आम्हाला पाहता किंवा तुमच्यासाठी हटवता येत नाही."
+      },
+      {
+        "id": "wellbeing",
+        "title": "तुमचा सराव, तुमची निवड",
+        "body": "सकारात्मक वाक्ये, मनःस्थितीच्या नोंदी आणि संगीत वैयक्तिक चिंतनाला मदत करतात. ती कोणत्याही स्थितीचे निदान किंवा उपचार करत नाहीत, तसेच वैद्यकीय किंवा मानसिक आरोग्यसेवेचा पर्याय नाहीत. सर्व भावनांचे सारखेच स्वागत आहे. वाचनासाठी नाव, फोटोंची परवानगी किंवा सूचना आवश्यक नाहीत."
+      },
+      {
+        "id": "contact",
+        "title": "प्रश्न आणि बदल",
+        "body": "गोपनीयता किंवा सुलभतेविषयी प्रश्नांसाठी: support@swisswise.com. दैनंदिनीतील गोपनीय मजकूर पाठवू नका. मदतीसाठी संपर्क केल्यावर तुम्ही स्वेच्छेने दिलेली माहिती आम्हाला मिळते आणि विनंतीला उत्तर देण्यासाठी वापरली जाते. हे धोरण इतर Swisswise उत्पादनांपासून स्वतंत्रपणे AffirMate ला लागू आहे. बदल ॲप अद्यतन आणि सुधारित तारखेसह दिले जातात. लागू दिनांक: 2026-10-11."
+      }
+    ],
+    "no": [
+      {
+        "id": "owner",
+        "title": "Utgiver",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Dataene dine forblir lokale",
+        "body": "AffirMate har ingen konto, appdrevet server, reklame eller sporing. Appen lagrer valgfritt navn, innstillinger, favoritter, personlige affirmasjoner, dagboknotater, utkast, humørregistreringer og valgte bilder lokalt på iPhone. Vi mottar ikke dette innholdet. Appen laster ikke opp tekster eller bilder til en KI-tjeneste. Affirmasjoner, illustrasjoner og instrumentalmusikk følger med appen."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgeter og varslinger",
+        "body": "Appen og widgeten deler en beskyttet lokal App Group-beholder. Widgeter viser som standard medfølgende daglige tanker. Velger du favoritter eller egne ord som kilde, kan teksten synes på Hjem-skjermen eller låseskjermen. Dagbok- og humørnotater vises aldri i en widget. Lokale påminnelser inneholder ingen private tekster. Varslinger er valgfrie og kan slås av i appen eller iOS-innstillingene."
+      },
+      {
+        "id": "photos",
+        "title": "Bilder og deling",
+        "body": "Egne bakgrunner bruker bildevelgeren i iOS. Appen importerer bare bildet du velger og lager en lokal kopi med redusert oppløsning uten originalens metadata. Lagring av bilder ber om tillatelse til å legge til bilder, ikke generell tilgang til biblioteket. Når en importert bakgrunn fjernes, forblir originalen i Bilder urørt. Deling og fileksport skjer bare når du ber om det. Tjenesten eller målet du velger, styrer deretter den delte kopien."
+      },
+      {
+        "id": "apple",
+        "title": "Apple og kjøp",
+        "body": "Når kjøp i appen er tilgjengelige, behandler Apple betalingen og gir appen en verifiserbar transaksjon. AffirMate behandler ikke kort- eller bankopplysninger. Prøvetilgang og opplåsinger kontrolleres på enheten mot Apple-transaksjoner. Å starte gratisprøven utløser ikke et senere kjøp. Apple kan behandle App Store-, diagnostikk- og enhetsdata etter egne innstillinger og personvernregler. Sikkerhetskopier av enheten i iOS eller iCloud kan inneholde lokale appdata. AffirMate har ingen egen skysynkronisering."
+      },
+      {
+        "id": "delete",
+        "title": "Lagring og sletting",
+        "body": "Lokalt innhold beholdes til du sletter det. Dagboknotater og personlige affirmasjoner kan slettes enkeltvis. I Profil kan du eksportere tekstene dine eller nullstille alle personlige appdata. Nullstilling fjerner også humørhistorikk, påminnelser og tilpasninger, men ikke kjøp på Apple-kontoen eller kopier som allerede er eksportert eller delt. Slett disse kopiene og eldre enhetssikkerhetskopier separat ved behov. Vi kan ikke se eller slette det lokale innholdet for deg."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Din praksis, ditt valg",
+        "body": "Affirmasjoner, humørnotater og musikk støtter personlig refleksjon. De verken diagnostiserer eller behandler tilstander og erstatter ikke medisinsk eller psykologisk hjelp. Alle følelser er like velkomne. Lesing krever ikke navn, bildetillatelse eller varslinger."
+      },
+      {
+        "id": "contact",
+        "title": "Spørsmål og endringer",
+        "body": "Spørsmål om personvern eller tilgjengelighet: support@swisswise.com. Ikke send fortrolig dagbokinnhold. Når du kontakter kundestøtte, mottar vi informasjonen du frivillig oppgir og bruker den til å besvare henvendelsen. Denne erklæringen gjelder AffirMate, uavhengig av andre Swisswise-produkter. Endringer følger en appoppdatering med oppdatert dato. Gjelder fra: 2026-10-11."
+      }
+    ],
+    "or-IN": [
+      {
+        "id": "owner",
+        "title": "ପ୍ରକାଶକ",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "ଆପଣଙ୍କ ତଥ୍ୟ ସ୍ଥାନୀୟ ରହେ",
+        "body": "AffirMateରେ ଆକାଉଣ୍ଟ, ଆପ୍ ଚଳାଉଥିବା ସର୍ଭର୍, ବିଜ୍ଞାପନ କିମ୍ବା ଟ୍ରାକିଂ ନାହିଁ। ଇଚ୍ଛାମୁତାବକ ନାମ, ସେଟିଂ, ପସନ୍ଦର ବାକ୍ୟ, ନିଜ ବାକ୍ୟ, ଦିନଲିପି, ଖସଡ଼ା, ମନୋଭାବ ଲେଖା ଓ ବାଛିଥିବା ଚିତ୍ର ଆପ୍ ଆପଣଙ୍କ iPhoneରେ ସ୍ଥାନୀୟ ଭାବେ ରଖେ। ଏହି ଲେଖା ବା ଚିତ୍ର ଆମେ ପାଉ ନାହୁଁ। ଆପ୍ ଲେଖା କିମ୍ବା ଚିତ୍ର AI ସେବାକୁ ପଠାଏ ନାହିଁ। ସକାରାତ୍ମକ ବାକ୍ୟ, ଚିତ୍ର ଓ ବାଦ୍ୟସଙ୍ଗୀତ ଆପ୍ ସହ ଦିଆଯାଏ।"
+      },
+      {
+        "id": "widgets",
+        "title": "ୱିଜେଟ୍ ଓ ନୋଟିଫିକେସନ୍",
+        "body": "ଆପ୍ ଓ ୱିଜେଟ୍ ଏକ ସୁରକ୍ଷିତ ସ୍ଥାନୀୟ ଆପ୍ ଗ୍ରୁପ୍ ଭଣ୍ଡାର ବ୍ୟବହାର କରନ୍ତି। ଆରମ୍ଭରୁ ୱିଜେଟ୍ ଆପ୍ ସହ ଦିଆଯାଇଥିବା ଦୈନିକ ଚିନ୍ତା ଦେଖାଏ। ପସନ୍ଦର ବାକ୍ୟ ବା ନିଜ କଥାକୁ ଉତ୍ସ ବାଛିଲେ ସେହି ଲେଖା ହୋମ୍ ବା ଲକ୍ ସ୍କ୍ରିନ୍‌ରେ ଦେଖାଯାଇପାରେ। ଦିନଲିପି ଓ ମନୋଭାବ ଲେଖା କେବେ ବି ୱିଜେଟ୍‌ରେ ଆସେ ନାହିଁ। ସ୍ଥାନୀୟ ସ୍ମରଣରେ ଗୋପନୀୟ ଲେଖା ନ ଥାଏ। ନୋଟିଫିକେସନ୍ ଇଚ୍ଛାମୁତାବକ; ଆପ୍ କିମ୍ବା iOS ସେଟିଂରେ ବନ୍ଦ କରିପାରିବେ।"
+      },
+      {
+        "id": "photos",
+        "title": "ଫଟୋ ଓ ସେୟାର",
+        "body": "ନିଜ ପୃଷ୍ଠଭୂମି ପାଇଁ iOS ଫଟୋ ବାଛିବା ବ୍ୟବସ୍ଥା ବ୍ୟବହାର ହୁଏ। ଆପ୍ କେବଳ ବାଛିଥିବା ଚିତ୍ର ଆଣେ ଏବଂ ମୂଳ ଫଟୋର ମେଟାଡାଟା ବିନା କମ ରିଜୋଲ୍ୟୁସନ୍‌ର ସ୍ଥାନୀୟ କପି ତିଆରି କରେ। ଚିତ୍ର ସଂରକ୍ଷଣ ପାଇଁ ଫଟୋ ଯୋଡ଼ିବା ଅନୁମତି ମାଗେ, ସାରା ଫଟୋ ସଂଗ୍ରହ ଦେଖିବା ଅନୁମତି ନୁହେଁ। ଆଣିଥିବା ପୃଷ୍ଠଭୂମି ହଟାଇଲେ Photosର ମୂଳ ଫଟୋ ବଦଳେ ନାହିଁ। ଆପଣ ମାଗିଲେ ହିଁ ସେୟାର ବା ଫାଇଲ୍ ରପ୍ତାନି ହୁଏ; ତାପରେ ବାଛିଥିବା ସେବା ବା ଗନ୍ତବ୍ୟ ସେହି କପି ନିୟନ୍ତ୍ରଣ କରେ।"
+      },
+      {
+        "id": "apple",
+        "title": "Apple ଓ କିଣାକିଣି",
+        "body": "ଆପ୍ ଭିତରେ କିଣାକିଣି ଉପଲବ୍ଧ ଥିଲେ Apple ଦେୟ ପ୍ରକ୍ରିୟା କରେ ଏବଂ ଆପ୍‌କୁ ଯାଞ୍ଚଯୋଗ୍ୟ ଲେଣଦେଣ ଦିଏ। AffirMate କ୍ରେଡିଟ୍ କାର୍ଡ କିମ୍ବା ବ୍ୟାଙ୍କ ତଥ୍ୟ ପ୍ରକ୍ରିୟା କରେ ନାହିଁ। ପରୀକ୍ଷାମୂଳକ ପ୍ରବେଶ ଓ ଖୋଲାଯାଇଥିବା ସୁବିଧା ଉପକରଣରେ Apple ଲେଣଦେଣ ଆଧାରରେ ଯାଞ୍ଚ ହୁଏ। ମାଗଣା ପରୀକ୍ଷା ଆରମ୍ଭ କଲେ ପରେ କିଛି କିଣାଯାଏ ନାହିଁ। Apple ନିଜ ସେଟିଂ ଓ ଗୋପନୀୟତା ନିୟମ ଅନୁଯାୟୀ App Store, ତ୍ରୁଟି ଯାଞ୍ଚ ଓ ଉପକରଣର ତଥ୍ୟ ପ୍ରକ୍ରିୟା କରିପାରେ। iOS କିମ୍ବା iCloud ଉପକରଣ ବ୍ୟାକଅପ୍‌ରେ ସ୍ଥାନୀୟ ଆପ୍ ତଥ୍ୟ ରହିପାରେ; AffirMate ନିଜସ୍ୱ କ୍ଲାଉଡ୍ ସମନ୍ୱୟ ଦିଏ ନାହିଁ।"
+      },
+      {
+        "id": "delete",
+        "title": "ରଖିବା ଓ ହଟାଇବା",
+        "body": "ସ୍ଥାନୀୟ ଲେଖା ଆପଣ ହଟାଇବା ପର୍ଯ୍ୟନ୍ତ ରହେ। ଦିନଲିପି ଲେଖା ଓ ନିଜ ବାକ୍ୟ ଗୋଟିଗୋଟି କରି ହଟାଇପାରିବେ। ପ୍ରୋଫାଇଲ୍‌ରୁ ଲେଖା ରପ୍ତାନି କିମ୍ବା ସବୁ ବ୍ୟକ୍ତିଗତ ଆପ୍ ତଥ୍ୟ ରିସେଟ୍ କରିପାରିବେ। ରିସେଟ୍ ମନୋଭାବ ଇତିହାସ, ସ୍ମରଣ ଓ ବ୍ୟକ୍ତିଗତ ସଜାଣି ବି ହଟାଏ, କିନ୍ତୁ Apple ଆକାଉଣ୍ଟର କିଣାକିଣି କିମ୍ବା ଆଗରୁ ରପ୍ତାନି ବା ସେୟାର ହୋଇଥିବା କପି ନୁହେଁ। ଦରକାର ହେଲେ ସେହି କପି ଓ ପୁରୁଣା ଉପକରଣ ବ୍ୟାକଅପ୍ ଅଲଗା ହଟାନ୍ତୁ। ଆପଣଙ୍କ ସ୍ଥାନୀୟ ଲେଖା ଆମେ ଦେଖିବା ବା ଆପଣଙ୍କ ପାଇଁ ହଟାଇବା ପାରୁ ନାହୁଁ।"
+      },
+      {
+        "id": "wellbeing",
+        "title": "ଆପଣଙ୍କ ଅଭ୍ୟାସ, ଆପଣଙ୍କ ପସନ୍ଦ",
+        "body": "ସକାରାତ୍ମକ ବାକ୍ୟ, ମନୋଭାବ ଲେଖା ଓ ସଙ୍ଗୀତ ନିଜ ବିଷୟରେ ଭାବିବାରେ ସାହାଯ୍ୟ କରେ। ଏଗୁଡ଼ିକ କୌଣସି ରୋଗ ଚିହ୍ନଟ ବା ଚିକିତ୍ସା କରେ ନାହିଁ ଏବଂ ଡାକ୍ତରୀ ବା ମାନସିକ ଯତ୍ନର ବଦଳ ନୁହେଁ। ସବୁ ଅନୁଭବ ସମାନ ଭାବେ ସ୍ୱାଗତଯୋଗ୍ୟ। ପଢ଼ିବା ପାଇଁ ନାମ, ଫଟୋ ଅନୁମତି କିମ୍ବା ନୋଟିଫିକେସନ୍ ଦରକାର ନାହିଁ।"
+      },
+      {
+        "id": "contact",
+        "title": "ପ୍ରଶ୍ନ ଓ ପରିବର୍ତ୍ତନ",
+        "body": "ଗୋପନୀୟତା କିମ୍ବା ସୁଗମତା ପ୍ରଶ୍ନ ପାଇଁ: support@swisswise.com। ଗୋପନୀୟ ଦିନଲିପି ଲେଖା ପଠାନ୍ତୁ ନାହିଁ। ସହାୟତା ସହ ଯୋଗାଯୋଗ କଲେ ଆପଣ ସ୍ୱଇଚ୍ଛାରେ ଦେଇଥିବା ତଥ୍ୟ ଆମେ ପାଉ ଏବଂ ଉତ୍ତର ଦେବା ପାଇଁ ବ୍ୟବହାର କରୁ। ଏହି ନୀତି ଅନ୍ୟ Swisswise ଉତ୍ପାଦଠାରୁ ଅଲଗା ଭାବେ AffirMate ପାଇଁ ଲାଗୁ ହୁଏ। ପରିବର୍ତ୍ତନ ଆପ୍ ଅପଡେଟ୍ ଓ ନୂଆ ତାରିଖ ସହ ଦିଆଯାଏ। ଲାଗୁ ତାରିଖ: 2026-10-11।"
+      }
+    ],
+    "pl": [
+      {
+        "id": "owner",
+        "title": "Wydawca",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Twoje dane pozostają lokalnie",
+        "body": "AffirMate nie ma konta, serwera obsługiwanego przez aplikację, reklam ani śledzenia. Aplikacja przechowuje opcjonalnie podane imię, ustawienia, ulubione, osobiste afirmacje, wpisy w dzienniku, szkice, wpisy nastroju i wybrane zdjęcia lokalnie na iPhonie. Nie otrzymujemy tych treści. Aplikacja nie przesyła tekstów ani zdjęć do usługi AI. Afirmacje, ilustracje i muzyka instrumentalna są dołączone do aplikacji."
+      },
+      {
+        "id": "widgets",
+        "title": "Widżety i powiadomienia",
+        "body": "Aplikacja i widżet korzystają ze wspólnego, chronionego lokalnego kontenera App Group. Domyślnie widżety pokazują dołączone myśli dnia. Jeśli wybierzesz jako źródło ulubione lub własne słowa, ich tekst może być widoczny na ekranie początkowym lub ekranie blokady. Wpisy dziennika i nastroju nigdy nie pojawiają się w widżecie. Lokalne przypomnienia nie zawierają prywatnych tekstów. Powiadomienia są opcjonalne i można je wyłączyć w aplikacji lub Ustawieniach iOS."
+      },
+      {
+        "id": "photos",
+        "title": "Zdjęcia i udostępnianie",
+        "body": "Własne tła korzystają z systemowego wyboru zdjęć iOS. Aplikacja importuje tylko wybrany obraz i tworzy lokalną kopię o zmniejszonej rozdzielczości, bez metadanych oryginalnego zdjęcia. Zapisywanie grafik wymaga uprawnienia do dodawania zdjęć, nie ogólnego dostępu do biblioteki. Usunięcie zaimportowanego tła nie zmienia oryginału w Zdjęciach. Udostępnianie i eksport plików odbywają się tylko na twoje żądanie; wybrana usługa lub miejsce docelowe kontroluje wtedy udostępnioną kopię."
+      },
+      {
+        "id": "apple",
+        "title": "Apple i zakupy",
+        "body": "Gdy zakupy w aplikacji są dostępne, Apple obsługuje płatność i przekazuje aplikacji transakcję możliwą do zweryfikowania. AffirMate nie przetwarza danych kart płatniczych ani danych bankowych. Dostęp próbny i odblokowania są sprawdzane na urządzeniu na podstawie transakcji Apple. Rozpoczęcie bezpłatnego okresu próbnego nie powoduje późniejszego zakupu. Apple może przetwarzać dane App Store, diagnostyczne i urządzenia zgodnie z własnymi ustawieniami i zasadami prywatności. Kopia zapasowa urządzenia w iOS lub iCloud może zawierać lokalne dane aplikacji; AffirMate nie zapewnia własnej synchronizacji w chmurze."
+      },
+      {
+        "id": "delete",
+        "title": "Przechowywanie i usuwanie",
+        "body": "Lokalne treści pozostają do czasu ich usunięcia. Wpisy w dzienniku i osobiste afirmacje można usuwać pojedynczo. W Profilu możesz wyeksportować swoje teksty lub wyzerować wszystkie osobiste dane aplikacji. Zerowanie usuwa też historię nastroju, przypomnienia i personalizację, ale nie zakupy na koncie Apple ani wcześniej wyeksportowane lub udostępnione kopie. W razie potrzeby usuń te kopie i starsze kopie zapasowe urządzenia osobno. Nie możemy przeglądać ani usuwać lokalnych treści za ciebie."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Twoja praktyka, twój wybór",
+        "body": "Afirmacje, wpisy nastroju i muzyka wspierają osobistą refleksję. Nie diagnozują ani nie leczą żadnych schorzeń i nie zastępują opieki medycznej ani psychologicznej. Wszystkie uczucia są równie mile widziane. Czytanie nie wymaga imienia, dostępu do zdjęć ani powiadomień."
+      },
+      {
+        "id": "contact",
+        "title": "Pytania i zmiany",
+        "body": "Pytania dotyczące prywatności lub dostępności: support@swisswise.com. Nie wysyłaj poufnych treści dziennika. Gdy kontaktujesz się z pomocą, otrzymujemy dobrowolnie podane informacje i wykorzystujemy je do odpowiedzi na zgłoszenie. Ta polityka dotyczy AffirMate niezależnie od innych produktów Swisswise. Zmiany są dołączane do aktualizacji aplikacji wraz ze zmienioną datą. Obowiązuje od: 2026-10-11."
+      }
+    ],
+    "pt-BR": [
+      {
+        "id": "owner",
+        "title": "Responsável pela publicação",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Seus dados ficam no dispositivo",
+        "body": "O AffirMate não tem conta, servidor operado pelo app, publicidade nem rastreamento. O app armazena localmente no seu iPhone seu nome opcional, ajustes, favoritos, afirmações pessoais, registros do diário, rascunhos, registros de humor e imagens selecionadas. Não recebemos esse conteúdo. O app não envia textos nem imagens a um serviço de IA. Afirmações, ilustrações e músicas instrumentais já vêm incluídas no app."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgets e notificações",
+        "body": "O app e o widget compartilham um contêiner local protegido de Grupo de Apps. Por padrão, os widgets mostram os pensamentos diários incluídos no app. Se você escolher favoritos ou palavras pessoais como origem, esse texto poderá ficar visível na Tela de Início ou na Tela Bloqueada. Registros do diário e de humor nunca aparecem num widget. Os lembretes locais não contêm textos privados. As notificações são opcionais e podem ser desativadas no app ou nos Ajustes do iOS."
+      },
+      {
+        "id": "photos",
+        "title": "Fotos e compartilhamento",
+        "body": "Os fundos personalizados usam o seletor de fotos do iOS. O app importa apenas a imagem que você seleciona e cria uma cópia local com resolução reduzida, sem os metadados da foto original. Salvar uma arte solicita permissão para adicionar fotos, não acesso geral à sua fototeca. Remover um fundo importado não altera o original no Fotos. O compartilhamento e a exportação de arquivos só acontecem quando você os solicita; depois disso, o serviço ou destino escolhido controla a cópia compartilhada."
+      },
+      {
+        "id": "apple",
+        "title": "Apple e compras",
+        "body": "Quando as compras no app estão disponíveis, a Apple processa o pagamento e fornece ao app uma transação verificável. O AffirMate não processa dados de cartão de crédito nem dados bancários. O acesso de teste e os desbloqueios são verificados no dispositivo com base nas transações da Apple. Iniciar o teste grátis não gera uma compra posterior. A Apple pode processar dados da App Store, de diagnóstico e do dispositivo conforme seus próprios ajustes e regras de privacidade. O backup do seu dispositivo no iOS ou iCloud pode conter dados locais do app; o AffirMate não oferece sincronização própria na nuvem."
+      },
+      {
+        "id": "delete",
+        "title": "Retenção e exclusão",
+        "body": "O conteúdo local permanece até você excluí-lo. Registros do diário e afirmações pessoais podem ser removidos individualmente. O Perfil permite exportar seus textos ou redefinir todos os dados pessoais do app. A redefinição também remove o histórico de humor, os lembretes e as personalizações, mas não as compras da sua conta Apple nem as cópias já exportadas ou compartilhadas. Se necessário, remova essas cópias e os backups antigos do dispositivo separadamente. Não podemos visualizar nem excluir seu conteúdo local por você."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Sua prática, sua escolha",
+        "body": "Afirmações, registros de humor e música apoiam a reflexão pessoal. Não diagnosticam nem tratam qualquer condição e não substituem cuidados médicos ou psicológicos. Todos os sentimentos são igualmente bem-vindos. A leitura não exige nome, permissão para fotos nem notificações."
+      },
+      {
+        "id": "contact",
+        "title": "Dúvidas e alterações",
+        "body": "Para dúvidas sobre privacidade ou acessibilidade: support@swisswise.com. Não envie conteúdo confidencial do diário. Ao entrar em contato com o suporte, recebemos as informações que você inclui voluntariamente e as usamos para responder à sua solicitação. Esta política se aplica ao AffirMate separadamente dos outros produtos Swisswise. As alterações são incluídas numa atualização do app, com a data atualizada. Em vigor desde: 2026-10-11."
+      }
+    ],
+    "pt-PT": [
+      {
+        "id": "owner",
+        "title": "Entidade editora",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Os teus dados ficam no dispositivo",
+        "body": "O AffirMate não tem conta, servidor gerido pela aplicação, publicidade nem seguimento. A aplicação guarda localmente no teu iPhone o teu nome opcional, as definições, os favoritos, as afirmações pessoais, as entradas do diário, os rascunhos, os registos de humor e as imagens selecionadas. Não recebemos este conteúdo. A aplicação não envia textos nem imagens para um serviço de IA. As afirmações, ilustrações e músicas instrumentais estão incluídas na aplicação."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgets e notificações",
+        "body": "A aplicação e o widget partilham um contentor local protegido de Grupo de Aplicações. Por predefinição, os widgets mostram os pensamentos diários incluídos na aplicação. Se escolheres favoritos ou palavras pessoais como fonte, esse texto poderá ficar visível no ecrã principal ou no ecrã bloqueado. As entradas do diário e os registos de humor nunca aparecem num widget. Os lembretes locais não contêm textos privados. As notificações são opcionais e podem ser desativadas na aplicação ou nas Definições do iOS."
+      },
+      {
+        "id": "photos",
+        "title": "Fotografias e partilha",
+        "body": "Os fundos personalizados utilizam o seletor de fotografias do iOS. A aplicação importa apenas a imagem que selecionas e cria uma cópia local com resolução reduzida, sem os metadados da fotografia original. Guardar uma composição pede autorização para adicionar fotografias, não acesso geral à tua fototeca. Remover um fundo importado não altera o original na aplicação Fotografias. A partilha e a exportação de ficheiros só acontecem quando as pedes; a partir daí, o serviço ou destino escolhido controla a cópia partilhada."
+      },
+      {
+        "id": "apple",
+        "title": "Apple e compras",
+        "body": "Quando estão disponíveis compras integradas, a Apple processa o pagamento e fornece à aplicação uma transação verificável. O AffirMate não processa dados de cartões de crédito nem dados bancários. O acesso experimental e os desbloqueios são verificados no dispositivo através das transações da Apple. Iniciar o período experimental gratuito não desencadeia uma compra posterior. A Apple pode tratar dados da App Store, de diagnóstico e do dispositivo segundo as suas próprias definições e regras de privacidade. A cópia de segurança do dispositivo no iOS ou no iCloud pode conter dados locais da aplicação; o AffirMate não disponibiliza sincronização própria na nuvem."
+      },
+      {
+        "id": "delete",
+        "title": "Conservação e eliminação",
+        "body": "O conteúdo local permanece até o eliminares. As entradas do diário e as afirmações pessoais podem ser removidas individualmente. O Perfil permite exportar os teus textos ou repor todos os dados pessoais da aplicação. A reposição também remove o histórico de humor, os lembretes e a personalização, mas não as compras da tua conta Apple nem as cópias já exportadas ou partilhadas. Se necessário, remove essas cópias e as cópias de segurança antigas do dispositivo separadamente. Não podemos ver nem eliminar o teu conteúdo local por ti."
+      },
+      {
+        "id": "wellbeing",
+        "title": "A tua prática, a tua escolha",
+        "body": "As afirmações, os registos de humor e a música apoiam a reflexão pessoal. Não diagnosticam nem tratam qualquer condição, nem substituem cuidados médicos ou psicológicos. Todos os sentimentos são igualmente bem-vindos. A leitura não requer um nome, autorização para fotografias ou notificações."
+      },
+      {
+        "id": "contact",
+        "title": "Questões e alterações",
+        "body": "Para questões de privacidade ou acessibilidade: support@swisswise.com. Não envies conteúdo confidencial do diário. Quando contactas o apoio, recebemos a informação que incluis voluntariamente e utilizamo-la para responder ao teu pedido. Esta política aplica-se ao AffirMate separadamente dos restantes produtos Swisswise. As alterações são incluídas numa atualização da aplicação, com uma data atualizada. Em vigor desde: 2026-10-11."
+      }
+    ],
+    "pa-IN": [
+      {
+        "id": "owner",
+        "title": "ਪ੍ਰਕਾਸ਼ਕ",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "ਤੁਹਾਡਾ ਡਾਟਾ ਡਿਵਾਈਸ ਉੱਤੇ ਹੀ ਰਹਿੰਦਾ ਹੈ",
+        "body": "AffirMate ਵਿੱਚ ਖਾਤਾ, ਐਪ ਵੱਲੋਂ ਚਲਾਇਆ ਸਰਵਰ, ਇਸ਼ਤਿਹਾਰ ਜਾਂ ਟ੍ਰੈਕਿੰਗ ਨਹੀਂ ਹੈ। ਐਪ ਤੁਹਾਡਾ ਚੋਣਵਾਂ ਨਾਂ, ਸੈਟਿੰਗਾਂ, ਮਨਪਸੰਦ, ਨਿੱਜੀ ਆਤਮ-ਹੌਸਲੇ ਵਾਲੇ ਵਾਕ, ਡਾਇਰੀ ਦਰਜਾਂ, ਖਰੜੇ, ਮਨੋਦਸ਼ਾ ਦਰਜਾਂ ਅਤੇ ਚੁਣੀਆਂ ਤਸਵੀਰਾਂ ਤੁਹਾਡੇ iPhone ਉੱਤੇ ਹੀ ਸੰਭਾਲਦਾ ਹੈ। ਇਹ ਸਮੱਗਰੀ ਸਾਨੂੰ ਨਹੀਂ ਮਿਲਦੀ। ਐਪ ਲਿਖਤ ਜਾਂ ਤਸਵੀਰਾਂ ਕਿਸੇ AI ਸੇਵਾ ਉੱਤੇ ਅੱਪਲੋਡ ਨਹੀਂ ਕਰਦਾ। ਆਤਮ-ਹੌਸਲੇ ਵਾਲੇ ਵਾਕ, ਚਿੱਤਰ ਅਤੇ ਸਾਜ਼ੀ ਸੰਗੀਤ ਐਪ ਨਾਲ ਹੀ ਆਉਂਦੇ ਹਨ।"
+      },
+      {
+        "id": "widgets",
+        "title": "ਵਿਜੈੱਟ ਅਤੇ ਸੂਚਨਾਵਾਂ",
+        "body": "ਐਪ ਅਤੇ ਵਿਜੈੱਟ ਇੱਕ ਸੁਰੱਖਿਅਤ ਸਥਾਨਕ App Group ਕੰਟੇਨਰ ਸਾਂਝਾ ਕਰਦੇ ਹਨ। ਵਿਜੈੱਟ ਮੂਲ ਰੂਪ ਵਿੱਚ ਐਪ ਨਾਲ ਆਏ ਰੋਜ਼ਾਨਾ ਵਿਚਾਰ ਵਿਖਾਉਂਦੇ ਹਨ। ਜੇ ਤੁਸੀਂ ਉਨ੍ਹਾਂ ਦੇ ਸਰੋਤ ਵਜੋਂ ਮਨਪਸੰਦ ਜਾਂ ਨਿੱਜੀ ਸ਼ਬਦ ਚੁਣਦੇ ਹੋ, ਤਾਂ ਉਹ ਲਿਖਤ ਤੁਹਾਡੀ ਹੋਮ ਜਾਂ ਲੌਕ ਸਕ੍ਰੀਨ ਉੱਤੇ ਦਿਸ ਸਕਦੀ ਹੈ। ਡਾਇਰੀ ਅਤੇ ਮਨੋਦਸ਼ਾ ਦਰਜਾਂ ਕਦੇ ਵਿਜੈੱਟ ਵਿੱਚ ਨਹੀਂ ਦਿਸਦੀਆਂ। ਸਥਾਨਕ ਯਾਦ-ਦਿਹਾਣੀਆਂ ਵਿੱਚ ਨਿੱਜੀ ਲਿਖਤ ਨਹੀਂ ਹੁੰਦੀ। ਸੂਚਨਾਵਾਂ ਚੋਣਵੀਆਂ ਹਨ ਅਤੇ ਐਪ ਜਾਂ iOS ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਬੰਦ ਕੀਤੀਆਂ ਜਾ ਸਕਦੀਆਂ ਹਨ।"
+      },
+      {
+        "id": "photos",
+        "title": "ਫ਼ੋਟੋਆਂ ਅਤੇ ਸਾਂਝਾਕਰਨ",
+        "body": "ਨਿੱਜੀ ਪਿਛੋਕੜਾਂ ਲਈ iOS ਦਾ ਫ਼ੋਟੋ ਚੋਣਕਾਰ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ। ਐਪ ਸਿਰਫ਼ ਤੁਹਾਡੀ ਚੁਣੀ ਤਸਵੀਰ ਲਿਆਉਂਦਾ ਹੈ ਅਤੇ ਮੂਲ ਫ਼ੋਟੋ ਦੇ ਮੈਟਾਡਾਟਾ ਤੋਂ ਬਿਨਾਂ ਘੱਟ ਰੈਜ਼ੋਲੂਸ਼ਨ ਵਾਲੀ ਸਥਾਨਕ ਕਾਪੀ ਬਣਾਉਂਦਾ ਹੈ। ਕਲਾਕ੍ਰਿਤੀ ਸੰਭਾਲਣ ਵੇਲੇ ਫ਼ੋਟੋਆਂ ਜੋੜਨ ਦੀ ਇਜਾਜ਼ਤ ਮੰਗੀ ਜਾਂਦੀ ਹੈ, ਪੂਰੀ ਲਾਇਬ੍ਰੇਰੀ ਦੀ ਪਹੁੰਚ ਨਹੀਂ। ਆਯਾਤ ਕੀਤਾ ਪਿਛੋਕੜ ਹਟਾਉਣ ਨਾਲ Photos ਵਿੱਚ ਮੂਲ ਤਸਵੀਰ ਨਹੀਂ ਬਦਲਦੀ। ਸਾਂਝਾ ਕਰਨਾ ਅਤੇ ਫ਼ਾਈਲ ਨਿਰਯਾਤ ਸਿਰਫ਼ ਤੁਹਾਡੀ ਬੇਨਤੀ ਉੱਤੇ ਹੁੰਦੇ ਹਨ; ਫਿਰ ਸਾਂਝੀ ਕਾਪੀ ਤੁਹਾਡੀ ਚੁਣੀ ਸੇਵਾ ਜਾਂ ਟਿਕਾਣੇ ਦੇ ਨਿਯੰਤਰਣ ਹੇਠ ਹੁੰਦੀ ਹੈ।"
+      },
+      {
+        "id": "apple",
+        "title": "Apple ਅਤੇ ਖਰੀਦਾਂ",
+        "body": "ਜਦੋਂ ਐਪ ਅੰਦਰ ਖਰੀਦਾਂ ਉਪਲਬਧ ਹੁੰਦੀਆਂ ਹਨ, Apple ਭੁਗਤਾਨ ਸੰਭਾਲਦਾ ਹੈ ਅਤੇ ਐਪ ਨੂੰ ਪੁਸ਼ਟੀਯੋਗ ਲੈਣ-ਦੇਣ ਦਿੰਦਾ ਹੈ। AffirMate ਕ੍ਰੈਡਿਟ ਕਾਰਡ ਜਾਂ ਬੈਂਕ ਦੇ ਵੇਰਵੇ ਸੰਭਾਲਦਾ ਨਹੀਂ। ਅਜ਼ਮਾਇਸ਼ੀ ਪਹੁੰਚ ਅਤੇ ਅਨਲੌਕਾਂ ਦੀ ਜਾਂਚ ਡਿਵਾਈਸ ਉੱਤੇ Apple ਦੇ ਲੈਣ-ਦੇਣ ਨਾਲ ਕੀਤੀ ਜਾਂਦੀ ਹੈ। ਮੁਫ਼ਤ ਅਜ਼ਮਾਇਸ਼ ਸ਼ੁਰੂ ਕਰਨ ਨਾਲ ਬਾਅਦ ਦੀ ਖਰੀਦ ਆਪਣੇ ਆਪ ਨਹੀਂ ਹੁੰਦੀ। Apple ਆਪਣੀਆਂ ਸੈਟਿੰਗਾਂ ਅਤੇ ਪਰਦੇਦਾਰੀ ਨਿਯਮਾਂ ਅਨੁਸਾਰ App Store, ਨਿਦਾਨ ਅਤੇ ਡਿਵਾਈਸ ਡਾਟਾ ਪ੍ਰਕਿਰਿਆ ਕਰ ਸਕਦਾ ਹੈ। ਤੁਹਾਡੇ iOS ਜਾਂ iCloud ਡਿਵਾਈਸ ਬੈਕਅੱਪ ਵਿੱਚ ਸਥਾਨਕ ਐਪ ਡਾਟਾ ਹੋ ਸਕਦਾ ਹੈ; AffirMate ਆਪਣਾ ਕਲਾਊਡ ਸਮਕਾਲੀਕਰਨ ਨਹੀਂ ਦਿੰਦਾ।"
+      },
+      {
+        "id": "delete",
+        "title": "ਸੰਭਾਲ ਅਤੇ ਮਿਟਾਉਣਾ",
+        "body": "ਸਥਾਨਕ ਸਮੱਗਰੀ ਤੁਹਾਡੇ ਮਿਟਾਉਣ ਤੱਕ ਰਹਿੰਦੀ ਹੈ। ਡਾਇਰੀ ਦਰਜਾਂ ਅਤੇ ਨਿੱਜੀ ਆਤਮ-ਹੌਸਲੇ ਵਾਲੇ ਵਾਕ ਵੱਖ-ਵੱਖ ਮਿਟਾਏ ਜਾ ਸਕਦੇ ਹਨ। ਪ੍ਰੋਫ਼ਾਈਲ ਵਿੱਚ ਆਪਣੀ ਲਿਖਤ ਨਿਰਯਾਤ ਕਰਨ ਜਾਂ ਸਾਰਾ ਨਿੱਜੀ ਐਪ ਡਾਟਾ ਰੀਸੈੱਟ ਕਰਨ ਦੀ ਸਹੂਲਤ ਹੈ। ਰੀਸੈੱਟ ਨਾਲ ਮਨੋਦਸ਼ਾ ਦਾ ਇਤਿਹਾਸ, ਯਾਦ-ਦਿਹਾਣੀਆਂ ਅਤੇ ਨਿੱਜੀ ਸਜਾਵਟ ਵੀ ਹਟ ਜਾਂਦੀ ਹੈ, ਪਰ ਤੁਹਾਡੇ Apple ਖਾਤੇ ਦੀਆਂ ਖਰੀਦਾਂ ਜਾਂ ਪਹਿਲਾਂ ਨਿਰਯਾਤ ਜਾਂ ਸਾਂਝੀਆਂ ਕੀਤੀਆਂ ਕਾਪੀਆਂ ਨਹੀਂ। ਲੋੜ ਹੋਵੇ ਤਾਂ ਉਹ ਕਾਪੀਆਂ ਅਤੇ ਪੁਰਾਣੇ ਡਿਵਾਈਸ ਬੈਕਅੱਪ ਵੱਖਰੇ ਹਟਾਓ। ਅਸੀਂ ਤੁਹਾਡੀ ਸਥਾਨਕ ਸਮੱਗਰੀ ਵੇਖ ਜਾਂ ਤੁਹਾਡੇ ਲਈ ਮਿਟਾ ਨਹੀਂ ਸਕਦੇ।"
+      },
+      {
+        "id": "wellbeing",
+        "title": "ਤੁਹਾਡਾ ਅਭਿਆਸ, ਤੁਹਾਡੀ ਚੋਣ",
+        "body": "ਆਤਮ-ਹੌਸਲੇ ਵਾਲੇ ਵਾਕ, ਮਨੋਦਸ਼ਾ ਦਰਜਾਂ ਅਤੇ ਸੰਗੀਤ ਨਿੱਜੀ ਮਨਨ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰਦੇ ਹਨ। ਇਹ ਕਿਸੇ ਹਾਲਤ ਦਾ ਨਿਦਾਨ ਜਾਂ ਇਲਾਜ ਨਹੀਂ ਕਰਦੇ ਅਤੇ ਨਾ ਹੀ ਡਾਕਟਰੀ ਜਾਂ ਮਨੋਵਿਗਿਆਨਕ ਦੇਖਭਾਲ ਦੀ ਥਾਂ ਲੈਂਦੇ ਹਨ। ਸਾਰੇ ਜਜ਼ਬਾਤਾਂ ਦਾ ਇੱਕੋ ਜਿਹਾ ਸਵਾਗਤ ਹੈ। ਪੜ੍ਹਨ ਲਈ ਨਾਂ, ਫ਼ੋਟੋ ਇਜਾਜ਼ਤ ਜਾਂ ਸੂਚਨਾਵਾਂ ਦੀ ਲੋੜ ਨਹੀਂ।"
+      },
+      {
+        "id": "contact",
+        "title": "ਸਵਾਲ ਅਤੇ ਤਬਦੀਲੀਆਂ",
+        "body": "ਪਰਦੇਦਾਰੀ ਜਾਂ ਪਹੁੰਚਯੋਗਤਾ ਬਾਰੇ ਸਵਾਲਾਂ ਲਈ: support@swisswise.com। ਡਾਇਰੀ ਦੀ ਗੁਪਤ ਸਮੱਗਰੀ ਨਾ ਭੇਜੋ। ਸਹਾਇਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰਨ ਵੇਲੇ ਤੁਸੀਂ ਆਪਣੀ ਮਰਜ਼ੀ ਨਾਲ ਜੋ ਜਾਣਕਾਰੀ ਦਿੰਦੇ ਹੋ, ਉਹ ਸਾਨੂੰ ਮਿਲਦੀ ਹੈ ਅਤੇ ਤੁਹਾਡੀ ਬੇਨਤੀ ਦਾ ਜਵਾਬ ਦੇਣ ਲਈ ਵਰਤੀ ਜਾਂਦੀ ਹੈ। ਇਹ ਨੀਤੀ ਹੋਰ Swisswise ਉਤਪਾਦਾਂ ਤੋਂ ਵੱਖਰੇ ਤੌਰ ਉੱਤੇ AffirMate ਲਈ ਲਾਗੂ ਹੈ। ਤਬਦੀਲੀਆਂ ਐਪ ਅਪਡੇਟ ਅਤੇ ਨਵੀਂ ਮਿਤੀ ਨਾਲ ਸ਼ਾਮਲ ਕੀਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ। ਲਾਗੂ ਮਿਤੀ: 2026-10-11।"
+      }
+    ],
+    "ro": [
+      {
+        "id": "owner",
+        "title": "Editor",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Datele tale rămân locale",
+        "body": "AffirMate nu are cont, server administrat de aplicație, publicitate sau urmărire. Aplicația stochează local pe iPhone numele opțional, configurările, favoritele, afirmațiile personale, însemnările din jurnal, ciornele, înregistrările stării și imaginile selectate. Nu primim acest conținut. Aplicația nu încarcă texte sau imagini într-un serviciu de IA. Afirmațiile, ilustrațiile și muzica instrumentală sunt incluse în aplicație."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgeturi și notificări",
+        "body": "Aplicația și widgetul folosesc un container local protejat al unui grup de aplicații. Implicit, widgeturile arată gândurile zilnice incluse. Dacă alegi favorite sau cuvinte personale ca sursă, textul poate fi vizibil pe ecranul principal sau de blocare. Însemnările din jurnal și înregistrările stării nu apar niciodată într-un widget. Mementourile locale nu conțin texte private. Notificările sunt opționale și pot fi oprite din aplicație sau din Configurări iOS."
+      },
+      {
+        "id": "photos",
+        "title": "Fotografii și partajare",
+        "body": "Fundalurile personalizate folosesc selectorul foto iOS. Aplicația importă doar imaginea selectată și creează o copie locală cu rezoluție redusă, fără metadatele fotografiei originale. Salvarea unei compoziții cere permisiunea de a adăuga fotografii, nu acces general la bibliotecă. Eliminarea unui fundal importat nu afectează originalul din Poze. Partajarea și exportarea fișierelor au loc doar la cererea ta; serviciul sau destinația aleasă controlează apoi copia partajată."
+      },
+      {
+        "id": "apple",
+        "title": "Apple și cumpărăturile",
+        "body": "Când sunt disponibile cumpărături în aplicație, Apple procesează plata și furnizează aplicației o tranzacție verificabilă. AffirMate nu procesează date de card sau bancare. Accesul de probă și deblocările sunt verificate pe dispozitiv pe baza tranzacțiilor Apple. Începerea perioadei de probă gratuite nu declanșează o cumpărătură ulterioară. Apple poate procesa date din App Store, de diagnosticare și ale dispozitivului conform propriilor configurări și reguli de confidențialitate. Copia de siguranță iOS sau iCloud a dispozitivului poate conține date locale ale aplicației; AffirMate nu oferă sincronizare proprie în cloud."
+      },
+      {
+        "id": "delete",
+        "title": "Păstrare și ștergere",
+        "body": "Conținutul local rămâne până îl ștergi. Însemnările din jurnal și afirmațiile personale pot fi eliminate individual. Profilul permite exportarea textelor sau resetarea tuturor datelor personale ale aplicației. Resetarea elimină și istoricul stării, mementourile și personalizarea, dar nu cumpărăturile din contul Apple sau copiile deja exportate ori partajate. Dacă este nevoie, elimină separat aceste copii și copiile de siguranță mai vechi ale dispozitivului. Nu putem vedea sau șterge conținutul local în locul tău."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Practica ta, alegerea ta",
+        "body": "Afirmațiile, înregistrările stării și muzica sprijină reflecția personală. Nu diagnostichează și nu tratează nicio afecțiune și nu înlocuiesc îngrijirea medicală sau psihologică. Toate sentimentele sunt la fel de binevenite. Lectura nu necesită nume, permisiune foto sau notificări."
+      },
+      {
+        "id": "contact",
+        "title": "Întrebări și modificări",
+        "body": "Pentru întrebări privind confidențialitatea sau accesibilitatea: support@swisswise.com. Nu trimite conținut confidențial din jurnal. Când contactezi asistența, primim informațiile pe care le incluzi voluntar și le folosim pentru a răspunde solicitării. Această politică se aplică AffirMate separat de celelalte produse Swisswise. Modificările sunt incluse într-o actualizare a aplicației, împreună cu o dată actualizată. În vigoare de la: 2026-10-11."
+      }
+    ],
+    "ru": [
+      {
+        "id": "owner",
+        "title": "Издатель",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Ваши данные остаются на устройстве",
+        "body": "В AffirMate нет учётных записей, собственного сервера приложения, рекламы и отслеживания. Приложение хранит необязательное имя, настройки, избранное, личные аффирмации, записи дневника, черновики, отметки настроения и выбранные изображения локально на вашем iPhone. Мы не получаем это содержимое. Приложение не отправляет тексты или изображения в сервисы искусственного интеллекта. Аффирмации, иллюстрации и инструментальная музыка включены в приложение."
+      },
+      {
+        "id": "widgets",
+        "title": "Виджеты и уведомления",
+        "body": "Приложение и виджет используют общий защищённый локальный контейнер App Group. По умолчанию виджеты показывают включённые в приложение ежедневные мысли. Если выбрать источником избранное или личные слова, этот текст может быть виден на экране «Домой» или экране блокировки. Записи дневника и настроения никогда не отображаются в виджете. Локальные напоминания не содержат личных текстов. Уведомления необязательны; их можно отключить в приложении или настройках iOS."
+      },
+      {
+        "id": "photos",
+        "title": "Фото и отправка",
+        "body": "Для собственного фона используется системный выбор фото iOS. Приложение импортирует только выбранное изображение и создаёт локальную копию с уменьшенным разрешением без метаданных исходного фото. Для сохранения оформления запрашивается разрешение добавлять фото, а не общий доступ к медиатеке. Удаление импортированного фона не затрагивает оригинал в «Фото». Отправка и экспорт файлов происходят только по вашему запросу; затем отправленной копией управляет выбранный сервис или место назначения."
+      },
+      {
+        "id": "apple",
+        "title": "Apple и покупки",
+        "body": "Когда покупки в приложении доступны, Apple обрабатывает платёж и передаёт приложению проверяемую транзакцию. AffirMate не обрабатывает данные банковских карт или счетов. Пробный доступ и разблокировки проверяются на устройстве по транзакциям Apple. Запуск бесплатного пробного периода не приводит к последующей покупке. Apple может обрабатывать данные App Store, диагностики и устройства в соответствии со своими настройками и правилами конфиденциальности. Резервная копия устройства в iOS или iCloud может содержать локальные данные приложения; AffirMate не предоставляет собственной облачной синхронизации."
+      },
+      {
+        "id": "delete",
+        "title": "Хранение и удаление",
+        "body": "Локальное содержимое хранится до его удаления вами. Записи дневника и личные аффирмации можно удалять по отдельности. В профиле можно экспортировать тексты или сбросить все личные данные приложения. Сброс также удаляет историю настроения, напоминания и оформление, но не покупки в учётной записи Apple и не ранее экспортированные или отправленные копии. При необходимости удалите такие копии и старые резервные копии устройства отдельно. Мы не можем просматривать или удалять ваше локальное содержимое за вас."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Ваша практика, ваш выбор",
+        "body": "Аффирмации, отметки настроения и музыка помогают личному осмыслению. Они не диагностируют и не лечат никакие состояния и не заменяют медицинскую или психологическую помощь. Здесь одинаково допустимы любые чувства. Для чтения не нужны имя, доступ к фото или уведомления."
+      },
+      {
+        "id": "contact",
+        "title": "Вопросы и изменения",
+        "body": "По вопросам конфиденциальности или доступности: support@swisswise.com. Не отправляйте конфиденциальное содержимое дневника. При обращении в поддержку мы получаем добровольно включённые вами сведения и используем их для ответа на запрос. Эта политика относится к AffirMate отдельно от других продуктов Swisswise. Изменения включаются в обновление приложения с новой датой. Действует с: 2026-10-11."
+      }
+    ],
+    "sk": [
+      {
+        "id": "owner",
+        "title": "Vydavateľ",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Tvoje údaje zostávajú miestne",
+        "body": "AffirMate nemá účet, server prevádzkovaný aplikáciou, reklamu ani sledovanie. Aplikácia ukladá voliteľné meno, nastavenia, obľúbené položky, osobné afirmácie, zápisy denníka, koncepty, záznamy nálady a vybrané obrázky miestne na tvojom iPhone. Tento obsah nedostávame. Aplikácia neposiela texty ani obrázky do služby umelej inteligencie. Afirmácie, ilustrácie a inštrumentálna hudba sú súčasťou aplikácie."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgety a hlásenia",
+        "body": "Aplikácia a widget zdieľajú chránené miestne úložisko skupiny aplikácií. Widgety predvolene zobrazujú pribalené denné myšlienky. Ak ako zdroj zvolíš obľúbené či vlastné slová, text môže byť viditeľný na ploche alebo zamknutej obrazovke. Zápisy denníka a nálady sa vo widgete nikdy nezobrazujú. Miestne pripomienky neobsahujú súkromné texty. Hlásenia sú voliteľné a možno ich vypnúť v aplikácii alebo v Nastaveniach iOS."
+      },
+      {
+        "id": "photos",
+        "title": "Fotky a zdieľanie",
+        "body": "Vlastné pozadia používajú výber fotiek v iOS. Aplikácia importuje iba vybraný obrázok a vytvorí miestnu kópiu s menším rozlíšením bez metadát pôvodnej fotky. Pri ukladaní grafiky žiada o povolenie pridávať fotky, nie o všeobecný prístup ku knižnici. Odstránenie importovaného pozadia ponechá originál vo Fotkách bez zmeny. Zdieľanie a export súborov sa uskutočňujú iba na tvoju požiadavku; zvolená služba či cieľ potom spravuje zdieľanú kópiu."
+      },
+      {
+        "id": "apple",
+        "title": "Apple a nákupy",
+        "body": "Keď sú dostupné nákupy v aplikácii, platbu spracúva Apple a aplikácii poskytuje overiteľnú transakciu. AffirMate nespracúva údaje platobných kariet ani bankové údaje. Skúšobný prístup a odomknutia sa overujú na zariadení podľa transakcií Apple. Spustenie bezplatného skúšobného obdobia nevyvolá neskorší nákup. Apple môže spracúvať údaje App Storu, diagnostiky a zariadenia podľa vlastných nastavení a pravidiel ochrany súkromia. Záloha zariadenia v iOS či iCloude môže obsahovať miestne údaje aplikácie; AffirMate neposkytuje vlastnú cloudovú synchronizáciu."
+      },
+      {
+        "id": "delete",
+        "title": "Uchovávanie a vymazanie",
+        "body": "Miestny obsah zostáva, kým ho nevymažeš. Zápisy v denníku a osobné afirmácie možno odstrániť jednotlivo. Profil umožňuje exportovať texty alebo resetovať všetky osobné údaje aplikácie. Reset odstráni aj históriu nálady, pripomienky a prispôsobenie, nie však nákupy v účte Apple ani už exportované či zdieľané kópie. Ak treba, odstráň tieto kópie a staršie zálohy zariadenia samostatne. Tvoj miestny obsah za teba nemôžeme zobraziť ani vymazať."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Tvoje cvičenie, tvoja voľba",
+        "body": "Afirmácie, záznamy nálady a hudba podporujú osobné zamyslenie. Nediagnostikujú ani neliečia žiadny stav a nenahrádzajú lekársku či psychologickú starostlivosť. Všetky pocity sú rovnako vítané. Čítanie nevyžaduje meno, povolenie na fotky ani hlásenia."
+      },
+      {
+        "id": "contact",
+        "title": "Otázky a zmeny",
+        "body": "Otázky o súkromí či prístupnosti: support@swisswise.com. Neposielaj dôverný obsah denníka. Keď kontaktuješ podporu, dostaneme informácie, ktoré dobrovoľne uvedieš, a použijeme ich na zodpovedanie tvojej požiadavky. Tieto pravidlá sa na AffirMate vzťahujú samostatne od ostatných produktov Swisswise. Zmeny sú súčasťou aktualizácie aplikácie s novým dátumom. Účinné od: 2026-10-11."
+      }
+    ],
+    "sl-SI": [
+      {
+        "id": "owner",
+        "title": "Izdajatelj",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Tvoji podatki ostajajo lokalni",
+        "body": "AffirMate nima računa, strežnika, ki ga upravlja aplikacija, oglasov ali sledenja. Aplikacija izbirno ime, nastavitve, priljubljene vnose, osebne afirmacije, zapise dnevnika, osnutke, zapise počutja in izbrane slike hrani lokalno v tvojem iPhonu. Te vsebine ne prejemamo. Aplikacija ne nalaga besedil ali slik v storitev umetne inteligence. Afirmacije, ilustracije in instrumentalna glasba so priložene aplikaciji."
+      },
+      {
+        "id": "widgets",
+        "title": "Gradniki in obvestila",
+        "body": "Aplikacija in gradnik si delita zaščiten lokalni vsebnik skupine aplikacij. Gradniki privzeto prikazujejo priložene dnevne misli. Če za vir izbereš priljubljene ali osebne besede, je lahko besedilo vidno na domačem ali zaklenjenem zaslonu. Zapisi dnevnika in počutja se v gradniku nikoli ne prikažejo. Lokalni opomniki ne vsebujejo zasebnih besedil. Obvestila so izbirna in jih lahko izklopiš v aplikaciji ali nastavitvah iOS."
+      },
+      {
+        "id": "photos",
+        "title": "Fotografije in deljenje",
+        "body": "Ozadja po meri uporabljajo izbirnik fotografij iOS. Aplikacija uvozi samo izbrano sliko in ustvari lokalno kopijo z manjšo ločljivostjo brez metapodatkov izvirne fotografije. Shranjevanje izdelka zahteva dovoljenje za dodajanje fotografij, ne splošnega dostopa do knjižnice. Odstranitev uvoženega ozadja ne spremeni izvirnika v Fotografijah. Deljenje in izvoz datotek se izvedeta le na tvojo zahtevo; izbrana storitev ali cilj nato upravlja deljeno kopijo."
+      },
+      {
+        "id": "apple",
+        "title": "Apple in nakupi",
+        "body": "Ko so nakupi v aplikaciji na voljo, Apple obdela plačilo in aplikaciji posreduje preverljivo transakcijo. AffirMate ne obdeluje podatkov o kreditnih karticah ali bančnih podatkov. Preizkusni dostop in odklepi se v napravi preverjajo glede na transakcije Apple. Začetek brezplačnega preizkusa ne sproži poznejšega nakupa. Apple lahko obdeluje podatke App Stora, diagnostike in naprave po svojih nastavitvah in pravilih zasebnosti. Varnostna kopija naprave v iOS ali iCloudu lahko vsebuje lokalne podatke aplikacije; AffirMate ne ponuja lastne sinhronizacije v oblaku."
+      },
+      {
+        "id": "delete",
+        "title": "Hramba in izbris",
+        "body": "Lokalna vsebina ostane, dokler je ne izbrišeš. Zapise v dnevniku in osebne afirmacije je mogoče odstraniti posamezno. Profil omogoča izvoz tvojih besedil ali ponastavitev vseh osebnih podatkov aplikacije. Ponastavitev odstrani tudi zgodovino počutja, opomnike in prilagoditve, ne pa nakupov v računu Apple ali že izvoženih oziroma deljenih kopij. Po potrebi te kopije in starejše varnostne kopije naprave odstrani posebej. Tvoje lokalne vsebine ne moremo videti ali izbrisati namesto tebe."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Tvoja praksa, tvoja izbira",
+        "body": "Afirmacije, zapisi počutja in glasba podpirajo osebni razmislek. Ne diagnosticirajo ali zdravijo nobenega stanja ter ne nadomeščajo zdravniške ali psihološke oskrbe. Vsa čustva so enako dobrodošla. Branje ne zahteva imena, dovoljenja za fotografije ali obvestil."
+      },
+      {
+        "id": "contact",
+        "title": "Vprašanja in spremembe",
+        "body": "Za vprašanja o zasebnosti ali dostopnosti: support@swisswise.com. Ne pošiljaj zaupne vsebine dnevnika. Ko se obrneš na podporo, prejmemo informacije, ki jih prostovoljno vključiš, in jih uporabimo za odgovor na tvojo zahtevo. Ta pravilnik velja za AffirMate ločeno od drugih izdelkov Swisswise. Spremembe so vključene v posodobitev aplikacije z novim datumom. Velja od: 2026-10-11."
+      }
+    ],
+    "es-MX": [
+      {
+        "id": "owner",
+        "title": "Editor",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Tus datos se quedan en tu dispositivo",
+        "body": "AffirMate no tiene cuentas, servidor operado por la app, publicidad ni rastreo. La app guarda localmente en tu iPhone tu nombre opcional, ajustes, favoritas, afirmaciones personales, entradas del diario, borradores, registros de estado de ánimo y las imágenes que elijas. No recibimos este contenido. La app no sube textos ni imágenes a ningún servicio de IA. Las afirmaciones, ilustraciones y música instrumental vienen incluidas en la app."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgets y notificaciones",
+        "body": "La app y el widget comparten un contenedor local protegido de App Group. De forma predeterminada, los widgets muestran pensamientos diarios incluidos en la app. Si eliges las favoritas o tus palabras personales como fuente, ese texto podría verse en tu pantalla de inicio o de bloqueo. Las entradas del diario y del estado de ánimo nunca aparecen en un widget. Los recordatorios locales no contienen escritos privados. Las notificaciones son opcionales y se pueden desactivar en la app o en los Ajustes de iOS."
+      },
+      {
+        "id": "photos",
+        "title": "Fotos y uso compartido",
+        "body": "Los fondos personalizados usan el selector de fotos de iOS. La app solo importa la imagen que seleccionas y crea una copia local de menor resolución sin los metadatos de la foto original. Al guardar una ilustración, se solicita permiso para añadir fotos, no acceso general a tu fototeca. Quitar un fondo importado no afecta el original en Fotos. Compartir y exportar archivos ocurre solo cuando lo solicitas; el servicio o destino que elijas controla entonces la copia compartida."
+      },
+      {
+        "id": "apple",
+        "title": "Apple y las compras",
+        "body": "Cuando las compras dentro de la app están disponibles, Apple procesa el pago y entrega a la app una transacción verificable. AffirMate no procesa datos de tarjetas de crédito ni bancarios. El acceso de prueba y los desbloqueos se comprueban en el dispositivo con las transacciones de Apple. Iniciar la prueba gratuita no genera una compra posterior. Apple puede procesar datos de la App Store, de diagnóstico y del dispositivo conforme a sus propios ajustes y reglas de privacidad. La copia de seguridad de tu dispositivo en iOS o iCloud puede contener datos locales de la app; AffirMate no ofrece su propia sincronización en la nube."
+      },
+      {
+        "id": "delete",
+        "title": "Conservación y eliminación",
+        "body": "El contenido local permanece hasta que lo elimines. Las entradas del diario y las afirmaciones personales se pueden eliminar de forma individual. En Perfil puedes exportar tus escritos o restablecer todos los datos personales de la app. El restablecimiento también elimina el historial de estado de ánimo, los recordatorios y la personalización, pero no las compras en tu cuenta de Apple ni las copias que ya hayas exportado o compartido. Elimina esas copias y las copias de seguridad anteriores del dispositivo por separado si lo necesitas. No podemos ver ni eliminar tu contenido local por ti."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Tu práctica, tu decisión",
+        "body": "Las afirmaciones, los registros de estado de ánimo y la música apoyan la reflexión personal. No diagnostican ni tratan ninguna condición, ni sustituyen la atención médica o psicológica. Todas las emociones son bienvenidas por igual. Leer no requiere nombre, permiso de fotos ni notificaciones."
+      },
+      {
+        "id": "contact",
+        "title": "Preguntas y cambios",
+        "body": "Para preguntas sobre privacidad o accesibilidad: support@swisswise.com. No envíes contenido confidencial de tu diario. Cuando te comunicas con soporte, recibimos la información que incluyes voluntariamente y la usamos para responder a tu solicitud. Esta política se aplica a AffirMate de forma independiente de otros productos de Swisswise. Los cambios se incluyen con una actualización de la app y una fecha actualizada. Vigente desde: 2026-10-11."
+      }
+    ],
+    "es-ES": [
+      {
+        "id": "owner",
+        "title": "Editor",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Tus datos se quedan en tu dispositivo",
+        "body": "AffirMate no tiene cuenta, servidor gestionado por la app, publicidad ni seguimiento. La app guarda localmente en tu iPhone tu nombre opcional, los ajustes, los favoritos, las afirmaciones personales, las entradas del diario, los borradores, los registros de ánimo y las imágenes seleccionadas. Nosotros no recibimos este contenido. La app no envía textos ni imágenes a ningún servicio de IA. Las afirmaciones, las ilustraciones y la música instrumental vienen incluidas en la app."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgets y notificaciones",
+        "body": "La app y el widget comparten un contenedor local protegido de App Group. Por defecto, los widgets muestran pensamientos diarios incluidos en la app. Si eliges los favoritos o tus propias palabras como origen, ese texto puede verse en tu pantalla de inicio o de bloqueo. Las entradas del diario y del estado de ánimo nunca aparecen en un widget. Los recordatorios locales no contienen textos privados. Las notificaciones son opcionales y se pueden desactivar en la app o en los Ajustes de iOS."
+      },
+      {
+        "id": "photos",
+        "title": "Fotos y compartir",
+        "body": "Los fondos personalizados usan el selector de fotos de iOS. La app importa únicamente la imagen que seleccionas y crea una copia local de menor resolución, sin los metadatos de la foto original. Al guardar una ilustración, se solicita permiso para añadir fotos, no acceso general a tu fototeca. Si eliminas un fondo importado, el original en Fotos no se toca. Compartir y exportar archivos solo ocurre cuando tú lo pides; el servicio o destino que elijas controla entonces la copia compartida."
+      },
+      {
+        "id": "apple",
+        "title": "Apple y compras",
+        "body": "Cuando las compras dentro de la app estén disponibles, Apple gestiona el pago y envía a la app una transacción verificable. AffirMate no procesa datos de tarjetas de crédito ni bancarios. El acceso de prueba y los desbloqueos se comprueban en el dispositivo a partir de las transacciones de Apple. Iniciar la prueba gratuita no activa una compra posterior. Apple puede tratar datos de la App Store, de diagnóstico y del dispositivo conforme a sus propios ajustes y normas de privacidad. La copia de seguridad de tu dispositivo en iOS o iCloud puede incluir datos locales de la app; AffirMate no ofrece su propia sincronización en la nube."
+      },
+      {
+        "id": "delete",
+        "title": "Conservación y eliminación",
+        "body": "El contenido local permanece hasta que lo eliminas. Las entradas del diario y las afirmaciones personales se pueden borrar de forma individual. En Perfil puedes exportar tus textos o restablecer todos los datos personales de la app. El restablecimiento también elimina el historial de ánimo, los recordatorios y la personalización, pero no las compras de tu cuenta de Apple ni las copias que ya hayas exportado o compartido. Si lo necesitas, elimina esas copias y las copias de seguridad antiguas del dispositivo por separado. No podemos ver ni eliminar tu contenido local por ti."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Tu práctica, tu elección",
+        "body": "Las afirmaciones, los registros de ánimo y la música acompañan la reflexión personal. No diagnostican ni tratan ninguna afección, ni sustituyen la atención médica o psicológica. Todas las emociones son bienvenidas por igual. Para leer no se necesita nombre, permiso de fotos ni notificaciones."
+      },
+      {
+        "id": "contact",
+        "title": "Preguntas y cambios",
+        "body": "Para consultas sobre privacidad o accesibilidad: support@swisswise.com. No envíes contenido confidencial de tu diario. Cuando contactas con el soporte, recibimos la información que incluyas voluntariamente y la usamos para responder a tu solicitud. Esta política se aplica a AffirMate de forma independiente de otros productos de Swisswise. Los cambios se incluyen con una actualización de la app y una fecha de actualización. En vigor desde: 2026-10-11."
+      }
+    ],
+    "sv": [
+      {
+        "id": "owner",
+        "title": "Utgivare",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Dina data stannar lokalt",
+        "body": "AffirMate har inget konto, ingen appdriven server, ingen reklam och ingen spårning. Appen lagrar ditt valfria namn, inställningar, favoriter, personliga affirmationer, dagboksanteckningar, utkast, humörregistreringar och valda bilder lokalt på din iPhone. Vi får inte tillgång till innehållet. Appen laddar inte upp texter eller bilder till någon AI-tjänst. Affirmationer, illustrationer och instrumentalmusik ingår i appen."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgetar och notiser",
+        "body": "Appen och widgeten delar en skyddad lokal App Group-behållare. Widgetar visar som standard medföljande dagliga tankar. Om du väljer favoriter eller egna ord som källa kan texten synas på hem- eller låsskärmen. Dagboksanteckningar och humörregistreringar visas aldrig i en widget. Lokala påminnelser innehåller inga privata texter. Notiser är valfria och kan stängas av i appen eller i iOS-inställningarna."
+      },
+      {
+        "id": "photos",
+        "title": "Bilder och delning",
+        "body": "Egna bakgrunder använder iOS bildväljare. Appen importerar bara bilden du väljer och skapar en lokal kopia med lägre upplösning utan originalbildens metadata. När du sparar bilder begärs behörighet att lägga till bilder, inte allmän åtkomst till ditt bibliotek. Om du tar bort en importerad bakgrund lämnas originalet i Bilder orört. Delning och filexport sker bara när du begär det. Den tjänst eller destination du väljer styr sedan den delade kopian."
+      },
+      {
+        "id": "apple",
+        "title": "Apple och köp",
+        "body": "När köp i appen är tillgängliga hanterar Apple betalningen och ger appen en verifierbar transaktion. AffirMate hanterar inte kort- eller bankuppgifter. Tillgång till provperiod och upplåsningar kontrolleras på enheten mot Apples transaktioner. Att starta den kostnadsfria provperioden leder inte till ett senare köp. Apple kan behandla App Store-, diagnostik- och enhetsdata enligt sina egna inställningar och integritetsregler. Din iOS- eller iCloud-säkerhetskopia kan innehålla lokala appdata. AffirMate erbjuder ingen egen molnsynkronisering."
+      },
+      {
+        "id": "delete",
+        "title": "Lagring och radering",
+        "body": "Lokalt innehåll finns kvar tills du raderar det. Dagboksanteckningar och personliga affirmationer kan tas bort var för sig. I Profil kan du exportera dina texter eller nollställa alla personliga appdata. Nollställning tar också bort humörhistorik, påminnelser och anpassningar, men inte köp på ditt Apple-konto eller kopior som redan exporterats eller delats. Ta vid behov bort dessa kopior och äldre säkerhetskopior separat. Vi kan inte se eller radera ditt lokala innehåll åt dig."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Din stund, ditt val",
+        "body": "Affirmationer, humörregistreringar och musik stöder personlig reflektion. De diagnostiserar eller behandlar inga tillstånd och ersätter inte medicinsk eller psykologisk vård. Alla känslor är lika välkomna. Läsning kräver varken namn, bildbehörighet eller notiser."
+      },
+      {
+        "id": "contact",
+        "title": "Frågor och ändringar",
+        "body": "Frågor om integritet eller tillgänglighet: support@swisswise.com. Skicka inte konfidentiellt dagboksinnehåll. När du kontaktar supporten får vi den information du frivilligt lämnar och använder den för att besvara din förfrågan. Den här policyn gäller AffirMate separat från andra Swisswise-produkter. Ändringar följer med en appuppdatering och ett uppdaterat datum. Gäller från: 2026-10-11."
+      }
+    ],
+    "ta-IN": [
+      {
+        "id": "owner",
+        "title": "வெளியீட்டாளர்",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "உங்கள் தரவு உள்ளூரிலேயே",
+        "body": "AffirMate-இல் கணக்கு, செயலி இயக்கும் சேவையகம், விளம்பரம் அல்லது கண்காணிப்பு இல்லை. விருப்பமாகத் தரும் பெயர், அமைப்புகள், பிடித்தவை, தனிப்பட்ட உறுதிமொழிகள், நாட்குறிப்புகள், வரைவுகள், மனநிலைப் பதிவுகள், தேர்ந்தெடுத்த படங்கள் ஆகியவை உங்கள் iPhone-இல் உள்ளூராகச் சேமிக்கப்படும். இவ்வுள்ளடக்கம் எங்களுக்குக் கிடைக்காது. எழுத்தையோ படங்களையோ AI சேவைக்குச் செயலி பதிவேற்றாது. உறுதிமொழிகள், விளக்கப்படங்கள், இசைக்கருவி இசை ஆகியவை செயலியுடன் சேர்க்கப்பட்டுள்ளன."
+      },
+      {
+        "id": "widgets",
+        "title": "விட்ஜெட்டுகளும் அறிவிப்புகளும்",
+        "body": "செயலியும் விட்ஜெட்டும் பாதுகாக்கப்பட்ட உள்ளூர் App Group சேமிப்பிடத்தைப் பகிர்கின்றன. இயல்பாக உள்ளமைந்த தினச் சிந்தனைகளை விட்ஜெட்டுகள் காட்டும். பிடித்தவை அல்லது சொந்தச் சொற்களை மூலமாகத் தேர்ந்தால் அந்த உரை முகப்புத் திரையிலோ பூட்டுத் திரையிலோ தெரியலாம். நாட்குறிப்புகளும் மனநிலைப் பதிவுகளும் விட்ஜெட்டில் ஒருபோதும் தோன்றாது. உள்ளூர் நினைவூட்டல்களில் தனிப்பட்ட எழுத்துகள் இருக்காது. அறிவிப்புகள் விருப்பமானவை; செயலியிலோ iOS அமைப்புகளிலோ அணைக்கலாம்."
+      },
+      {
+        "id": "photos",
+        "title": "படங்களும் பகிர்தலும்",
+        "body": "தனிப்பயன் பின்னணிகள் iOS படத் தேர்வியைப் பயன்படுத்துகின்றன. நீங்கள் தேர்ந்த படத்தை மட்டும் இறக்குமதி செய்து, அசல் படத்தின் மெட்டாடேட்டா இல்லாத குறைந்த தெளிவுத்திறன் உள்ளூர் நகலைச் செயலி உருவாக்கும். படைப்பைச் சேமிக்கும்போது படங்களைச் சேர்க்கும் அனுமதி மட்டுமே கேட்கப்படும்; முழு நூலகத்திற்கான அணுகல் அல்ல. இறக்குமதி செய்த பின்னணியை நீக்குவது Photos-இல் உள்ள அசலை மாற்றாது. நீங்கள் கோரும்போது மட்டுமே பகிர்தலும் கோப்பு ஏற்றுமதியும் நடக்கும்; பின்னர் நீங்கள் தேர்ந்த சேவை அல்லது இலக்கு பகிர்ந்த நகலைக் கட்டுப்படுத்தும்."
+      },
+      {
+        "id": "apple",
+        "title": "Apple மற்றும் வாங்குதல்கள்",
+        "body": "செயலிக்குள் வாங்குதல் கிடைக்கும்போது, Apple பணம் செலுத்தலைக் கையாண்டு சரிபார்க்கக்கூடிய பரிவர்த்தனையைச் செயலிக்கு வழங்குகிறது. கடன் அட்டை அல்லது வங்கி விவரங்களை AffirMate கையாளாது. சோதனை அணுகலும் திறப்புகளும் Apple பரிவர்த்தனைகளுடன் ஒப்பிட்டு சாதனத்திலேயே சரிபார்க்கப்படும். இலவசச் சோதனையைத் தொடங்குவது பின்னர் வாங்குதலைத் தூண்டாது. Apple தனது அமைப்புகள் மற்றும் தனியுரிமை விதிகளின்படி App Store, கண்டறிதல் மற்றும் சாதனத் தரவுகளைக் கையாளலாம். உங்கள் iOS அல்லது iCloud சாதனக் காப்புப்பிரதியில் உள்ளூர் செயலித் தரவு இருக்கலாம்; AffirMate தனக்கென மேக ஒத்திசைவை வழங்காது."
+      },
+      {
+        "id": "delete",
+        "title": "சேமிப்பும் நீக்குதலும்",
+        "body": "நீங்கள் நீக்கும் வரை உள்ளூர் உள்ளடக்கம் இருக்கும். நாட்குறிப்புகளையும் தனிப்பட்ட உறுதிமொழிகளையும் தனித்தனியாக நீக்கலாம். சுயவிவரத்தில் எழுத்தை ஏற்றுமதி செய்யலாம் அல்லது செயலியின் எல்லாத் தனிப்பட்ட தரவுகளையும் மீட்டமைக்கலாம். மீட்டமைத்தல் மனநிலை வரலாறு, நினைவூட்டல்கள், தனிப்பயனாக்கம் ஆகியவற்றையும் நீக்கும்; Apple கணக்கின் வாங்குதல்களையோ ஏற்கெனவே ஏற்றுமதி செய்த அல்லது பகிர்ந்த நகல்களையோ நீக்காது. தேவைப்பட்டால் அந்த நகல்களையும் பழைய சாதனக் காப்புப்பிரதிகளையும் தனியாக நீக்கவும். உங்கள் உள்ளூர் உள்ளடக்கத்தை எங்களால் பார்க்கவோ உங்களுக்காக நீக்கவோ முடியாது."
+      },
+      {
+        "id": "wellbeing",
+        "title": "உங்கள் பயிற்சி, உங்கள் தேர்வு",
+        "body": "உறுதிமொழிகள், மனநிலைப் பதிவுகள், இசை ஆகியவை தனிப்பட்ட சிந்தனைக்கு உதவுகின்றன. எந்த நிலையையும் கண்டறியவோ சிகிச்சையளிக்கவோ அவை பயன்படாது; மருத்துவ அல்லது உளவியல் பராமரிப்புக்கும் மாற்றல்ல. எல்லா உணர்வுகளும் சமமாக வரவேற்கப்படுகின்றன. வாசிப்புக்குப் பெயர், பட அனுமதி அல்லது அறிவிப்புகள் தேவையில்லை."
+      },
+      {
+        "id": "contact",
+        "title": "கேள்விகளும் மாற்றங்களும்",
+        "body": "தனியுரிமை அல்லது அணுகல்தன்மைக் கேள்விகளுக்கு: support@swisswise.com. ரகசிய நாட்குறிப்பு உள்ளடக்கத்தை அனுப்ப வேண்டாம். ஆதரவுக்குத் தொடர்புகொள்ளும்போது, நீங்கள் விருப்பத்துடன் சேர்க்கும் தகவல்களைப் பெற்று உங்கள் கோரிக்கைக்குப் பதிலளிக்கப் பயன்படுத்துவோம். பிற Swisswise தயாரிப்புகளிலிருந்து தனியாக இக்கொள்கை AffirMate-க்குப் பொருந்தும். மாற்றங்கள் செயலிப் புதுப்பிப்புடன் புதுப்பித்த தேதியோடு சேர்க்கப்படும். நடைமுறைக்கு வரும் தேதி: 2026-10-11."
+      }
+    ],
+    "te-IN": [
+      {
+        "id": "owner",
+        "title": "ప్రచురణకర్త",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "మీ డేటా స్థానికంగానే ఉంటుంది",
+        "body": "AffirMateలో ఖాతా, యాప్ నిర్వహించే సర్వర్, ప్రకటనలు లేదా ట్రాకింగ్ లేవు. మీరు ఐచ్ఛికంగా ఇచ్చే పేరు, సెట్టింగ్‌లు, ఇష్టమైనవి, వ్యక్తిగత ఆత్మప్రోత్సాహక వాక్యాలు, డైరీ నమోదులు, ముసాయిదాలు, మానసిక స్థితి నమోదులు, ఎంచుకున్న చిత్రాలను యాప్ మీ iPhoneలోనే భద్రపరుస్తుంది. ఈ విషయాలు మాకు అందవు. రచనలు లేదా చిత్రాలను యాప్ ఏ AI సేవకూ అప్‌లోడ్ చేయదు. ఆత్మప్రోత్సాహక వాక్యాలు, చిత్రాలు, వాయిద్య సంగీతం యాప్‌తోనే వస్తాయి."
+      },
+      {
+        "id": "widgets",
+        "title": "విడ్జెట్లు, నోటిఫికేషన్‌లు",
+        "body": "యాప్, విడ్జెట్ రక్షిత స్థానిక App Group కంటైనర్‌ను పంచుకుంటాయి. సాధారణంగా విడ్జెట్లు యాప్‌తో వచ్చిన రోజువారీ ఆలోచనలను చూపుతాయి. వాటి మూలంగా ఇష్టమైనవి లేదా వ్యక్తిగత మాటలను ఎంచుకుంటే, ఆ వచనం మీ హోమ్ లేదా లాక్ స్క్రీన్‌లో కనిపించవచ్చు. డైరీ, మానసిక స్థితి నమోదులు ఎప్పుడూ విడ్జెట్‌లో కనిపించవు. స్థానిక రిమైండర్లలో వ్యక్తిగత రచనలు ఉండవు. నోటిఫికేషన్‌లు ఐచ్ఛికం; యాప్‌లో లేదా iOS సెట్టింగ్‌లలో ఆపవచ్చు."
+      },
+      {
+        "id": "photos",
+        "title": "ఫొటోలు, పంచుకోవడం",
+        "body": "వ్యక్తిగత నేపథ్యాలకు iOS ఫొటో ఎంపిక సాధనం ఉపయోగించబడుతుంది. మీరు ఎంచుకున్న చిత్రాన్ని మాత్రమే యాప్ దిగుమతి చేసి, అసలు ఫొటో మెటాడేటా లేకుండా తక్కువ రిజల్యూషన్ స్థానిక కాపీని తయారుచేస్తుంది. కళాకృతిని భద్రపరిచేటప్పుడు ఫొటోలు జోడించే అనుమతినే అడుగుతుంది, మీ లైబ్రరీ మొత్తానికి ప్రవేశాన్ని కాదు. దిగుమతి చేసిన నేపథ్యాన్ని తొలగించినా Photosలో అసలు ఫొటో మారదు. మీరు కోరినప్పుడే పంచుకోవడం, ఫైల్ ఎగుమతి జరుగుతాయి; తర్వాత పంచిన కాపీని మీరు ఎంచుకున్న సేవ లేదా గమ్యం నియంత్రిస్తుంది."
+      },
+      {
+        "id": "apple",
+        "title": "Apple, కొనుగోళ్లు",
+        "body": "యాప్‌లో కొనుగోళ్లు అందుబాటులో ఉన్నప్పుడు Apple చెల్లింపును నిర్వహించి, ధ్రువీకరించగల లావాదేవీని యాప్‌కు అందిస్తుంది. AffirMate క్రెడిట్ కార్డు లేదా బ్యాంకు వివరాలను ప్రాసెస్ చేయదు. ట్రయల్ ప్రవేశం, అన్‌లాక్‌లను పరికరంలోనే Apple లావాదేవీలతో సరిపోల్చి తనిఖీ చేస్తారు. ఉచిత ట్రయల్ మొదలుపెట్టడం వల్ల తర్వాత కొనుగోలు జరగదు. Apple తన సెట్టింగ్‌లు, గోప్యతా నియమాల ప్రకారం App Store, నిర్ధారణ, పరికర డేటాను ప్రాసెస్ చేయవచ్చు. మీ iOS లేదా iCloud పరికర బ్యాకప్‌లో స్థానిక యాప్ డేటా ఉండవచ్చు; AffirMate తన సొంత క్లౌడ్ సమకాలీకరణను అందించదు."
+      },
+      {
+        "id": "delete",
+        "title": "నిల్వ, తొలగింపు",
+        "body": "మీరు తొలగించే వరకు స్థానిక విషయాలు ఉంటాయి. డైరీ నమోదులు, వ్యక్తిగత ఆత్మప్రోత్సాహక వాక్యాలను విడివిడిగా తొలగించవచ్చు. ప్రొఫైల్‌లో మీ రచనను ఎగుమతి చేయవచ్చు లేదా వ్యక్తిగత యాప్ డేటా మొత్తాన్ని రీసెట్ చేయవచ్చు. రీసెట్ చేస్తే మానసిక స్థితి చరిత్ర, రిమైండర్లు, వ్యక్తిగత అమరికలూ తొలగుతాయి; కానీ మీ Apple ఖాతాలోని కొనుగోళ్లు, ఇప్పటికే ఎగుమతి చేసిన లేదా పంచుకున్న కాపీలు తొలగవు. అవసరమైతే ఆ కాపీలను, పాత పరికర బ్యాకప్‌లను విడిగా తొలగించండి. మీ స్థానిక విషయాలను మేము చూడలేము, మీ తరఫున తొలగించలేము."
+      },
+      {
+        "id": "wellbeing",
+        "title": "మీ సాధన, మీ ఎంపిక",
+        "body": "ఆత్మప్రోత్సాహక వాక్యాలు, మానసిక స్థితి నమోదులు, సంగీతం వ్యక్తిగత ఆత్మపరిశీలనకు తోడ్పడతాయి. అవి ఏ సమస్యనూ నిర్ధారించవు లేదా చికిత్స చేయవు; వైద్య లేదా మానసిక సంరక్షణకు ప్రత్యామ్నాయం కావు. అన్ని భావాలకూ సమాన స్వాగతం. చదవడానికి పేరు, ఫొటో అనుమతి లేదా నోటిఫికేషన్‌లు అవసరం లేదు."
+      },
+      {
+        "id": "contact",
+        "title": "ప్రశ్నలు, మార్పులు",
+        "body": "గోప్యత లేదా సౌలభ్యత ప్రశ్నలకు: support@swisswise.com. రహస్య డైరీ విషయాలను పంపవద్దు. సహాయ బృందాన్ని సంప్రదించినప్పుడు మీరు స్వచ్ఛందంగా ఇచ్చే సమాచారాన్ని మేము స్వీకరించి, మీ అభ్యర్థనకు జవాబివ్వడానికి ఉపయోగిస్తాము. ఇతర Swisswise ఉత్పత్తులతో సంబంధం లేకుండా ఈ విధానం AffirMateకు ప్రత్యేకంగా వర్తిస్తుంది. మార్పులు యాప్ నవీకరణతో, సవరించిన తేదీతో చేర్చబడతాయి. అమలులోకి వచ్చే తేదీ: 2026-10-11."
+      }
+    ],
+    "th": [
+      {
+        "id": "owner",
+        "title": "ผู้เผยแพร่",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "ข้อมูลของคุณอยู่ในเครื่อง",
+        "body": "AffirMate ไม่มีบัญชี เซิร์ฟเวอร์ของแอป โฆษณา หรือการติดตาม แอปเก็บชื่อที่คุณเลือกกรอก การตั้งค่า รายการโปรด ข้อความยืนยันใจส่วนตัว บันทึกประจำวัน ฉบับร่าง บันทึกอารมณ์ และภาพที่เลือกไว้ใน iPhone ของคุณ เราไม่ได้รับเนื้อหานี้ แอปไม่อัปโหลดงานเขียนหรือรูปภาพไปยังบริการ AI ข้อความยืนยันใจ ภาพประกอบ และดนตรีบรรเลงรวมอยู่ในแอปแล้ว"
+      },
+      {
+        "id": "widgets",
+        "title": "วิดเจ็ตและการแจ้งเตือน",
+        "body": "แอปและวิดเจ็ตใช้พื้นที่ App Group ในเครื่องที่ได้รับการป้องกันร่วมกัน วิดเจ็ตแสดงข้อคิดประจำวันที่รวมมาเป็นค่าเริ่มต้น หากเลือกใช้รายการโปรดหรือถ้อยคำส่วนตัว ข้อความนั้นอาจปรากฏบนหน้าจอโฮมหรือหน้าจอล็อค บันทึกประจำวันและอารมณ์ไม่ปรากฏในวิดเจ็ตเลย การเตือนในเครื่องไม่มีงานเขียนส่วนตัว การแจ้งเตือนเป็นทางเลือกและปิดได้ในแอปหรือการตั้งค่า iOS"
+      },
+      {
+        "id": "photos",
+        "title": "รูปภาพและการแชร์",
+        "body": "พื้นหลังส่วนตัวใช้ตัวเลือกรูปภาพของ iOS แอปนำเข้าเฉพาะภาพที่คุณเลือกและสร้างสำเนาย่อขนาดในเครื่องโดยไม่มีข้อมูลเมตาของรูปต้นฉบับ การบันทึกผลงานขอสิทธิ์เพิ่มรูป ไม่ใช่เข้าถึงคลังทั้งหมด การลบพื้นหลังที่นำเข้าไม่กระทบต้นฉบับในรูปภาพ การแชร์และส่งออกไฟล์เกิดขึ้นเมื่อคุณร้องขอเท่านั้น จากนั้นบริการหรือปลายทางที่คุณเลือกจะควบคุมสำเนาที่แชร์"
+      },
+      {
+        "id": "apple",
+        "title": "Apple และการซื้อ",
+        "body": "เมื่อมีการซื้อภายในแอป Apple จะประมวลผลการชำระเงินและส่งธุรกรรมที่ตรวจสอบได้ให้แอป AffirMate ไม่ประมวลผลข้อมูลบัตรเครดิตหรือธนาคาร สิทธิ์ทดลองใช้และการปลดล็อกตรวจสอบกับธุรกรรม Apple บนอุปกรณ์ การเริ่มทดลองใช้ฟรีไม่ทำให้เกิดการซื้อภายหลัง Apple อาจประมวลผลข้อมูล App Store การวินิจฉัย และอุปกรณ์ตามการตั้งค่าและกฎความเป็นส่วนตัวของตน สำรองข้อมูลอุปกรณ์ใน iOS หรือ iCloud อาจมีข้อมูลแอปในเครื่อง AffirMate ไม่มีบริการซิงค์คลาวด์ของตัวเอง"
+      },
+      {
+        "id": "delete",
+        "title": "การเก็บรักษาและการลบ",
+        "body": "เนื้อหาในเครื่องจะอยู่จนกว่าคุณลบ บันทึกประจำวันและข้อความยืนยันใจส่วนตัวลบแยกรายการได้ โปรไฟล์ให้คุณส่งออกงานเขียนหรือรีเซ็ตข้อมูลส่วนตัวทั้งหมดในแอป การรีเซ็ตลบประวัติอารมณ์ การเตือน และการปรับแต่งด้วย แต่ไม่ลบรายการซื้อในบัญชี Apple หรือสำเนาที่ส่งออกหรือแชร์แล้ว หากจำเป็นให้ลบสำเนาและสำรองข้อมูลอุปกรณ์เก่าแยกต่างหาก เราดูหรือลบเนื้อหาในเครื่องแทนคุณไม่ได้"
+      },
+      {
+        "id": "wellbeing",
+        "title": "การฝึกของคุณ ทางเลือกของคุณ",
+        "body": "ข้อความยืนยันใจ บันทึกอารมณ์ และดนตรีช่วยการทบทวนตนเอง ไม่วินิจฉัยหรือรักษาภาวะใด และไม่ทดแทนการดูแลทางการแพทย์หรือจิตวิทยา ทุกความรู้สึกได้รับการต้อนรับเท่าเทียมกัน การอ่านไม่ต้องใช้ชื่อ สิทธิ์รูปภาพ หรือการแจ้งเตือน"
+      },
+      {
+        "id": "contact",
+        "title": "คำถามและการเปลี่ยนแปลง",
+        "body": "คำถามเรื่องความเป็นส่วนตัวหรือการช่วยการเข้าถึง: support@swisswise.com อย่าส่งเนื้อหาบันทึกประจำวันลับ เมื่อคุณติดต่อฝ่ายช่วยเหลือ เราจะได้รับข้อมูลที่คุณให้โดยสมัครใจและใช้ตอบคำขอ นโยบายนี้ใช้กับ AffirMate แยกจากผลิตภัณฑ์ Swisswise อื่น การเปลี่ยนแปลงจะมาพร้อมการอัปเดตแอปและวันที่ปรับปรุง มีผลตั้งแต่: 2026-10-11"
+      }
+    ],
+    "tr": [
+      {
+        "id": "owner",
+        "title": "Yayıncı",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Verileriniz yerel kalır",
+        "body": "AffirMate hesap, uygulamanın yönettiği sunucu, reklam veya izleme içermez. İsteğe bağlı adınız, ayarlar, favoriler, kişisel olumlamalar, günlük kayıtları, taslaklar, ruh hâli kayıtları ve seçilen resimler iPhone'unuzda yerel tutulur. Bu içeriği almayız. Uygulama yazı veya resimleri bir yapay zekâ hizmetine yüklemez. Olumlamalar, çizimler ve enstrümantal müzik uygulamayla birlikte gelir."
+      },
+      {
+        "id": "widgets",
+        "title": "Araç takımları ve bildirimler",
+        "body": "Uygulama ve araç takımı korumalı yerel App Group kapsayıcısını paylaşır. Araç takımları varsayılan olarak uygulamaya dahil günlük düşünceleri gösterir. Kaynak olarak favoriler veya kişisel sözler seçerseniz metin Ana Ekran veya Kilitli Ekran'da görünebilir. Günlük ve ruh hâli kayıtları araç takımında asla görünmez. Yerel hatırlatmalar özel yazı içermez. Bildirimler isteğe bağlıdır ve uygulamada veya iOS Ayarları'nda kapatılabilir."
+      },
+      {
+        "id": "photos",
+        "title": "Fotoğraflar ve paylaşım",
+        "body": "Özel arka planlar iOS fotoğraf seçicisini kullanır. Uygulama yalnız seçtiğiniz resmi alır ve özgün fotoğraf meta verileri olmadan küçültülmüş yerel kopya oluşturur. Görsel kaydetmek kitaplığın tamamına erişim değil fotoğraf ekleme izni ister. İçe alınan arka planı kaldırmak Fotoğraflar'daki özgün resmi değiştirmez. Paylaşım ve dosya dışa aktarımı yalnız istediğinizde olur; seçtiğiniz hizmet veya hedef sonrasında paylaşılan kopyayı denetler."
+      },
+      {
+        "id": "apple",
+        "title": "Apple ve satın almalar",
+        "body": "Uygulama içi satın almalar sunulduğunda Apple ödemeyi işler ve uygulamaya doğrulanabilir işlem sağlar. AffirMate kredi kartı veya banka bilgisi işlemez. Deneme erişimi ve kilit açmalar cihazda Apple işlemlerine göre kontrol edilir. Ücretsiz denemeyi başlatmak daha sonra satın almaya yol açmaz. Apple App Store, tanılama ve cihaz verilerini kendi ayarları ve gizlilik kurallarıyla işleyebilir. iOS veya iCloud cihaz yedeğiniz yerel uygulama verilerini içerebilir; AffirMate kendi bulut eşzamanlamasını sağlamaz."
+      },
+      {
+        "id": "delete",
+        "title": "Saklama ve silme",
+        "body": "Yerel içerik siz silene kadar kalır. Günlük kayıtları ve kişisel olumlamalar tek tek kaldırılabilir. Profil yazılarınızı dışa aktarmanızı veya bütün kişisel uygulama verilerini sıfırlamanızı sağlar. Sıfırlama ruh hâli geçmişini, hatırlatmaları ve kişiselleştirmeyi de siler; ancak Apple hesabınızdaki satın almaları veya önceden dışa aktarılmış ya da paylaşılmış kopyaları silmez. Gerekiyorsa bu kopyaları ve eski cihaz yedeklerini ayrıca kaldırın. Yerel içeriğinizi sizin için göremez veya silemeyiz."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Pratiğiniz, seçiminiz",
+        "body": "Olumlamalar, ruh hâli kayıtları ve müzik kişisel düşünmeyi destekler. Hiçbir durumu teşhis veya tedavi etmez, tıbbi veya psikolojik bakımın yerini almaz. Bütün duygular eşit biçimde kabul edilir. Okuma ad, fotoğraf izni veya bildirim gerektirmez."
+      },
+      {
+        "id": "contact",
+        "title": "Sorular ve değişiklikler",
+        "body": "Gizlilik veya erişilebilirlik soruları için: support@swisswise.com. Gizli günlük içeriğini göndermeyin. Destekle iletişim kurduğunuzda gönüllü eklediğiniz bilgileri alır ve isteğinizi yanıtlamak için kullanırız. Bu politika diğer Swisswise ürünlerinden ayrı olarak AffirMate için geçerlidir. Değişiklikler uygulama güncellemesi ve güncellenmiş tarihle sunulur. Yürürlük tarihi: 2026-10-11."
+      }
+    ],
+    "uk": [
+      {
+        "id": "owner",
+        "title": "Видавець",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Ваші дані залишаються на пристрої",
+        "body": "AffirMate не має облікових записів, власного сервера застосунку, реклами або відстеження. Застосунок зберігає необов’язкове ім’я, параметри, улюблене, особисті афірмації, записи щоденника, чернетки, відмітки настрою й вибрані зображення локально на iPhone. Ми не отримуємо цей вміст. Застосунок не завантажує тексти чи зображення до сервісів штучного інтелекту. Афірмації, ілюстрації й інструментальна музика входять до застосунку."
+      },
+      {
+        "id": "widgets",
+        "title": "Віджети й сповіщення",
+        "body": "Застосунок і віджет мають спільний захищений локальний контейнер App Group. Типово віджети показують щоденні думки зі складу застосунку. Якщо обрати джерелом улюблене чи особисті слова, текст може бути видимим на Початковому або Замкненому екрані. Записи щоденника й настрою ніколи не з’являються у віджетах. Локальні нагадування не містять приватних текстів. Сповіщення необов’язкові; їх можна вимкнути в застосунку або Параметрах iOS."
+      },
+      {
+        "id": "photos",
+        "title": "Фото й поширення",
+        "body": "Власні фони використовують системний вибір фото iOS. Застосунок імпортує лише обране зображення й створює локальну копію з меншою роздільністю без метаданих оригіналу. Збереження оформлення запитує дозвіл додавати фото, а не загальний доступ до фототеки. Видалення імпортованого фону не змінює оригінал у «Фотографіях». Поширення й експорт файлів відбуваються лише на ваш запит; надалі спільною копією керує обраний сервіс або місце призначення."
+      },
+      {
+        "id": "apple",
+        "title": "Apple і покупки",
+        "body": "Коли покупки в застосунку доступні, Apple обробляє оплату й надає застосунку транзакцію, яку можна перевірити. AffirMate не обробляє дані карток або банківських рахунків. Пробний доступ і розблокування перевіряються на пристрої за транзакціями Apple. Початок безплатного пробного періоду не спричиняє подальшої покупки. Apple може обробляти дані App Store, діагностики й пристрою за власними параметрами та правилами приватності. Резервна копія пристрою в iOS чи iCloud може містити локальні дані застосунку; AffirMate не надає власної хмарної синхронізації."
+      },
+      {
+        "id": "delete",
+        "title": "Зберігання й видалення",
+        "body": "Локальний вміст зберігається до його видалення вами. Записи щоденника й особисті афірмації можна видаляти окремо. Профіль дає змогу експортувати тексти або скинути всі особисті дані застосунку. Скидання також видаляє історію настрою, нагадування й персоналізацію, але не покупки в обліковому записі Apple чи вже експортовані або надіслані копії. За потреби видаліть такі копії та старі резервні копії пристрою окремо. Ми не можемо переглядати чи видаляти ваш локальний вміст замість вас."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Ваша практика, ваш вибір",
+        "body": "Афірмації, відмітки настрою й музика підтримують особисте осмислення. Вони не діагностують і не лікують жодного стану та не замінюють медичної чи психологічної допомоги. Усі почуття однаково прийнятні. Для читання не потрібні ім’я, дозвіл на фото або сповіщення."
+      },
+      {
+        "id": "contact",
+        "title": "Запитання та зміни",
+        "body": "З питань приватності чи доступності: support@swisswise.com. Не надсилайте конфіденційний вміст щоденника. Коли ви звертаєтеся до підтримки, ми отримуємо добровільно надану інформацію й використовуємо її для відповіді. Ця політика стосується AffirMate окремо від інших продуктів Swisswise. Зміни входять до оновлення застосунку з оновленою датою. Чинна з: 2026-10-11."
+      }
+    ],
+    "ur-PK": [
+      {
+        "id": "owner",
+        "title": "ناشر",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "آپ کا ڈیٹا مقامی رہتا ہے",
+        "body": "AffirMate میں اکاؤنٹ، ایپ کا چلایا ہوا سرور، اشتہار یا ٹریکنگ نہیں۔ ایپ آپ کا اختیاری نام، ترتیبات، پسندیدہ، ذاتی حوصلہ افزا جملے، ڈائری اندراجات، مسودے، مزاج کے اندراجات اور منتخب تصاویر آپ کے iPhone پر مقامی طور پر رکھتی ہے۔ یہ مواد ہمیں نہیں ملتا۔ ایپ تحریر یا تصاویر کسی AI خدمت پر اپ لوڈ نہیں کرتی۔ حوصلہ افزا جملے، تصویری تخلیقات اور سازوں کی موسیقی ایپ میں شامل ہیں۔"
+      },
+      {
+        "id": "widgets",
+        "title": "ویجٹ اور اطلاعات",
+        "body": "ایپ اور ویجٹ ایک محفوظ مقامی App Group کنٹینر بانٹتے ہیں۔ ویجٹ بطور طے شدہ ایپ میں شامل روزانہ خیالات دکھاتے ہیں۔ ماخذ کے طور پر پسندیدہ یا ذاتی الفاظ چنیں تو وہ ہوم یا لاک اسکرین پر نظر آ سکتے ہیں۔ ڈائری اور مزاج کے اندراجات کبھی ویجٹ میں نہیں آتے۔ مقامی یاد دہانیوں میں نجی تحریر نہیں ہوتی۔ اطلاعات اختیاری ہیں اور ایپ یا iOS کی ترتیبات میں بند کی جا سکتی ہیں۔"
+      },
+      {
+        "id": "photos",
+        "title": "تصاویر اور شیئرنگ",
+        "body": "ذاتی پس منظر iOS کے تصویر منتخب کرنے والے نظام سے لیا جاتا ہے۔ ایپ صرف آپ کی منتخب تصویر درآمد کرتی ہے اور اصل تصویر کے میٹا ڈیٹا کے بغیر کم ریزولیوشن کی مقامی نقل بناتی ہے۔ تخلیق محفوظ کرنے پر تصاویر شامل کرنے کی اجازت مانگی جاتی ہے، پوری لائبریری تک عمومی رسائی نہیں۔ درآمد شدہ پس منظر ہٹانے سے Photos میں اصل تصویر نہیں بدلتی۔ شیئرنگ اور فائل برآمد صرف آپ کی درخواست پر ہوتی ہیں؛ اس کے بعد منتخب خدمت یا منزل شیئر شدہ نقل کو کنٹرول کرتی ہے۔"
+      },
+      {
+        "id": "apple",
+        "title": "Apple اور خریداری",
+        "body": "ایپ میں خریداری دستیاب ہونے پر Apple ادائیگی سنبھالتا اور ایپ کو قابل تصدیق لین دین دیتا ہے۔ AffirMate کریڈٹ کارڈ یا بینک کی تفصیلات پر کارروائی نہیں کرتا۔ آزمائشی رسائی اور کھلی خصوصیات کو آلے پر Apple کے لین دین سے جانچا جاتا ہے۔ مفت آزمائش شروع کرنے سے بعد میں خریداری نہیں ہوتی۔ Apple اپنی ترتیبات اور رازداری کے اصولوں کے تحت App Store، تشخیصی اور آلے کے ڈیٹا پر کارروائی کر سکتا ہے۔ آپ کے iOS یا iCloud بیک اپ میں مقامی ایپ ڈیٹا ہو سکتا ہے؛ AffirMate اپنی کلاؤڈ ہم وقت سازی فراہم نہیں کرتا۔"
+      },
+      {
+        "id": "delete",
+        "title": "محفوظ رہنا اور حذف کرنا",
+        "body": "مقامی مواد آپ کے حذف کرنے تک رہتا ہے۔ ڈائری اندراجات اور ذاتی حوصلہ افزا جملے الگ الگ ہٹائے جا سکتے ہیں۔ پروفائل سے اپنی تحریر برآمد یا تمام ذاتی ایپ ڈیٹا ری سیٹ کیا جا سکتا ہے۔ ری سیٹ مزاج کی تاریخ، یاد دہانیاں اور ذاتی ترتیب بھی ہٹاتا ہے، مگر Apple اکاؤنٹ کی خریداری یا پہلے برآمد یا شیئر کی گئی نقول نہیں۔ ضرورت ہو تو وہ نقول اور پرانے آلے کے بیک اپ الگ ہٹائیں۔ ہم آپ کا مقامی مواد نہ دیکھ سکتے ہیں نہ آپ کے لیے حذف کر سکتے ہیں۔"
+      },
+      {
+        "id": "wellbeing",
+        "title": "آپ کی مشق، آپ کی مرضی",
+        "body": "حوصلہ افزا جملے، مزاج کے اندراجات اور موسیقی ذاتی غور و فکر میں مدد دیتے ہیں۔ یہ کسی حالت کی تشخیص یا علاج نہیں کرتے، نہ طبی یا نفسیاتی نگہداشت کا متبادل ہیں۔ تمام احساسات یکساں خوش آمدید ہیں۔ مطالعے کے لیے نام، تصاویر کی اجازت یا اطلاعات ضروری نہیں۔"
+      },
+      {
+        "id": "contact",
+        "title": "سوالات اور تبدیلیاں",
+        "body": "رازداری یا رسائی کے سوالات کے لیے: support@swisswise.com۔ خفیہ ڈائری مواد نہ بھیجیں۔ معاونت سے رابطے پر ہمیں وہ معلومات ملتی ہیں جو آپ رضاکارانہ طور پر شامل کرتے ہیں، اور ہم انہیں جواب دینے کے لیے استعمال کرتے ہیں۔ یہ پالیسی Swisswise کی دوسری مصنوعات سے الگ AffirMate پر لاگو ہے۔ تبدیلیاں ایپ اپ ڈیٹ اور نئی تاریخ کے ساتھ شامل ہوتی ہیں۔ مؤثر تاریخ: 2026-10-11۔"
+      }
+    ],
+    "vi": [
+      {
+        "id": "owner",
+        "title": "Nhà phát hành",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Dữ liệu của bạn lưu cục bộ",
+        "body": "AffirMate không có tài khoản, máy chủ riêng, quảng cáo hay theo dõi. Ứng dụng lưu tên tùy chọn, cài đặt, mục yêu thích, lời khẳng định riêng, nhật ký, bản nháp, ghi nhận tâm trạng và ảnh đã chọn ngay trên iPhone. Chúng tôi không nhận nội dung này. Ứng dụng không tải bài viết hay ảnh lên dịch vụ AI. Lời khẳng định, tranh minh họa và nhạc không lời được tích hợp sẵn."
+      },
+      {
+        "id": "widgets",
+        "title": "Tiện ích và thông báo",
+        "body": "Ứng dụng và tiện ích dùng chung vùng chứa App Group cục bộ được bảo vệ. Mặc định tiện ích hiển thị suy ngẫm hằng ngày tích hợp sẵn. Nếu chọn nguồn là mục yêu thích hoặc lời riêng, văn bản đó có thể hiện trên Màn hình chính hoặc Màn hình khóa. Nhật ký và ghi nhận tâm trạng không bao giờ hiện trên tiện ích. Lời nhắc cục bộ không chứa bài viết riêng tư. Thông báo là tùy chọn và có thể tắt trong ứng dụng hoặc Cài đặt iOS."
+      },
+      {
+        "id": "photos",
+        "title": "Ảnh và chia sẻ",
+        "body": "Nền tùy chỉnh dùng trình chọn ảnh iOS. Ứng dụng chỉ nhập ảnh bạn chọn và tạo bản sao giảm độ phân giải trên thiết bị, không kèm siêu dữ liệu ảnh gốc. Lưu tác phẩm chỉ yêu cầu quyền thêm ảnh, không truy cập toàn bộ thư viện. Gỡ nền đã nhập không làm thay đổi ảnh gốc trong Ảnh. Chia sẻ và xuất tệp chỉ diễn ra khi bạn yêu cầu; sau đó dịch vụ hoặc đích đến bạn chọn quản lý bản sao được chia sẻ."
+      },
+      {
+        "id": "apple",
+        "title": "Apple và giao dịch mua",
+        "body": "Khi có mua hàng trong ứng dụng, Apple xử lý thanh toán và cung cấp giao dịch có thể xác minh cho ứng dụng. AffirMate không xử lý thông tin thẻ tín dụng hay ngân hàng. Quyền dùng thử và mở khóa được đối chiếu với giao dịch Apple trên thiết bị. Bắt đầu dùng thử miễn phí không kích hoạt giao dịch mua sau đó. Apple có thể xử lý dữ liệu App Store, chẩn đoán và thiết bị theo cài đặt và quy tắc quyền riêng tư riêng. Bản sao lưu thiết bị iOS hoặc iCloud có thể chứa dữ liệu ứng dụng cục bộ; AffirMate không cung cấp dịch vụ đồng bộ đám mây riêng."
+      },
+      {
+        "id": "delete",
+        "title": "Lưu giữ và xóa",
+        "body": "Nội dung cục bộ được giữ đến khi bạn xóa. Có thể xóa riêng từng mục nhật ký và lời khẳng định cá nhân. Hồ sơ cho phép xuất bài viết hoặc đặt lại mọi dữ liệu cá nhân của ứng dụng. Đặt lại cũng xóa lịch sử tâm trạng, lời nhắc và tùy chỉnh, nhưng không xóa giao dịch trong tài khoản Apple hay bản sao đã xuất hoặc chia sẻ. Hãy xóa riêng các bản sao đó và bản sao lưu thiết bị cũ nếu cần. Chúng tôi không thể xem hoặc xóa nội dung cục bộ thay bạn."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Bạn thực hành, bạn lựa chọn",
+        "body": "Lời khẳng định, ghi nhận tâm trạng và âm nhạc hỗ trợ việc tự suy ngẫm. Chúng không chẩn đoán, điều trị bất kỳ tình trạng nào hay thay thế chăm sóc y tế hoặc tâm lý. Mọi cảm xúc đều được đón nhận như nhau. Đọc không yêu cầu tên, quyền ảnh hay thông báo."
+      },
+      {
+        "id": "contact",
+        "title": "Câu hỏi và thay đổi",
+        "body": "Câu hỏi về quyền riêng tư hoặc trợ năng: support@swisswise.com. Không gửi nội dung nhật ký bí mật. Khi bạn liên hệ hỗ trợ, chúng tôi nhận thông tin bạn tự nguyện cung cấp và dùng để trả lời yêu cầu. Chính sách này áp dụng riêng cho AffirMate, tách biệt với các sản phẩm Swisswise khác. Thay đổi được đưa vào bản cập nhật ứng dụng cùng ngày cập nhật mới. Có hiệu lực: 2026-10-11."
+      }
     ]
+  },
+  "appStorePolicyLocales": [
+    "ar-SA",
+    "bn-BD",
+    "ca",
+    "zh-Hans",
+    "zh-Hant",
+    "hr",
+    "cs",
+    "da",
+    "nl-NL",
+    "en-AU",
+    "en-CA",
+    "en-GB",
+    "en-US",
+    "fi",
+    "fr-FR",
+    "fr-CA",
+    "de-DE",
+    "el",
+    "gu-IN",
+    "he",
+    "hi",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "kn-IN",
+    "ko",
+    "ms",
+    "ml-IN",
+    "mr-IN",
+    "no",
+    "or-IN",
+    "pl",
+    "pt-BR",
+    "pt-PT",
+    "pa-IN",
+    "ro",
+    "ru",
+    "sk",
+    "sl-SI",
+    "es-MX",
+    "es-ES",
+    "sv",
+    "ta-IN",
+    "te-IN",
+    "th",
+    "tr",
+    "uk",
+    "ur-PK",
+    "vi"
+  ],
+  "translationKinds": {
+    "ar-SA": "MACHINE_TRANSLATION",
+    "bn-BD": "MACHINE_TRANSLATION",
+    "ca": "MACHINE_TRANSLATION",
+    "zh-Hans": "MACHINE_TRANSLATION",
+    "zh-Hant": "MACHINE_TRANSLATION",
+    "hr": "MACHINE_TRANSLATION",
+    "cs": "MACHINE_TRANSLATION",
+    "da": "MACHINE_TRANSLATION",
+    "nl-NL": "MACHINE_TRANSLATION",
+    "en-AU": "EXPLICIT_SOURCE_REUSE",
+    "en-CA": "EXPLICIT_SOURCE_REUSE",
+    "en-GB": "EXPLICIT_SOURCE_REUSE",
+    "en-US": "EXPLICIT_SOURCE_REUSE",
+    "fi": "MACHINE_TRANSLATION",
+    "fr-FR": "MACHINE_TRANSLATION",
+    "fr-CA": "MACHINE_TRANSLATION",
+    "de-DE": "EXPLICIT_SOURCE_REUSE",
+    "el": "MACHINE_TRANSLATION",
+    "gu-IN": "MACHINE_TRANSLATION",
+    "he": "MACHINE_TRANSLATION",
+    "hi": "MACHINE_TRANSLATION",
+    "hu": "MACHINE_TRANSLATION",
+    "id": "MACHINE_TRANSLATION",
+    "it": "MACHINE_TRANSLATION",
+    "ja": "MACHINE_TRANSLATION",
+    "kn-IN": "MACHINE_TRANSLATION",
+    "ko": "MACHINE_TRANSLATION",
+    "ms": "MACHINE_TRANSLATION",
+    "ml-IN": "MACHINE_TRANSLATION",
+    "mr-IN": "MACHINE_TRANSLATION",
+    "no": "MACHINE_TRANSLATION",
+    "or-IN": "MACHINE_TRANSLATION",
+    "pl": "MACHINE_TRANSLATION",
+    "pt-BR": "MACHINE_TRANSLATION",
+    "pt-PT": "MACHINE_TRANSLATION",
+    "pa-IN": "MACHINE_TRANSLATION",
+    "ro": "MACHINE_TRANSLATION",
+    "ru": "MACHINE_TRANSLATION",
+    "sk": "MACHINE_TRANSLATION",
+    "sl-SI": "MACHINE_TRANSLATION",
+    "es-MX": "MACHINE_TRANSLATION",
+    "es-ES": "MACHINE_TRANSLATION",
+    "sv": "MACHINE_TRANSLATION",
+    "ta-IN": "MACHINE_TRANSLATION",
+    "te-IN": "MACHINE_TRANSLATION",
+    "th": "MACHINE_TRANSLATION",
+    "tr": "MACHINE_TRANSLATION",
+    "uk": "MACHINE_TRANSLATION",
+    "ur-PK": "MACHINE_TRANSLATION",
+    "vi": "MACHINE_TRANSLATION"
   }
 }
