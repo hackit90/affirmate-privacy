@@ -1,0 +1,97 @@
+{
+  "effectiveDate": "2026-10-11",
+  "policyLocales": [
+    "en",
+    "de"
+  ],
+  "supportLocales": [
+    "en",
+    "de"
+  ],
+  "policies": {
+    "en": [
+      {
+        "id": "owner",
+        "title": "Publisher",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Your data stays local",
+        "body": "AffirMate has no account, app-operated server, advertising or tracking. The app stores your optional name, settings, favorites, personal affirmations, journal entries, drafts, mood entries and selected pictures locally on your iPhone. We do not receive this content. The app does not upload writing or pictures to an AI service. Affirmations, illustrations and instrumental music are bundled with the app."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgets and notifications",
+        "body": "The app and widget share a protected local App Group container. Widgets show bundled daily thoughts by default. If you choose favorites or personal words as their source, that text may be visible on your Home or Lock Screen. Journal and mood entries never appear in a widget. Local reminders contain no private writing. Notifications are optional and can be turned off in the app or iOS Settings."
+      },
+      {
+        "id": "photos",
+        "title": "Photos and sharing",
+        "body": "Custom backgrounds use the iOS photo picker. The app imports only the image you select and creates a downsampled local copy without the original photo metadata. Saving artwork asks for permission to add photos, not general access to your library. Removing an imported background leaves the original in Photos untouched. Sharing and file export happen only when you request them; your chosen service or destination then controls the shared copy."
+      },
+      {
+        "id": "apple",
+        "title": "Apple and purchases",
+        "body": "When in-app purchases are available, Apple processes payment and supplies a verifiable transaction to the app. AffirMate does not process credit card or bank details. Trial access and unlocks are checked on-device against Apple transactions. Starting the free trial does not trigger a later purchase. Apple may process App Store, diagnostic and device data under its own settings and privacy rules. Your iOS or iCloud device backup may contain local app data; AffirMate does not provide its own cloud synchronization."
+      },
+      {
+        "id": "delete",
+        "title": "Retention and deletion",
+        "body": "Local content remains until you delete it. Journal entries and personal affirmations can be removed individually. Profile lets you export your writing or reset all personal app data. Reset also removes mood history, reminders and customization, but not purchases in your Apple account or copies already exported or shared. Remove those copies and older device backups separately if needed. We cannot view or delete your local content for you."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Your practice, your choice",
+        "body": "Affirmations, mood entries and music support personal reflection. They do not diagnose or treat any condition or replace medical or psychological care. All feelings are equally welcome. Reading does not require a name, photo permission or notifications."
+      },
+      {
+        "id": "contact",
+        "title": "Questions and changes",
+        "body": "For privacy or accessibility questions: support@swisswise.com. Do not send confidential journal content. When you contact support, we receive the information you voluntarily include and use it to answer your request. This policy applies to AffirMate separately from other Swisswise products. Changes are included with an app update and an updated date. Effective: 2026-10-11."
+      }
+    ],
+    "de": [
+      {
+        "id": "owner",
+        "title": "Verantwortlich",
+        "body": "Swisswise GmbH, Weltpoststrasse 8b, 3015 Bern, Switzerland\nsupport@swisswise.com\nCHE-157.478.799"
+      },
+      {
+        "id": "local",
+        "title": "Deine Daten bleiben lokal",
+        "body": "AffirMate verwendet kein Benutzerkonto, keinen eigenen Server, keine Werbung und kein Tracking. Die App speichert deinen optionalen Namen, Einstellungen, Favoriten, eigene Affirmationen, Tagebucheinträge, Entwürfe, Stimmungseinträge und ausgewählte Bilder lokal auf deinem iPhone. Wir erhalten diese Inhalte nicht. Die App lädt keine Texte oder Bilder zu einem KI-Dienst hoch. Affirmationen, Illustrationen und instrumentale Musik sind in der App enthalten."
+      },
+      {
+        "id": "widgets",
+        "title": "Widgets und Mitteilungen",
+        "body": "App und Widget teilen einen lokalen, geschützten App-Gruppen-Container. Standardmässig zeigen Widgets nur enthaltene Tagesgedanken. Wenn du Favoriten oder eigene Worte als Quelle auswählst, können diese auf deinem Home- oder Sperrbildschirm sichtbar sein. Deine Tagebuch- und Stimmungseinträge erscheinen nie im Widget. Lokale Erinnerungen enthalten keine privaten Texte. Mitteilungen sind optional und lassen sich in der App oder in den iOS-Einstellungen ausschalten."
+      },
+      {
+        "id": "photos",
+        "title": "Fotos und Teilen",
+        "body": "Für eigene Hintergründe verwendest du den iOS-Fotowähler. Die App übernimmt nur das von dir ausgewählte Bild und erstellt eine verkleinerte lokale Kopie ohne die ursprünglichen Fotometadaten. Zum Speichern eines gestalteten Bildes fragt die App nach der Berechtigung, Fotos hinzuzufügen; sie benötigt keinen allgemeinen Zugriff auf deine Fotomediathek. Beim Entfernen eines Hintergrunds bleibt das Original in Fotos erhalten. Teilen und Dateiexport geschehen nur nach deiner Aktion; der von dir ausgewählte Dienst oder Speicherort ist dann für die geteilte Kopie verantwortlich."
+      },
+      {
+        "id": "apple",
+        "title": "Apple und Käufe",
+        "body": "Falls In-App-Käufe verfügbar sind, verarbeitet Apple die Zahlung und stellt der App einen überprüfbaren Kaufbeleg bereit. AffirMate verarbeitet keine Kreditkarten- oder Bankdaten. Testzugang und Freischaltung werden anhand von Apples Transaktionen auf dem Gerät geprüft. Das Starten des kostenlosen Tests löst keinen späteren Kauf aus. Apple kann App-Store-, Diagnose- und Gerätedaten nach seinen eigenen Einstellungen und Datenschutzregeln verarbeiten. Deine iOS- oder iCloud-Gerätesicherung kann lokale App-Daten enthalten; AffirMate bietet keine eigene Cloud-Synchronisation."
+      },
+      {
+        "id": "delete",
+        "title": "Aufbewahrung und Löschen",
+        "body": "Lokale Inhalte bleiben bis zu deiner Löschung erhalten. Tagebucheinträge und eigene Affirmationen kannst du einzeln entfernen. Unter Profil kannst du deine Texte exportieren oder alle persönlichen App-Daten zurücksetzen. Der Reset entfernt auch Stimmungseinträge, Erinnerungen und Anpassungen, jedoch keine Käufe im Apple-Konto und keine bereits exportierten oder geteilten Kopien. Entferne solche Kopien und ältere Gerätesicherungen bei Bedarf selbst. Wir können lokale Inhalte weder einsehen noch für dich löschen."
+      },
+      {
+        "id": "wellbeing",
+        "title": "Deine Praxis, deine Entscheidung",
+        "body": "Affirmationen, Stimmungseinträge und Musik dienen der persönlichen Reflexion. Sie diagnostizieren oder behandeln keine Erkrankung und ersetzen keine medizinische oder psychologische Begleitung. Jeder Gefühlseintrag ist gleich willkommen. Du brauchst keinen Namen, keine Fotoberechtigung und keine Mitteilungen, um zu lesen."
+      },
+      {
+        "id": "contact",
+        "title": "Fragen und Änderungen",
+        "body": "Bei Fragen zu Datenschutz oder Barrierefreiheit: support@swisswise.com. Sende uns keine vertraulichen Tagebuchinhalte. Wenn du den Support kontaktierst, erhalten wir die Angaben, die du freiwillig mitsendest, und verwenden sie zur Bearbeitung deiner Anfrage. Diese Erklärung gilt für AffirMate und ist von den Regeln anderer Swisswise-Produkte getrennt. Änderungen werden mit dem App-Update und einem neuen Datum kenntlich gemacht. Stand: 2026-10-11."
+      }
+    ]
+  }
+}
